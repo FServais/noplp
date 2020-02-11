@@ -1,0 +1,191 @@
+﻿Comme tout le monde j' ai mes défauts
+J' ai pas toujours les mots qu' il faut
+Mais si tu lis entre les lignes
+Tu trouveras dans mes chansons
+Tout ce que je n' ai pas su te dire
+
+Il y a des fautes d' impression
+Des je t' aime un peu brouillons
+Malgré les accords malhabiles
+Tu trouveras dans mes chansons
+Tout ce que je n' ai pas osé te dire
+
+(Tu trouveras)
+Mes blessures et mes faiblesses
+Celles que j' avoue qu' à demi-mot
+(Tu trouveras)
+Mes faux-pas mes maladresses
+Et de l' amour plus qu' il n' en faut
+J' ai tellement peur que tu me laisses
+Sache que si j' en fais toujours trop
+(Tu trouveras)
+C' est pour qu' un peu tu me restes
+Tu me restes
+
+Il y en a d' autres que t' aimeras
+Bien plus belles plus fortes que moi
+Je leur laisserais bien sûr la place
+Quand je n' aurai plus dans mes chansons
+Plus rien à te dire en face
+Le temps vous endurcit de tout
+Des illusions des mauvais coups
+Si je n' ai pas su te retenir
+Sache qu' il y a dans mes chansons
+Tout ce que je n' ai pas eu le temps de dire
+
+(Tu trouveras)
+Mes blessures et mes faiblesses
+Celles que j' avoue qu' à demi-mot
+(Tu trouveras)
+Mes faux-pas mes maladresses
+Et de l' amour plus qu' il n' en faut
+J' ai tellement peur que tu me laisses
+Sache que si j' en fais toujours trop
+(Tu trouveras)
+C' est pour qu' un peu tu me restes
+Tu me restes
+
+Tu trouveras
+Mes blessures et mes faiblesses
+(Mes faiblesses)
+Celles que j' avoue qu' à demi-mot
+(Demi-mot)
+Mes faux-pas mes maladresses
+(Maladresses)
+Et de l' amour plus qu' il n' en faut
+(Plus qu' il n' en faut)
+J' ai tellement peur que tu me laisses
+(Que tu me laisses)
+Sache que si j' en fais toujours trop
+(Mmmmh)
+C' est pour qu' un peu tu me restes
+Tu me restes
+
+Tu trouveras
+Mes blessures et mes faiblesses
+(Mes faiblesses)
+Celles que j' avoue qu' à demi-mot
+(à demi-mot)
+Mes faux-pas mes maladresses
+(Maladresses)
+Et de l' amour plus qu' il n' en faut
+(Plus qu' il n' en faut)
+J' ai tellement peur que tu me laisses
+(Que tu me laisses)
+Sache que si j' en fais toujours trop
+(toujours trop)
+C' est pour qu' un peu tu me restes
+Tu me restes
+
+Mes blessures et mes faiblesses
+(Mes faiblesses)
+Celles que j' avoue qu' à demi-mot
+(à demi-mot)
+Mes faux-pas mes maladresses
+(Maladresses)
+Et de l' amour plus qu' il n' en faut
+(Plus qu' il n' en faut)
+J' ai tellement peur que tu me laisses
+(Que tu me laisses)
+Sache que si j' en fais toujours trop
+(toujours trop)
+C' est pour qu' un peu tu me restes
+Tu me restes
+
+
+<50>
+en a d' autres que t' aimeras
+Bien plus belles plus fortes que moi
+Je leur laisserais bien sûr la place
+je n' aurai plus dans mes chansons
+Plus rien à te dire en face
+de tout Des illusions des mauvais coups
+Si je n' ai pas su te retenir
+Sache qu' il y a dans mes chansons
+je n' ai pas eu le temps de dire
+
+<40>
+a d' autres que t' aimeras
+plus belles plus fortes que moi
+leur laisserais bien sûr la place
+je n' aurai plus dans mes chansons
+Plus rien à te dire en face
+Le temps vous endurcit de tout
+tout Des illusions des mauvais coups
+je n' ai pas su te retenir
+qu' il y a dans mes chansons
+n' ai pas eu le temps de dire
+
+<30>
+plus qu' il n' en faut
+tellement peur que tu me laisses
+si j' en fais toujours trop
+qu' un peu tu me restes
+belles plus fortes que moi
+bien sûr la place
+à te dire en face
+vous endurcit de tout
+illusions des mauvais coups
+eu le temps de dire
+
+<20>
+faux-pas mes maladresses
+qu' il n' en faut
+que tu me laisses
+fais toujours trop
+tu me restes
+que t' aimeras
+fortes que moi
+bien sûr la place
+dans mes chansons
+dire en face
+endurcit de tout
+des mauvais coups
+
+<10>
+mes maladresses
+n' en faut
+me laisses
+toujours trop
+me restes
+que t' aimeras
+que moi
+la place
+mes chansons
+en face
+mauvais coups
+
+<0>
+su te dire
+
+<1000>
+mes défauts
+qu' il faut
+les lignes
+mes chansons
+te dire
+
+<2000>
+des fautes d' impression
+un peu brouillons
+Malgré les accords malhabiles
+trouveras dans mes chansons
+pas osé te dire
+
+<5000>
+Celles que j' avoue qu' à demi-mot
+de l' amour plus qu' il n' en faut
+J' ai tellement peur que tu me laisses
+Sache que si j' en fais toujours trop
+C' est pour qu' un peu tu me restes
+
+<10000>
+que t' aimeras Bien plus belles plus fortes que moi
+fortes que moi Je leur laisserais bien sûr la place
+dans mes chansons Plus rien à te dire en face
+
+<20000>
+vous endurcit de tout Des illusions des mauvais coups Si je n' ai pas su te retenir
+y a dans mes chansons Tout ce que je n' ai pas eu le temps de dire
+
+<END>

@@ -1,0 +1,128 @@
+﻿Désormais
+On ne nous verra plus ensemble
+Désormais
+Mon cœur vivra sous les décombres
+De ce monde qui nous ressemble
+Et que le temps a dévasté
+
+Désormais
+Ma voix ne dira plus je t' aime
+Désormais
+Moi qui voulais être ton ombre
+Je serai l' ombre de moi-même
+Ma main de ta main séparée
+
+Jamais plus
+Nous ne mordrons au même fruit
+Ne dormirons au même lit
+Ne referons les mêmes gestes
+Jamais plus
+Ne connaîtrons la même peur
+De voir s' enfuir notre bonheur
+Et du reste
+Désormais
+
+Désormais
+Les gens nous verrons l' un sans l' autre
+Désormais
+Nous changerons nos habitudes
+Et ces mots que je croyais nôtres
+Tu les diras dans d' autres bras
+
+Désormais
+Je garderai ma porte close
+Désormais
+Enfermé dans ma solitude
+Je trainerai parmi les choses
+Qui parleront toujours de toi
+
+Jamais plus
+Nous ne mordrons au même fruit
+Ne dormirons au même lit
+Ne referons les mêmes gestes
+Jamais plus
+Ne connaîtrons la même peur
+De voir s' enfuir notre bonheur
+Et du reste
+Désormais
+
+On ne nous verra plus ensemble
+On ne nous verra plus ensemble
+On ne nous verra plus ensemble
+
+
+
+<50>
+Les gens nous verrons l' un sans l' autre
+Et ces mots que je croyais nôtres
+Tu les diras dans d' autres bras
+dans ma solitude Je trainerai parmi les choses
+parmi les choses Qui parleront toujours de toi
+
+<40>
+nous verrons l' un sans l' autre
+Et ces mots que je croyais nôtres
+Tu les diras dans d' autres bras
+ma solitude Je trainerai parmi les choses
+les choses Qui parleront toujours de toi
+
+<30>
+dira plus je t' aime
+serai l' ombre de moi-même
+Ma main de ta main séparée
+Nous ne mordrons au même fruit
+Ne dormirons au même lit
+Ne referons les mêmes gestes
+Ne connaîtrons la même peur
+De voir s' enfuir notre bonheur
+l' un sans l' autre
+les diras dans d' autres bras
+
+<20>
+mordrons au même fruit
+dormirons au même lit
+referons les mêmes gestes
+s' enfuir notre bonheur
+Et du reste Désormais
+
+<10>
+même fruit
+même lit
+mêmes gestes
+même peur
+notre bonheur
+du reste
+
+<0>
+séparée
+
+<1000>
+plus ensemble
+les décombres
+nous ressemble
+a dévasté
+
+<2000>
+plus je t' aime
+voulais être ton ombre
+l' ombre de moi-même
+de ta main séparée
+
+<5000>
+plus Nous ne mordrons au même fruit
+même fruit Ne dormirons au même lit
+même lit Ne referons les mêmes gestes
+Jamais plus Ne connaîtrons la même peur
+De voir s' enfuir notre bonheur Et du reste
+s' enfuir notre bonheur Et du reste Désormais
+
+<10000>
+Les gens nous verrons l' un sans l' autre Désormais
+l' un sans l' autre Désormais Nous changerons nos habitudes
+que je croyais nôtres Tu les diras dans d' autres bras
+
+<20000>
+Je garderai ma porte close Désormais Enfermé dans ma solitude Je trainerai parmi les choses
+Désormais Enfermé dans ma solitude Je trainerai parmi les choses Qui parleront toujours de toi
+
+<END>

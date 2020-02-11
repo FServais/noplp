@@ -1,0 +1,126 @@
+﻿Armstrong je ne suis pas noir
+Je suis blanc de peau
+Quand on veut chanter l' espoir
+Quel manque de pot
+Oui j' ai beau voir le ciel 
+l' oiseau
+Rien rien rien ne luit là-haut
+Les anges
+zéro
+Je suis blanc de peau
+
+Armstrong tu te fends la poire
+On voit toutes tes dents
+Moi je broie plutôt du noir
+Du noir en dedans
+Chante pour moi Louis
+oh oui
+Chante chante chante ça tient chaud
+J' ai froid
+oh moi
+Qui suis blanc de peau
+
+Armstrong la vie quelle histoire
+C' est pas très marrant
+Qu' on l' écrive blanc sur noir
+Ou bien noir sur blanc
+On voit surtout du rouge
+du rouge
+Sang sang sans trêve ni repos
+Qu' on soit
+ma foi
+Noir ou blanc de peau
+
+Armstrong un jour tôt ou tard
+On n' est que des os
+Est-ce que les tiens seront noirs
+Ce s'rait rigolo
+Allez Louis alléluia
+Au-delà de nos oripeaux
+Noir et blanc
+sont ressemblants
+Comme deux gouttes d' eau
+
+
+<50>
+te fends la poire On voit toutes tes dents
+je broie plutôt du noir Du noir en dedans
+Du noir en dedans Chante pour moi Louis
+Chante chante chante ça tient chaud J' ai froid
+la vie quelle histoire C' est pas très marrant
+blanc sur noir Ou bien noir sur blanc
+du rouge du rouge Sang sang sans trêve ni repos
+Qu' on soit ma foi Noir ou blanc de peau
+
+<40>
+la poire On voit toutes tes dents
+plutôt du noir Du noir en dedans
+en dedans Chante pour moi Louis
+ça tient chaud J' ai froid
+quelle histoire C' est pas très marrant
+sur noir Ou bien noir sur blanc
+Sang sang sans trêve ni repos
+ma foi Noir ou blanc de peau
+
+<30>
+tu te fends la poire
+On voit toutes tes dents
+je broie plutôt du noir
+noir en dedans
+Chante pour moi Louis
+chante ça tient chaud
+suis blanc de peau
+
+<20>
+fends la poire
+toutes tes dents
+plutôt du noir
+noir en dedans
+pour moi Louis
+ça tient chaud
+J' ai froid
+
+<10>
+la poire
+tes dents
+du noir
+en dedans
+moi Louis
+tient chaud
+
+<0>
+le ciel
+
+<1000>
+de peau
+l' espoir
+de pot
+le ciel
+l' oiseau
+luit là-haut
+anges zéro
+
+<2000>
+te fends la poire
+voit toutes tes dents
+broie plutôt du noir
+noir Du noir en dedans
+Chante pour moi Louis
+
+<5000>
+Chante chante chante ça tient chaud
+moi Qui suis blanc de peau
+quelle histoire C' est pas très marrant
+Qu' on l' écrive blanc sur noir
+sur blanc On voit surtout du rouge
+
+<10000>
+Sang sang sans trêve ni repos Qu' on soit ma foi
+Qu' on soit ma foi Noir ou blanc de peau
+un jour tôt ou tard On n' est que des os
+
+<20000>
+les tiens seront noirs Ce s'rait rigolo Allez Louis alléluia Au-delà de nos oripeaux
+Au-delà de nos oripeaux Noir et blanc sont ressemblants Comme deux gouttes d' eau
+
+<END>

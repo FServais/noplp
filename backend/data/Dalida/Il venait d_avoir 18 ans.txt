@@ -1,0 +1,138 @@
+﻿Il venait d' avoir dix-huit ans
+Il était beau comme un enfant
+Fort comme un homme
+
+C' était l' été évidemment
+Et j' ai compté en le voyant
+Mes nuits d' automne
+
+J' ai mis de l' ordre à mes cheveux
+Un peu plus de noir sur mes yeux
+Ça l' a fait rire
+
+Quand il s' est approché de moi
+J' aurais donné n' importe quoi
+Pour le séduire
+
+Il venait d' avoir dix-huit ans
+C' était le plus bel argument
+De sa victoire
+
+Il ne m' a pas parlé d' amour
+Il pensait que les mots d' amour
+Sont dérisoires
+
+Il m' a dit J' ai envie de toi
+Il avait vu au cinéma
+Le blé en herbe
+
+Au creux d' un lit improvisé
+J' ai découvert émerveillée
+Un ciel superbe
+
+Il venait d' avoir dix-huit ans
+Ça le rendait presque insolent
+De certitude
+
+Et pendant qu' il se rhabillait
+Déjà vaincue je retrouvais
+Ma solitude
+
+J' aurais voulu le retenir
+Pourtant je l' ai laissé partir
+Sans faire un geste
+
+Il m' a dit c' était pas si mal
+Avec la candeur infernale
+De sa jeunesse
+
+J' ai mis de l' ordre à mes cheveux
+Un peu plus de noir sur mes yeux
+Par habitude
+
+J' avais oublie simplement
+Que j' avais deux fois
+Dix-huit ans
+
+
+
+<50>
+que les mots d' amour Sont dérisoires
+m' a dit J' ai envie de toi
+avait vu au cinéma Le blé en herbe
+J' ai découvert émerveillée Un ciel superbe
+Ça le rendait presque insolent De certitude
+Déjà vaincue je retrouvais Ma solitude
+le retenir Pourtant je l' ai laissé partir
+l' ai laissé partir Sans faire un geste
+
+<40>
+plus bel argument De sa victoire
+les mots d' amour Sont dérisoires
+J' ai envie de toi
+au cinéma Le blé en herbe
+découvert émerveillée Un ciel superbe
+le rendait presque insolent De certitude
+Déjà vaincue je retrouvais Ma solitude
+
+<30>
+donné n' importe quoi
+le plus bel argument
+argument De sa victoire
+mots d' amour Sont dérisoires
+J' ai envie de toi
+Le blé en herbe
+d' un lit improvisé
+émerveillée Un ciel superbe
+
+<20>
+à mes cheveux
+sur mes yeux
+l' a fait rire
+n' importe quoi
+Pour le séduire
+De sa victoire
+d' amour Sont dérisoires
+envie de toi
+blé en herbe
+
+<10>
+mes cheveux
+mes yeux
+fait rire
+le séduire
+sa victoire
+Sont dérisoires
+
+<0>
+Mes nuits d' automne
+
+<1000>
+un homme
+d' automne
+
+<2000>
+l' ordre à mes cheveux
+noir sur mes yeux
+l' a fait rire
+est approché de moi
+donné n' importe quoi
+Pour le séduire
+
+<5000>
+le plus bel argument De sa victoire
+que les mots d' amour Sont dérisoires
+m' a dit J' ai envie de toi
+avait vu au cinéma Le blé en herbe
+
+<10000>
+d' un lit improvisé J' ai découvert émerveillée Un ciel superbe
+d' avoir dix-huit ans Ça le rendait presque insolent De certitude
+qu' il se rhabillait Déjà vaincue je retrouvais Ma solitude
+
+<20000>
+J' aurais voulu le retenir Pourtant je l' ai laissé partir Sans faire un geste
+Il m' a dit c' était pas si mal Avec la candeur infernale De sa jeunesse
+
+
+<END>

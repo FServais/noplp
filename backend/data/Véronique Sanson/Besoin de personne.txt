@@ -1,0 +1,101 @@
+﻿Je n' ai eu besoin de personne
+Pour le rencontrer un jour
+Ni qu' on me raisonne
+Pour m' aider à voir l' amour
+
+Besoin de personne
+Quand je me suis fait ma loi
+Besoin de personne
+Quand il est venu vers moi
+Vers moi
+
+(Oh) Je l' ai conquis toute seule
+Il m' a offert toute sa vie
+Je crois que j' ai dit oui
+Oui
+(Oh) Je l' ai conquis toute seule
+Il m' a offert toute ses nuits
+Je crois que j' ai tout pris
+Que j' ai tout pris
+
+Besoin de personne
+Pour choisir le chemin de ma vie
+Besoin de personne
+Pour pleurer quand il me renie
+
+Besoin de personne
+Quand je me suis fait ma loi
+Besoin de personne
+Quand il est venu vers moi
+Vers moi
+
+(Oh) Je l' ai conquis toute seule
+Il m' a offert toute sa vie
+Je crois que j' ai dit oui
+Oui
+(Oh) Je l' ai conquis toute seule
+Il m' a offert toute ses nuits
+Je crois que j' ai tout pris
+Que j' ai tout pris
+
+Besoin de personne
+Pour le rencontrer un jour
+Ni qu' on me raisonne
+Pour m' aider à voir l' amour
+
+
+<50>
+Je crois que j' ai dit oui
+Je crois que j' ai tout pris
+de personne Pour choisir le chemin de ma vie
+de personne Pour pleurer quand il me renie
+
+<40>
+Je crois que j' ai dit oui
+Je crois que j' ai tout pris
+Pour choisir le chemin de ma vie
+personne Pour pleurer quand il me renie
+
+<30>
+que j' ai dit oui
+que j' ai tout pris
+choisir le chemin de ma vie
+pleurer quand il me renie
+
+<20>
+conquis toute seule
+toute sa vie
+j' ai dit oui
+toute ses nuits
+j' ai tout pris
+
+<10>
+toute seule
+sa vie
+dit oui
+ses nuits
+tout pris
+
+<0>
+ma loi
+
+<1000>
+un jour
+me raisonne
+l' amour
+
+<2000>
+suis fait ma loi
+est venu vers moi
+
+<5000>
+Il m' a offert toute sa vie
+Je crois que j' ai dit oui
+
+<10000>
+toute ses nuits Je crois que j' ai tout pris
+
+<20000>
+Pour choisir le chemin de ma vie Besoin de personne Pour pleurer quand il me renie
+
+<END>

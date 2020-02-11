@@ -1,0 +1,107 @@
+﻿J' ai tant caché mes différences
+Sous des airs ou des faux-semblants
+J' ai cru que d' autres pas de danses
+Me cacheraient aux yeux des gens
+Je n' ai jamais suivi vos routes
+J' ai voulu tracer mon chemin
+
+Pour aller plus haut aller plus haut
+Où l' on oublie ses souvenirs
+Aller plus haut aller plus haut
+Se rapprocher de l' avenir
+
+J' ai perdu tant de fois la trace
+Des rêves pour lesquels je vivais
+Je n' ai pas su te dire je t' aime
+Seulement te garder
+Il faut aussi dire ses doutes
+Et les poser dans d' autres mains
+
+Pour aller plus haut aller plus haut
+Et dessiner des souvenirs
+Aller plus haut aller plus haut
+Et croire encore à l' avenir
+
+Pour aller plus haut aller plus haut
+Et dessiner des souvenirs
+Aller plus haut aller plus haut
+Et croire encore à l' avenir
+Aller plus haut aller plus haut
+Se rapprocher de l' avenir
+
+
+
+
+<50>
+la trace Des rêves pour lesquels je vivais
+n' ai pas su te dire je t' aime
+te dire je t' aime Seulement te garder
+Il faut aussi dire ses doutes
+Et les poser dans d' autres mains
+aller plus haut Et dessiner des souvenirs
+aller plus haut Et croire encore à l' avenir
+
+<40>
+Des rêves pour lesquels je vivais
+pas su te dire je t' aime
+je t' aime Seulement te garder
+Il faut aussi dire ses doutes
+les poser dans d' autres mains
+plus haut Et dessiner des souvenirs
+Et croire encore à l' avenir
+
+
+<30>
+tant de fois la trace
+pour lesquels je vivais
+te dire je t' aime
+aussi dire ses doutes
+poser dans d' autres mains
+
+<20>
+l' on oublie ses souvenirs
+Se rapprocher de l' avenir
+fois la trace
+lesquels je vivais
+je t' aime
+Seulement te garder
+dire ses doutes
+d' autres mains
+
+<10>
+mon chemin
+ses souvenirs
+l' avenir
+la trace
+je vivais
+je t' aime
+te garder
+ses doutes
+
+<0>
+mon chemin
+
+<1000>
+mes différences
+des airs
+des faux-semblants
+
+<2000>
+d' autres pas de danses
+aux yeux des gens
+jamais suivi vos routes
+J' ai voulu tracer mon chemin
+
+<5000>
+aller plus haut Où l' on oublie ses souvenirs
+aller plus haut Se rapprocher de l' avenir
+
+<10000>
+tant de fois la trace Des rêves pour lesquels je vivais
+
+<20000>
+Je n' ai pas su te dire je t' aime Seulement te garder
+Il faut aussi dire ses doutes Et les poser dans d' autres mains
+
+
+<END>

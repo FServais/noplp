@@ -1,0 +1,141 @@
+﻿L' hiver s' installe doucement dans la nuit
+La neige est reine à son tour
+Un royaume de solitude
+Ma place est là pour toujours
+Le vent qui hurle en moi ne pense plus à demain
+Il est bien trop fort
+J' ai lutté en vain
+Cache tes pouvoirs n' en parle pas
+Fais attention le secret survivra
+Pas d' états d' âme pas de tourments
+De sentiments
+
+Libérée délivrée
+Je ne mentirai plus jamais
+Libérée délivrée
+C' est décidé je m' en vais
+J' ai laissé mon enfance en été
+Perdue dans l' hiver
+Le froid est pour moi le prix de la liberté
+
+Quand on prend de la hauteur
+Tout semble insignifiant
+La tristesse l' angoisse et la peur
+M' ont quittées depuis longtemps
+Je veux voir ce que je peux faire
+De cette magie pleine de mystères
+Le bien le mal je dis tant pis tant pis
+
+Libérée Délivrée
+Les étoiles me tendent les bras
+Libérée Délivrée
+Non je ne pleure pas
+Me voilà
+Oui je suis là
+Perdue dans l' hiver
+
+Mon pouvoir vient du ciel et envahit l' espace
+Mon âme s' exprime en dessinant et sculptant dans la glace
+Et mes pensées sont des fleurs de cristal gelées
+Je ne reviendrai pas
+Le passé est passé
+
+Libérée Délivrée
+Désormais plus rien ne m' arrête
+Libérée Délivrée
+Plus de princesse parfaite
+Je suis là
+Comme je l' ai rêvé
+Perdue dans l' hiver
+
+Le froid est pour moi le prix de la liberté
+
+
+<50>
+Le froid est pour moi le prix de la liberté
+on prend de la hauteur Tout semble insignifiant
+et la peur M' ont quittées depuis longtemps
+peux faire De cette magie pleine de mystères
+le mal je dis tant pis tant pis
+le bien le mal je dis tant pis
+vient du ciel et envahit l' espace
+en dessinant et sculptant dans la glace
+pensées sont des fleurs de cristal gelées
+
+<40>
+prend de la hauteur Tout semble insignifiant
+la peur M' ont quittées depuis longtemps
+De cette magie pleine de mystères
+je dis tant pis tant pis
+le mal je dis tant pis
+Les étoiles me tendent les bras
+
+<30>
+décidé je m' en vais
+laissé mon enfance en été
+le prix de la liberté
+la hauteur Tout semble insignifiant
+M' ont quittées depuis longtemps
+ce que je peux faire
+cette magie pleine de mystères
+je dis tant pis
+
+<20>
+mentirai plus jamais
+je m' en vais
+mon enfance en été
+Perdue dans l' hiver
+dans l' hiver
+de la liberté
+Tout semble insignifiant
+quittées depuis longtemps
+pleine de mystères
+
+<10>
+plus jamais
+en été
+l' hiver
+la liberté
+semble insignifiant
+depuis longtemps
+de mystères
+tant pis
+
+<0>
+De sentiments
+
+<1000>
+son tour
+pour toujours
+à demain
+trop fort
+en vain
+parle pas
+secret survivra
+de tourments
+De sentiments
+
+<2000>
+ne mentirai plus jamais
+je m' en vais
+mon enfance en été
+Perdue dans l' hiver
+le prix de la liberté
+
+<5000>
+prend de la hauteur Tout semble insignifiant
+et la peur M' ont quittées depuis longtemps
+peux faire De cette magie pleine de mystères
+Le bien le mal je dis tant pis
+le mal je dis tant pis tant pis
+
+<10000>
+Non je ne pleure pas Me voilà Oui je suis là
+Mon pouvoir vient du ciel et envahit l' espace
+Mon âme s' exprime en dessinant et sculptant dans la glace
+
+<20000>
+mes pensées sont des fleurs de cristal gelées je ne reviendrai pas Le passé est passé
+ne m' arrête Libérée Délivrée Plus de princesse parfaite Je suis là Comme je l' ai rêvé
+
+<END>

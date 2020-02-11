@@ -1,0 +1,163 @@
+﻿On casse ta porte c' est la Gestapo
+J' vais t' retrouver Meugui Columbo
+Ça veut vendre des tonnes à la Gustavo
+Un café sans sucre j' en ai plein sur l' dos
+Hé ouais ma puce la thune rend beau
+Ça va faire six ans qu' on met des combos
+Je manie les mélos Waraoui Warano
+Tu te demandes si c' est pas un complot
+
+Haut les mains haut les mains
+Sauf les mecs sapés en Balmain
+Balmain Balmain
+Sarouel façon Aladdin
+Haut les mains haut les mains
+Sauf les mecs sapés en Balmain
+Balmain Balmain
+Sarouel façon Aladdin
+
+Passe avant minuit (Passe avant minuit)
+Je vais t' faire vivre un dream (Je vais t' faire vivre un dream)
+Avance sur la piste les yeux sont rivés sur toi
+Les habits qui brillent tels Les Mille Et Une Nuits
+Paris est vraiment ma-ma-ma-magique
+
+Sapés comme jamais (jamais)
+Sapés comme jamais (jamais)
+Sapés comme jamais (jamais)
+Sapés comme jamais
+Loulou' et 'Boutin (bando)
+Loulou' et 'Boutin (' Boutin na 'Boutin)
+Coco na Chanel (Coco)
+Coco na Chanel (Coco Chanel)
+
+Niama na ngwaku des ngwaku
+Je contrôle la ne-zo apprécie mon parcours
+Handek à ta go sale petit coquin t' es cocu
+Quand elle m' a vu elle t' a plaqué
+Ferregamo peau de croco sur la chaussure
+J' suis Congolais tu vois je veux dire?
+Hein hein Norbatisé
+Maître Gims m' a convoitisé
+Charlie Delta localisé
+Les mbilas sont focalisés
+Sapés comme jaja jamain
+Dorénavant je fais des jaloux j' avoue
+Je vis que pour la victoire imbécile
+La concurrence à ma vessie
+Loubou' Zano' et Hermès
+Louis Vuitton sac je veux la recette
+(Bando na bando)
+
+Passe avant minuit (Passe avant minuit)
+Je vais te faire vivre un dream (Je vais te faire vivre un dream)
+Avance sur la piste les yeux sont rivés sur toi
+Les habits qui brillent tels Les Mille Et Une Nuits
+Paris est vraiment ma-ma-ma-magique
+
+Sapés comme jamais (jamais)
+Sapés comme jamais (jamais)
+Sapés comme jamais (jamais)
+Sapés comme jamais
+Loulou' et 'Boutin (bando)
+Loulou' et 'Boutin (' Boutin na 'Boutin)
+Coco na Chanel (Coco)
+Coco na Chanel (Coco Chanel)
+
+Kinshasa na Brazza (God bless)
+Libreville Abidjan (God bless)
+Yaoundé na Douala (God bless)
+Bamako na Dakar (God bless)
+Dany Synthé oh (God bless)
+Bedjik na Darcy hé (God bless)
+Bilou na Dem-dem (God bless)
+Djuna Djanana hé (God bless)
+
+Sapés comme jamais (jamais)
+Sapés comme jamais (jamais)
+Sapés comme jamais (jamais)
+Sapés comme jamais
+Loulou' et 'Boutin (bando)
+Loulou' et 'Boutin (' Boutin na 'Boutin)
+Coco na Chanel (Coco)
+Coco na Chanel (Coco Chanel)
+
+
+
+<50>
+elle m' a vu elle t' a plaqué
+J' suis Congolais tu vois je veux dire?
+Maître Gims m' a convoitisé Charlie Delta localisé
+Dorénavant je fais des jaloux j' avoue
+je vis que pour la victoire imbécile
+la victoire imbécile La concurrence à ma vessie
+
+<40>
+sale petit coquin t' es cocu
+m' a vu elle t' a plaqué
+Congolais tu vois je veux dire?
+m' a convoitisé Charlie Delta localisé
+je fais des jaloux j' avoue
+que pour la victoire imbécile
+imbécile La concurrence à ma vessie
+
+<30>
+coquin t' es cocu
+elle t' a plaqué
+croco sur la chaussure
+vois je veux dire?
+des jaloux j' avoue
+pour la victoire imbécile
+La concurrence à ma vessie
+
+<20>
+Sarouel façon Aladdin
+Passe avant minuit
+vivre un dream
+sont rivés sur toi
+Les Mille Et Une Nuits
+t' es cocu
+t' a plaqué
+sur la chaussure
+jaloux j' avoue
+la victoire imbécile
+à ma vessie
+
+<10>
+façon Aladdin
+avant minuit
+un dream
+sur toi
+qui brillent
+la chaussure
+ma vessie
+
+<0>
+Haut les mains haut les mains
+
+<1000>
+la Gestapo
+la Gustavo
+l' dos
+rend beau
+
+<2000>
+qu' on met des combos
+c' est pas un complot
+les mecs sapés en Balmain
+
+<5000>
+Je vais t' faire vivre un dream
+la piste les yeux sont rivés sur toi
+qui brillent tels Les Mille Et Une Nuits
+
+<10000>
+t' es cocu Quand elle m' a vu elle t' a plaqué
+sur la chaussure J' suis Congolais tu vois je veux dire?
+Maître Gims m' a convoitisé Charlie Delta localisé Les mbilas sont focalisés
+
+<20000>
+des jaloux J' avoue je vis que pour la victoire imbécile La concurrence à ma vessie
+La concurrence à ma vessie Loubou' Zano' et Hermès Louis Vuitton sac je veux la recette
+
+<END>

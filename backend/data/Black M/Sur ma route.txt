@@ -1,0 +1,189 @@
+﻿Sur ma route oui il y a eu du move oui
+De l' aventure dans l' movie une vie de roots
+Sur ma route oui je n' compte plus les soucis
+De quoi devenir fou oui une vie de roots
+
+Sur ma route oui il y a eu du move oui
+De l' aventure dans l' movie une vie de roots
+Sur ma route oui je n' compte plus les soucis
+De quoi devenir fou oui une vie de roots
+
+Sur ma route
+Sur ma route
+Sur ma route
+Sur ma route
+
+Sur ma route j' ai eu des moments de doute
+J' marchais sans savoir vers où j' étais têtu rien à foutre
+Sur ma route j' avais pas d' bagage en soute
+Et dans ma poche pas un sou juste la famille entre nous
+
+Sur ma route y' a eu un tas d' bouchons
+La vérité j' ai souvent trébuché
+Est-ce que tu sais que quand tu touches le fond
+Il y a peu de gens chez qui tu peux te réfugier
+Tu peux compter que sur tes chers parents
+Parce que les amis eux disparaissent un par un
+Oui il m' arrive d' avoir le front au sol
+Parce que Dieu est grand et on nait seul on meurt seul
+
+Sur ma route oui il y a eu du move oui
+De l' aventure dans l' movie une vie de roots
+Sur ma route oui je n' compte plus les soucis
+De quoi devenir fou oui une vie de roots
+
+Sur ma route
+Sur ma route
+Sur ma route
+Sur ma route
+
+Sur ma route on m' a fait des coups en douce
+L' impression qu' mon cœur en souffre
+mais j' suis sous anesthésie
+Sur mon chemin j' ai croisé pas mal d' anciens
+Ils me parlaient du lendemain et que tout allait si vite
+
+Ne me parle pas de nostalgie
+Parce que j' t' avoue que mon cœur est trop fragile
+J' suis comme un pirate naufragé
+Oui mon équipage est plus qu' endommagé
+Je sèche mes larmes j' baisse les armes
+J' veux même plus savoir pourquoi ils m' testent les autres
+Si y' a plus rien à prendre je sais qu' il m' reste une chose
+Et ma route elle est trop longue pas l' temps de faire une pause
+
+Sur ma route oui il y a eu du move oui
+De l' aventure dans l' movie une vie de roots
+Sur ma route oui je n' compte plus les soucis
+De quoi devenir fou oui une vie de roots
+
+Sur ma route
+Sur ma route
+Sur ma route
+Sur ma route
+
+Sur ma route
+Sur ma route
+
+Sur ma route oui il y a eu du move oui
+De l' aventure dans l' movie une vie de roots
+Sur ma route oui je n' compte plus les soucis
+De quoi devenir fou oui une vie de roots
+
+Sur ma route oui il y a eu du move oui
+De l' aventure dans l' movie une vie de roots
+Sur ma route oui je n' compte plus les soucis
+De quoi devenir fou oui une vie de roots
+
+Sur ma route
+Sur ma route
+Sur ma route
+Sur ma route
+
+
+
+
+
+
+
+<50>
+y' a eu un tas d' bouchons
+bouchons La vérité j' ai souvent trébuché
+tu sais que quand tu touches le fond
+peu de gens chez qui tu peux te réfugier
+Tu peux compter que sur tes chers parents
+les amis eux disparaissent un par un
+m' arrive d' avoir le front au sol
+et on nait seul on meurt seul
+
+<40>
+eu un tas d' bouchons
+La vérité j' ai souvent trébuché
+que quand tu touches le fond
+de gens chez qui tu peux te réfugier
+compter que sur tes chers parents
+amis eux disparaissent un par un
+d' avoir le front au sol
+on nait seul on meurt seul
+
+<30>
+un tas d' bouchons
+j' ai souvent trébuché
+quand tu touches le fond
+chez qui tu peux te réfugier
+que sur tes chers parents
+eux disparaissent un par un
+d' avoir le front au sol
+seul on meurt seul
+
+<20>
+moments de doute
+savoir vers où
+rien à foutre
+bagage en soute
+pas un sou
+la famille entre nous
+tas d' bouchons
+touches le fond
+tu peux te réfugier
+tes chers parents
+un par un
+front au sol
+on meurt seul
+
+<10>
+de doute
+vers où
+à foutre
+en soute
+un sou
+entre nous
+d' bouchons
+le fond
+te réfugier
+chers parents
+par un
+au sol
+meurt seul
+
+<0>
+une vie de roots
+
+<1000>
+l' movie
+de roots
+les soucis
+devenir fou
+
+<2000>
+des moments de doute
+sans savoir vers où
+têtu rien à foutre
+d' bagage en soute
+poche pas un sou
+la famille entre nous
+un tas d' bouchons
+j' ai souvent trébuché
+
+<5000>
+tu sais que quand tu touches le fond
+de gens chez qui tu peux te réfugier
+Tu peux compter que sur tes chers parents
+les amis eux disparaissent un par un
+m' arrive d' avoir le front au sol
+grand et on nait seul on meurt seul
+
+<10000>
+Sur ma route on m' a fait des coups en douce
+qu' mon cœur en souffre mais j' suis sous anesthésie
+Sur mon chemin j' ai croisé pas mal d' anciens
+Ils me parlaient du lendemain et que tout allait si vite
+
+<20000>
+parle pas de nostalgie Parce que j' t' avoue que mon cœur est trop fragile
+est trop fragile J' suis comme un pirate naufragé Oui mon équipage est plus qu' endommagé
+j' baisse les armes J' veux même plus savoir pourquoi ils m' testent les autres
+Si y' a plus rien à prendre je sais qu' il m' reste une chose
+une chose Et ma route elle est trop longue pas l' temps de faire une pause
+
+<END>

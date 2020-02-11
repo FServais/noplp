@@ -1,0 +1,139 @@
+﻿Dans le mot je t' aime
+Trop de M
+Et jamais jamais un seul N
+Dans amour toujours
+C' est le pour
+Ou le contre c' est souvent la haine
+On m' dévisage
+On m' envisage
+Comme une fille que je ne suis pas
+Je m' exile
+Trop fragile
+Mille et une nuits m' éloignent de moi
+
+Dans le mot je t' aime
+Tandem
+Autant d' M
+Parfois ça brille comme un diadème
+Toujours le même thème
+Tandem
+C' est idem
+Bientôt le crash
+I don' t know when
+
+Tu es fort en thème
+Maths élem
+Mais en maths sup tu deviens blême
+Dans amour toujours
+C' est le pour
+Ou le contre on récolte ce que l' on sème
+Tu m' dévisages
+Tu m' envisages
+Comme une fille que je ne suis pas
+Tu m' exiles
+Si fragile
+Mille et une nuits m' éloignent de toi
+
+Dans le mot je t' aime
+Tandem
+Autant d' M
+Parfois ça brille comme un diadème
+Toujours le même thème
+Tandem
+C' est idem
+Bientôt le crash
+I don' t know when
+
+Dans le mot je t' aime
+Tandem
+Autant d' M
+Parfois ça brille comme un diadème
+Toujours le même thème
+Tandem
+C' est idem
+Bientôt le crash
+I don' t know when
+
+Dans le mot je t' aime
+Tandem
+Autant d' M
+Parfois ça brille comme un diadème
+Toujours le même thème
+Tandem
+C' est idem
+Bientôt le crash
+I don' t know when
+
+
+
+
+<50>
+Autant d' M Parfois ça brille comme un diadème
+Toujours le même thème Tandem C' est idem
+Tandem C' est idem Bientôt le crash
+Tu es fort en thème Maths élem
+Mais en maths sup tu deviens blême
+le contre on récolte ce que l' on sème
+
+<40>
+Parfois ça brille comme un diadème
+le même thème Tandem C' est idem
+C' est idem Bientôt le crash
+Tu es fort en thème Maths élem
+Mais en maths sup tu deviens blême
+on récolte ce que l' on sème
+
+<30>
+ça brille comme un diadème
+thème Tandem C' est idem
+C' est idem Bientôt le crash
+fort en thème Maths élem
+maths sup tu deviens blême
+ce que l' on sème
+
+<20>
+brille comme un diadème
+Tandem C' est idem
+idem Bientôt le crash
+en thème Maths élem
+sup tu deviens blême
+ce que l' on sème
+
+<10>
+un diadème
+C' est idem
+le crash
+Maths élem
+deviens blême
+l' on sème
+
+<0>
+la haine
+
+<1000>
+de M
+un seul N
+amour toujours
+le pour
+la haine
+
+<2000>
+m' dévisage On m' envisage
+que je ne suis pas
+Je m' exile Trop fragile
+m' éloignent de moi
+
+
+<5000>
+Dans le mot je t' aime Tandem Autant d' M
+Autant d' M Parfois ça brille comme un diadème
+Toujours le même thème Tandem C' est idem
+
+
+<10000>
+en thème Maths élem Mais en maths sup tu deviens blême
+
+<20000>
+Dans amour toujours C' est le pour Ou le contre on récolte ce que l' on sème
+
+<END>

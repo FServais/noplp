@@ -1,0 +1,162 @@
+﻿C' est tellement simple
+L' amour
+Tellement possible
+L' amour
+À qui l' entend
+Regarde autour
+À qui le veut
+Vraiment
+
+C' est tellement rien
+D' y croire
+Mais tellement tout
+Pourtant
+Qu' il vaut la peine
+De le vouloir
+De le chercher
+Tout le temps
+
+Ce sera nous dès demain
+Ce sera nous le chemin
+Pour que l' amour
+Qu' on saura se donner
+Nous donne l' envie d' aimer
+Ce sera nous dès ce soir
+À nous de le vouloir
+Faire que l' amour
+Qu' on aura partagé
+Nous donne l' envie d' aimer
+
+C' est tellement court
+Une vie
+Tellement fragile
+Aussi
+Que de courir
+Après le temps
+Ne laisse plus rien
+À vivre
+
+Ce sera nous dès demain
+Ce sera nous le chemin
+Pour que l' amour
+Qu' on saura se donner
+Nous donne l' envie d' aimer
+Ce sera nous dès ce soir
+À nous de le vouloir
+Faire que l' amour
+Qu' on aura partagé
+Nous donne l' envie d' aimer
+
+C' est tellement fort
+C' est tellement tout
+L' amour
+Puisqu' on attend
+De vies en vies
+Depuis la nuit
+Des temps
+
+Ce sera nous
+Ce sera nous
+Ce sera nous
+
+Pour que l' amour
+Qu' on saura se donner
+Nous donne l' envie d' aimer
+Ce sera nous dès ce soir
+À nous de le vouloir
+Faire que l' amour
+Qu' on aura partagé
+Nous donne l' envie d' aimer
+
+Dès ce soir
+À nous de le vouloir
+Faire que l' amour
+Qu' on aura partagé
+Nous donne l' envie d' aimer
+
+Nous donne l' envie d' aimer
+Donne l' envie d' aimer
+L' envie d' aimer
+Pour que l' amour
+Qu' on saura se donner
+Nous donne l' envie d' aimer
+
+<50>
+dès demain Ce sera nous le chemin
+Pour que l' amour Qu' on saura se donner
+se donner Nous donne l' envie d' aimer
+dès ce soir À nous de le vouloir
+Faire que l' amour Qu' on aura partagé
+tellement court Une vie Tellement fragile Aussi
+le temps Ne laisse plus rien À vivre
+fort C' est tellement tout L' amour
+en vies Depuis la nuit Des temps
+
+<40>
+demain Ce sera nous le chemin
+que l' amour Qu' on saura se donner
+donner Nous donne l' envie d' aimer
+ce soir À nous de le vouloir
+l' amour Qu' on aura partagé
+court Une vie Tellement fragile Aussi
+Ne laisse plus rien À vivre
+
+<30>
+Ce sera nous le chemin
+l' amour Qu' on saura se donner
+donne l' envie d' aimer
+À nous de le vouloir
+Qu' on aura partagé
+Une vie Tellement fragile Aussi
+plus rien À vivre
+
+<20>
+nous le chemin
+Qu' on saura se donner
+de le vouloir
+Qu' on aura partagé
+Tellement fragile Aussi
+plus rien À vivre
+
+<10>
+le chemin
+se donner
+le vouloir
+aura partagé
+fragile Aussi
+À vivre
+
+<0>
+D' y croire
+
+<1000>
+Tellement possible
+l' entend
+Regarde autour
+le veut
+veut Vraiment
+
+<2000>
+C' est tellement rien
+rien D' y croire
+Mais tellement tout Pourtant
+Qu' il vaut la peine
+peine De le vouloir
+vouloir De le chercher
+chercher Tout le temps
+
+<5000>
+nous dès demain Ce sera nous le chemin
+que l' amour Qu' on saura se donner
+se donner Nous donne l' envie d' aimer
+ce soir À nous de le vouloir
+Faire que l' amour Qu' on aura partagé
+
+<10000>
+C' est tellement court Une vie Tellement fragile Aussi
+de courir Après le temps Ne laisse plus rien À vivre
+
+<20000>
+tout L' amour Puisqu' on attend De vies en vies Depuis la nuit Des temps
+
+<END>

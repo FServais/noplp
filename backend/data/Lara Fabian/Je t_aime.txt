@@ -1,0 +1,110 @@
+﻿D' accord il existait d' autres façons de se quitter
+Quelques éclats de verre auraient peut-être pu nous aider
+Dans ce silence amer j' ai décidé de pardonner
+Les erreurs qu' on peut faire à trop s' aimer
+
+D' accord la petite fille en moi souvent te réclamait
+Presque comme une mère tu me bordais me protégeais
+Je t' ai volé ce sang qu' on n' aurait pas dû partager
+À bout de mots de rêves je vais crier
+
+Je t' aime je t' aime
+Comme un fou comme un soldat
+Comme une star de cinéma
+Je t' aime je t' aime
+Comme un loup comme un roi
+Comme un homme que je ne suis pas
+Tu vois je t' aime comme ça
+
+D' accord je t' ai confié tous mes sourires tous mes secrets
+Même ceux dont seul un frère est le gardien inavoué
+Dans cette maison de pierre Satan nous regardait danser
+J' ai tant voulu la guerre de corps qui se faisaient la paix
+
+Je t' aime je t' aime
+Comme un fou comme un soldat
+Comme une star de cinéma
+Je t' aime je t' aime
+Comme un loup comme un roi
+Comme un homme que je ne suis pas
+Tu vois je t' aime comme ça
+
+Je t' aime je t' aime
+Comme un fou comme un soldat
+Comme une star de cinéma
+Je t' aime je t' aime
+Je t' aime je t' aime
+Je t' aime je t' aime
+Comme un loup comme un roi
+Comme un homme que je ne suis pas
+Tu vois je t' aime comme ça
+
+
+
+
+<50>
+qu' on n' aurait pas dû partager
+de mots de rêves je vais crier
+confié tous mes sourires tous mes secrets
+dont seul un frère est le gardien inavoué
+maison de pierre Satan nous regardait danser
+guerre de corps qui se faisaient la paix
+
+
+<40>
+n' aurait pas dû partager
+mots de rêves je vais crier
+tous mes sourires tous mes secrets
+un frère est le gardien inavoué
+de pierre Satan nous regardait danser
+corps qui se faisaient la paix
+
+<30>
+de rêves je vais crier
+mes sourires tous mes secrets
+frère est le gardien inavoué
+Satan nous regardait danser
+qui se faisaient la paix
+
+<20>
+comme un soldat
+star de cinéma
+comme un roi
+je ne suis pas
+t' aime comme ça
+
+<10>
+un soldat
+de cinéma
+un roi
+suis pas
+comme ça
+
+<0>
+de pardonner
+
+<1000>
+se quitter
+nous aider
+de pardonner
+s' aimer
+
+<2000>
+moi souvent te réclamait
+me bordais me protégeais
+aurait pas dû partager
+rêves je vais crier
+
+<5000>
+comme un soldat Comme une star de cinéma
+Comme un homme que je ne suis pas
+Tu vois je t' aime comme ça
+
+<10000>
+je t' ai confié tous mes sourires tous mes secrets
+Même ceux dont seul un frère est le gardien inavoué
+
+<20000>
+nous regardait danser J' ai tant voulu la guerre de corps qui se faisaient la paix
+
+<END>

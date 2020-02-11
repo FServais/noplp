@@ -1,0 +1,15 @@
+@host = localhost:5000
+
+GET http://{{host}}
+
+###
+
+PUT http://{{host}}/round
+
+###
+
+GET  http://{{host}}/category/Petit%20ou%20grand%20%3F/songs
+
+###
+
+GET http://{{host}}/song/artist/Patrick%20Bruel/title/Place%20des%20grands%20hommes/level/50

@@ -1,0 +1,151 @@
+﻿Tourner le temps à l' orage
+Revenir à l' état sauvage
+Forcer les portes les barrages
+Sortir le loup de sa cage
+
+Sentir le vent qui se déchaîne
+Battre le sang dans nos veines
+Monter le son des guitares
+Et le bruit des motos qui démarrent
+
+Il suffira d' une étincelle
+Oui d' un rien oui d' un geste
+Il suffira d' une étincelle
+Et d' un mot d' amour oui pour
+
+Allumer le feu allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu allumer le feu
+Et voir grandir la flamme dans vos yeux
+Allumer le feu
+
+Laisser derrière toutes nos peines
+Nos haches de guerre nos problèmes
+Se libérer de nos chaînes
+Lâcher le lion dans l' arène
+
+Je veux la foudre et l' éclair
+L' odeur de poudre le tonnerre
+Je veux la fête et les rires
+Je veux la foule en délire
+
+Il suffira d' une étincelle
+Oui d' un rien d' un contact
+Il suffira d' une étincelle
+D' un peu de jour oui pour
+
+Allumer le feu allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu oui allumer le feu
+Et voir grandir oui la flamme dans vos yeux
+Allumer le feu
+
+Il suffira d' une étincelle
+Oui d' un rien (et) d' un geste
+Il suffira d' une étincelle
+Et d' un mot d' amour oui pour
+Pour pour pour pour 
+
+
+Allumer le feu allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu allumer le feu
+Et voir grandir la flamme dans vos yeux
+Oh allumer le feu
+
+
+Allumer le feu allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu allumer le feu
+Et voir grandir la flamme dans vos yeux
+Allumer le feu
+
+
+Allumer le feu (allumer le feu)
+Allumer le feu (allumer le feu)
+Allumer le feu
+
+
+<50>
+nos peines Nos haches de guerre nos problèmes
+nos chaînes Lâcher le lion dans l' arène
+Je veux la foudre et l' éclair
+l' éclair L' odeur de poudre le tonnerre
+Je veux la fête et les rires
+les rires Je veux la foule en délire
+d' une étincelle D' un peu de jour
+
+<40>
+Nos haches de guerre nos problèmes
+Lâcher le lion dans l' arène
+veux la foudre et l' éclair
+L' odeur de poudre le tonnerre
+Je veux la foule en délire
+étincelle D' un peu de jour
+
+<30>
+haches de guerre nos problèmes
+le lion dans l' arène
+la foudre et l' éclair
+L' odeur de poudre le tonnerre
+la fête et les rires
+veux la foule en délire
+
+<20>
+d' un geste
+d' un mot d' amour
+diables et les dieux
+flamme dans vos yeux
+Allumer le feu
+de guerre nos problèmes
+lion dans l' arène
+de poudre le tonnerre
+et les rires
+la foule en délire
+
+
+<10>
+d' un geste
+d' amour
+les dieux
+vos yeux
+nos problèmes
+l' arène
+le tonnerre
+les rires
+en délire
+
+
+<0>
+qui démarrent
+
+<1000>
+l' orage
+l' état sauvage
+les barrages
+sa cage
+
+
+<2000>
+le vent qui se déchaîne
+le sang dans nos veines
+le son des guitares
+des motos qui démarrent
+
+<5000>
+d' un rien oui d' un geste
+Et d' un mot d' amour oui pour
+Et faire danser les diables et les dieux
+Et voir grandir la flamme dans vos yeux
+
+<10000>
+Laisser derrière toutes nos peines Nos haches de guerre nos problèmes
+Se libérer de nos chaînes Lâcher le lion dans l' arène
+
+<20000>
+et l' éclair L' odeur de poudre le tonnerre Je veux la fête et les rires
+le tonnerre Je veux la fête et les rires Je veux la foule en délire
+
+Il suffira d' une étincelleOui d' un rien d' un contact Il suffira d' une étincelle D' un peu de jour
+
+<END>

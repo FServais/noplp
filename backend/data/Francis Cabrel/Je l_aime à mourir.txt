@@ -1,0 +1,165 @@
+﻿Moi je n' étais rien
+Et voilà qu' aujourd'hui
+Je suis le gardien
+Du sommeil de ses nuits
+Je l' aime à mourir
+Vous pouvez détruire
+Tout ce qu' il vous plaira
+Elle n' a qu' à ouvrir
+L' espace de ses bras
+Pour tout reconstruire
+Pour tout reconstruire
+Je l' aime à mourir
+
+Elle a gommé les chiffres
+Des horloges du quartier
+Elle a fait de ma vie
+Des cocottes en papier
+Des éclats de rire
+Elle a bâti des ponts
+Entre nous et le ciel
+Et nous les traversons
+À chaque fois qu' elle
+Ne veut pas dormir
+Ne veut pas dormir
+Je l' aime à mourir
+
+Elle a dû faire toutes les guerres
+Pour être si forte aujourd'hui
+Elle a dû faire toutes les guerres
+De la vie
+Et l' amour aussi
+
+Elle vit de son mieux
+Son rêve d' opaline
+Elle danse au milieu
+Des forêts qu' elle dessine
+Je l' aime à mourir
+Elle porte des rubans
+Qu' elle laisse s' envoler
+Elle me chante souvent
+Que j' ai tort d' essayer
+De les retenir
+De les retenir
+Je l' aime à mourir
+
+Pour monter dans sa grotte
+Cachée sous les toits
+Je dois clouer des notes
+À mes sabots de bois
+Je l' aime à mourir
+Je dois juste m' asseoir
+Je ne dois pas parler
+Je ne dois rien vouloir
+Je dois juste essayer
+De lui appartenir
+De lui appartenir
+Je l' aime à mourir
+
+Elle a dû faire toutes les guerres
+Pour être si forte aujourd'hui
+Elle a dû faire toutes les guerres
+De la vie, et l' amour aussi
+
+Moi je n' étais rien
+Et voilà qu' aujourd'hui
+Je suis le gardien
+Du sommeil de ses nuits
+Je l' aime à mourir
+Vous pouvez détruire
+Tout ce qu' il vous plaira
+Elle n' aura qu' à ouvrir
+L' espace de ses bras
+Pour tout reconstruire
+Pour tout reconstruire
+Je l' aime à mourir
+
+<50>
+de son mieux Son rêve d' opaline
+au milieu Des forêts qu' elle dessine
+des rubans Qu' elle laisse s' envoler
+souvent que j' ai tort d' essayer
+j' ai tort d' essayer De les retenir
+dans sa grotte Cachée sous les toits
+des notes À mes sabots de bois
+m' asseoir Je ne dois pas parler
+pas parler Je ne dois rien vouloir
+Je dois juste essayer De lui appartenir
+
+<40>
+son mieux Son rêve d' opaline
+milieu Des forêts qu' elle dessine
+rubans Qu' elle laisse s' envoler
+que j' ai tort d' essayer
+tort d' essayer De les retenir
+sa grotte Cachée sous les toits
+notes À mes sabots de bois
+m' asseoir Je ne dois pas parler
+parler Je ne dois rien vouloir
+dois juste essayer De lui appartenir
+
+<30>
+Pour être si forte aujourd'hui
+De la vie Et l' amour aussi
+mieux Son rêve d' opaline
+Des forêts qu' elle dessine
+Qu' elle laisse s' envoler
+Que j' ai tort d' essayer
+d' essayer De les retenir
+
+<20>
+Des horloges du quartier
+Des cocottes en papier
+Des éclats de rire
+Entre nous et le ciel
+Ne veut pas dormir
+faire toutes les guerres
+si forte aujourd'hui
+Et l' amour aussi
+
+<10>
+du quartier
+en papier
+de rire
+des ponts
+le ciel
+pas dormir
+les guerres
+forte aujourd'hui
+l' amour aussi
+
+<0>
+de ses nuits
+
+<1000>
+ses nuits
+vous plaira
+qu' à ouvrir
+ses bras
+tout reconstruire
+
+<2000>
+Des horloges du quartier
+Des cocottes en papier
+Des éclats de rire
+nous et le ciel
+
+<5000>
+chaque fois qu' elle Ne veut pas dormir
+toutes les guerres Pour être si forte aujourd'hui
+Elle a dû faire toutes les guerres
+De la vie Et l' amour aussi
+
+<10000>
+d' opaline Elle danse au milieu Des forêts qu' elle dessine
+à mourir Elle porte des rubans Qu' elle laisse s' envoler
+Elle me chante souvent Que j' ai tort d' essayer
+chante souvent Que j' ai tort d' essayer De les retenir
+
+<20000>
+sa grotte Cachée sous les toits Je dois clouer des notes À mes sabots de bois
+les toits Je dois clouer des notes À mes sabots de bois Je l' aime à mourir
+ne dois pas parler Je ne dois rien vouloir Je dois juste essayer De lui appartenir
+parler Je ne dois rien vouloir Je dois juste essayer De lui appartenir De lui appartenir
+
+<END>

@@ -1,0 +1,166 @@
+﻿J' ai pas le regard de Spike Lee
+J' ai pas le génie de De Vinci
+J' ai pas les pieds sur terre
+La patience de ma banquière
+J' ai pas ces choses là
+
+J' ai pas la sagesse de Gandhi
+L' assurance de Mohamed Ali
+J' ai pas l' âme d' un gangster
+La bonté de l' Abbé Pierre
+Ni l' aura de Guevara
+
+Je ne suis qu' un soulman
+Écoute ça baby
+Je suis pas un superman
+Loin de là
+Juste moi mes délires
+Je n' ai rien d' autre à offrir
+Mais je sais qu' en vrai c' est déjà ça
+
+J' ai pas le physique des magazines
+J' ai pas l' humour de Charlie Chaplin 
+J' ai pas la science infuse
+Le savoir-faire de Bocuse
+Non je n' ai pas ces choses là
+
+J' ai pas la chance de Neil Armstrong
+J' ai pas la carrure de King Kong
+Plusieurs cordes à mon arc
+La ferveur de Rosa Parks
+Ni le courage de Mandela
+
+Je ne suis qu' un soulman
+Écoute ça baby
+Je suis pas un superman
+Loin de là
+Juste moi mes délires
+Je n' ai rien d' autre à offrir
+Mais je sais qu' en vrai c' est déjà ça
+
+Je ne suis qu' un soulman
+Écoute ça baby
+Je suis pas un superman
+Loin de là
+Juste moi mes délires
+Je n' ai rien d' autre à offrir
+Mais je sais qu' en vrai c' est déjà
+c’est déjà ça
+
+Moi j' aurais aimé être comme eux
+Être hors du commun
+J' ai bien essayé
+J' ai fait de mon mieux
+Mais quoi que je fasse
+À la fin
+
+Je ne suis qu' un soulman
+Écoute ça baby
+Je suis pas un superman
+Loin de là
+Juste moi mes délires
+Je n' ai rien d' autre à offrir
+Mais je sais qu' en vrai c' est déjà ça
+
+Je ne suis qu' un soulman
+Écoute ça baby
+Je suis pas un superman
+Loin de là
+Juste moi mes délires
+Mais je sais qu' en vrai c' est déjà ça
+
+No no no no no no
+Juste moi
+Mes délire
+Mais je sais qu' en vrai c' est déjà ça 
+
+
+<50>
+J' ai pas le physique des magazines
+J' ai pas l' humour de Charlie Chaplin 
+la science infuse Le savoir-faire de Bocuse
+J' ai pas la chance de Neil Armstrong
+J' ai pas la carrure de King Kong
+King Kong Plusieurs cordes à mon arc
+Rosa Parks Ni le courage de Mandela
+
+<40>
+pas le physique des magazines
+pas l' humour de Charlie Chaplin 
+infuse Le savoir-faire de Bocuse
+pas la chance de Neil Armstrong
+pas la carrure de King Kong
+Plusieurs cordes à mon arc
+La ferveur de Rosa Parks
+Ni le courage de Mandela
+
+<30>
+le physique des magazines
+l' humour de Charlie Chaplin 
+pas la science infuse
+Le savoir-faire de Bocuse
+la chance de Neil Armstrong
+la carrure de King Kong
+Plusieurs cordes à mon arc
+ferveur de Rosa Parks
+le courage de Mandela
+
+<20>
+sagesse de Gandhi
+de Mohamed Ali
+d' un gangster
+l' Abbé Pierre
+l' aura de Guevara
+pas un superman
+Loin de là
+moi mes délires
+d' autre à offrir
+c' est déjà ça
+
+<10>
+de Gandhi
+Mohamed Ali
+d' un gangster
+l' Abbé Pierre
+de Guevara
+un superman
+mes délires
+à offrir
+déjà ça
+
+<0>
+de ma banquière
+
+<1000>
+De Vinci
+sur terre
+ma banquière
+choses là
+de Gandhi
+Mohamed Ali
+
+<2000>
+l' âme d' un gangster
+de l' Abbé Pierre
+l' aura de Guevara
+Je suis pas un superman
+Juste moi mes délires
+rien d' autre à offrir
+c' est déjà ça
+
+<5000>
+J' ai pas le physique des magazines
+J' ai pas l' humour de Charlie Chaplin 
+la science infuse Le savoir-faire de Bocuse
+
+<10000>
+de Neil Armstrong J' ai pas la carrure de King Kong
+Plusieurs cordes à mon arc La ferveur de Rosa Parks
+La ferveur de Rosa Parks Ni le courage de Mandela
+
+
+<20000>
+comme eux Être hors du commun J' ai bien essayé J' ai fait de mon mieux
+J' ai bien essayé J' ai fait de mon mieux Mais quoi que je fasse À la fin
+
+<END>

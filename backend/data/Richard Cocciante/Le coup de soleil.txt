@@ -1,0 +1,149 @@
+﻿J' ai attrapé un coup d' soleil
+Un coup d' amour un coup d' je t' aime
+J' sais pas comment faut qu' j' me rappelle    
+Si c' est un rêve t' es super belle
+J' dors plus la nuit j' fais des voyages
+Sur des bateaux qui font naufrages
+J' te vois toute nue sur du satin
+Et j' en dors plus viens m' voir demain
+
+Mais tu n' es pas là et si je rêve tant pis
+Quand tu t' en vas j' dors plus la nuit
+Mais tu n' es pas là et tu sais j' ai envie d' aller là-bas
+La fenêtre en face et d' visiter ton paradis
+
+J' mets tes photos dans mes chansons
+Et des voiliers dans ma maison
+J' voulais m' tirer mais j' me tire plus
+J' vis à l' envers j' aime plus ma rue
+J' avais cent ans j' me r'connais plus
+J' aime plus les gens depuis qu' j' t' ai vue
+J' veux plus rêver j' voudrais qu' tu viennes
+Me faire voler me faire je t' aime
+
+Mais tu n' es pas là et si je rêve tant pis
+Quand tu t' en vas j' dors plus la nuit
+Mais tu n' es pas là et tu sais j' ai envie d' aller là-bas
+La fenêtre en face et d' visiter ton paradis
+
+Ça y est c' est sûr faut qu' j' me décide
+J' vais faire le mur et j' tombe dans l' vide
+J' sais qu' tu m' attends près d' la fontaine
+J' t' ai vu descendre d' un arc-en-ciel
+Je m' jette à l' eau des pluies d' été
+J' fais du bateau dans mon quartier
+Il fait très beau on peut ramer
+La mer est calme on peut s' tirer
+
+Mais tu n' es pas là et si je rêve tant pis
+Quand tu t' en vas j' dors plus la nuit
+Mais tu n' es pas là et tu sais j' ai envie d' aller là-bas
+La fenêtre en face et d' visiter ton paradis
+
+Mais tu n' es pas là
+Mais tu n' es pas là
+Et si je rêve tant pis
+Quand tu t' en vas
+J' dors plus la nuit
+
+Mais tu n' es pas là
+Mais tu n' es pas là non non non non non
+
+J' ai attrapé un coup d' soleil
+Un coup d' amour un coup d' je t' aime
+J' sais pas comment faut qu' j' me rappelle
+Et si je rêve tant pis
+
+J' ai attrapé un coup d' soleil
+Un coup d' amour un coup d' je t' aime
+Un coup d' amour un coup d' je t' aime
+Non non non
+
+
+
+
+
+
+
+<50>
+mes chansons Et des voiliers dans ma maison
+m' tirer mais j' me tire plus
+à l' envers j' aime plus ma rue
+J' avais cent ans j' me r'connais plus
+les gens depuis qu' j' t' ai vue
+J' veux plus rêver j' voudrais qu' tu viennes
+Me faire voler me faire je t' aime
+
+<40>
+Et des voiliers dans ma maison
+m' tirer mais j' me tire plus
+l' envers j' aime plus ma rue
+cent ans j' me r'connais plus
+depuis qu' j' t' ai vue
+plus rêver j' voudrais qu' tu viennes
+voler me faire je t' aime
+
+<30>
+des voiliers dans ma maison
+mais j' me tire plus
+j' aime plus ma rue
+ans j' me r'connais plus
+qu' j' t' ai vue
+j' voudrais qu' tu viennes
+me faire je t' aime
+
+<20>
+n' es pas là
+je rêve tant pis
+tu t' en vas
+plus la nuit
+j' ai envie
+d' aller là-bas
+d' visiter ton paradis
+
+<10>
+pas là
+tant pis
+t' en vas
+la nuit
+aller là-bas
+ton paradis
+
+<0>
+qui font naufrages
+
+<1000>
+pas comment
+super belle
+la nuit
+des voyages
+font naufrages
+
+<2000>
+nue sur du satin
+viens m' voir demain
+tu n' es pas là
+je rêve tant pis
+tu t' en vas
+dors plus la nuit
+
+<5000>
+La fenêtre en face et d' visiter ton paradis
+J' mets tes photos dans mes chansons
+mes chansons Et des voiliers dans ma maison
+m' tirer mais j' me tire plus
+à l' envers j' aime plus ma rue
+
+<10000>
+J' aime plus les gens depuis qu' j' t' ai vue
+vue J' veux plus rêver j' voudrais qu' tu viennes
+qu' tu viennes Me faire voler me faire je t' aime
+Ça y est c' est sûr faut qu' j' me décide
+J' vais faire le mur et j' tombe dans l' vide
+
+<20000>
+qu' tu m' attends près d' la fontaine J' t' ai vu descendre d' un arc-en-ciel
+m' jette à l' eau des pluies d' été J' fais du bateau dans mon quartier
+Il fait très beau on peut ramer La mer est calme on peut s' tirer
+
+<END>

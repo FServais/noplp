@@ -1,0 +1,150 @@
+﻿Combien de fois faut-il
+Vous le dire avec style
+Je n' veux pas sortir au Baron
+
+Non non non non
+Je ne veux pas prendre l' air
+Non non non non
+Je ne veux pas boire un verre
+Non non non non
+Je ne veux pas l' oublier
+Non non non non
+Je ne veux pas m' en passer
+J'  veux juste aller mal
+Et y a pas de mal à ça
+Trainer manger que dalle
+Écouter Barbara
+Peut-être qu' il reviendra
+
+Non je ne veux pas faire un tour
+À quoi ça sert de faire un tour
+Non je ne veux pas me défaire
+De ce si bel enfer
+Qui commence à me plaire
+Je ne veux pas quitter mon salon
+
+Non non non non
+Je ne veux pas prendre l' air
+Non non non non
+Je ne veux pas boire un verre
+Non non non non
+Je ne veux pas l' oublier
+Non non non non
+Je ne veux pas m' en passer
+J'  veux juste
+Aller mal et y a pas de mal à ça
+Trainer manger que dalle
+Écouter Barbara
+Peut-être qu' il reviendra
+
+Non je ne veux pas aller mieux
+À quoi ça sert d' aller mieux
+Non je ne veux pas m' habiller
+Non plus me maquiller
+Laissez moi m' ennuyer
+Arrêtez avec vos questions
+
+Non non non non
+Je ne veux pas prendre l' air
+Non non non non
+Je ne veux pas boire un verre
+Non non non non
+Je ne veux pas l' oublier
+Non non non non
+Je ne veux pas m' en passer
+J'  veux juste aller mal
+Et y a pas de mal à ça
+Trainer manger que dalle
+Écouter Barbara
+Peut-être qu' il reviendra
+
+
+
+
+
+
+
+<50>
+À quoi ça sert de faire un tour
+Non je ne veux pas me défaire
+si bel enfer Qui commence à me plaire
+Je ne veux pas quitter mon salon
+Non je ne veux pas aller mieux
+Non je ne veux pas m' habiller
+Non plus me maquiller Laissez moi m' ennuyer
+Laissez moi m' ennuyer Arrêtez avec vos questions
+
+<40>
+ça sert de faire un tour
+je ne veux pas me défaire
+enfer Qui commence à me plaire
+veux pas quitter mon salon
+je ne veux pas aller mieux
+je ne veux pas m' habiller
+me maquiller Laissez moi m' ennuyer
+m' ennuyer Arrêtez avec vos questions
+
+<30>
+veux pas me défaire
+ce si bel enfer
+commence à me plaire
+pas quitter mon salon
+veux pas aller mieux
+veux pas m' habiller
+Non plus me maquiller
+Laissez moi m' ennuyer
+Arrêtez avec vos questions
+
+<20>
+pas m' en passer
+juste aller mal
+de mal à ça
+manger que dalle
+qu' il reviendra
+faire un tour
+pas me défaire
+si bel enfer
+à me plaire
+quitter mon salon
+
+<10>
+m' en passer
+aller mal
+à ça
+que dalle
+qu' il reviendra
+un tour
+me défaire
+bel enfer
+me plaire
+mon salon
+
+<0>
+prendre l' air
+
+<1000>
+avec style
+au Baron
+l' air
+un verre
+
+<2000>
+veux pas m' en passer
+ne veux pas l' oublier
+
+<5000>
+et y a pas de mal à ça
+Trainer manger que dalle Écouter Barbara
+Écouter Barbara Peut-être qu' il reviendra
+quoi ça sert de faire un tour
+
+<10000>
+De ce si bel enfer Qui commence à me plaire
+à me plaire Je ne veux pas quitter mon salon
+
+<20000>
+ça sert d' aller mieux Non je ne veux pas m' habiller Non plus me maquiller
+pas m' habiller Non plus me maquiller Laissez moi m' ennuyer Arrêtez avec vos questions
+
+
+<END>

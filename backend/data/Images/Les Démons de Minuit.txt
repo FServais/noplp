@@ -1,0 +1,119 @@
+﻿Rue déserte
+Dernière cigarette
+Plus rien ne bouge
+Juste un bar qui éclaire le trottoir
+D' un néon rouge
+J' ai besoin
+De trouver quelqu' un
+J' veux pas dormir
+Je cherche un peu de chaleur
+À mettre dans mon cœur
+
+Ils m' entrainent au bout de la nuit
+Les démons de minuit
+M' entraînent jusqu' à l' insomnie
+Les fantômes de l' ennui
+
+Dans mon verre
+Je regarde la mer
+Qui se balance
+J' veux un disque
+De funky music
+Faut que ça danse
+
+J' aime cette fille
+Sur talons aiguilles
+Qui se déhanche
+Ça met un peu de chaleur
+Au fond de mon cœur
+
+Ils m' entraînent au bout de la nuit
+Les démons de minuit
+M' entraînent jusqu' à l' insomnie
+Les fantômes de l' ennui
+Ils m' entraînent au bout de la nuit
+Les démons de minuit
+M' entraînent jusqu' à l' insomnie
+Les fantômes de l' ennui
+
+J' aime cette fille
+Sur talons aiguilles
+Qui se déhanche
+Ça met un peu de chaleur
+Au fond de mon cœur
+
+Ils m' entraînent au bout de la nuit
+Les démons de minuit
+M' entraînent jusqu' à l' insomnie
+Les fantômes de l' ennui
+
+
+
+<50>
+mon verre Je regarde la mer Qui se balance
+un disque De funky music Faut que ça danse
+J' aime cette fille sur talons aiguilles Qui se déhanche
+un peu de chaleur Au fond de mon cœur
+
+<40>
+Je regarde la mer Qui se balance
+De funky music Faut que ça danse
+cette fille sur talons aiguilles Qui se déhanche
+de chaleur Au fond de mon cœur
+
+<30>
+regarde la mer Qui se balance
+funky music Faut que ça danse
+sur talons aiguilles Qui se déhanche
+chaleur Au fond de mon cœur
+
+<20>
+jusqu' à l' insomnie
+fantômes de l' ennui
+Je regarde la mer
+Qui se balance
+De funky music
+Faut que ça danse
+Qui se déhanche
+un peu de chaleur
+Au fond de mon cœur
+
+<10>
+à l' insomnie
+de l' ennui
+la mer
+se balance
+un disque
+funky music
+ça danse
+cette fille
+Sur talons aiguilles
+se déhanche
+
+<0>
+Je cherche un peu de chaleur
+
+<1000>
+Dernière cigarette
+ne bouge
+un bar
+le trottoir
+néon rouge
+
+<2000>
+De trouver quelqu' un
+J' veux pas dormir
+un peu de chaleur
+À mettre dans mon cœur
+
+<5000>
+jusqu' à l' insomnie Les fantômes de l' ennui
+
+<10000>
+Dans mon verre Je regarde la mer Qui se balance
+J' veux un disque De funky music Faut que ça danse
+
+<20000>
+cette fille Sur talons aiguilles Qui se déhanche Ça met un peu de chaleur Au fond de mon cœur
+
+<END>

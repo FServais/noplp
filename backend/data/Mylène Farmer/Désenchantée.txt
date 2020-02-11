@@ -1,0 +1,159 @@
+﻿Nager dans les eaux troubles
+Des lendemains
+Attendre ici la fin
+Flotter dans l' air trop lourd
+Du presque rien
+À qui tendre la main
+
+Si je dois tomber de haut
+Que ma chute soit lente
+Je n' ai trouvé de repos
+Que dans l' indifférence
+Pourtant je voudrais retrouver l' innocence
+Mais rien n' a de sens et rien ne va
+
+Tout est chaos
+À côté
+Tous mes idéaux
+des mots abimés
+Je cherche une âme qui
+Pourra m' aider
+Je suis
+D' une génération désenchantée
+désenchantée
+
+Qui pourrait m' empêcher
+De tout entendre Quand
+la raison s' effondre
+À quel sein se vouer
+Qui peut prétendre
+Nous bercer dans son ventre
+
+Si la mort est un mystère
+La vie n' a rien de tendre
+Si le ciel a un enfer
+Le ciel peut bien m' attendre
+Dis moi
+Dans ces vents contraires comment s' y prendre
+Plus rien n' a de sens plus rien ne va
+
+Tout est chaos
+À côté
+Tous mes idéaux
+des mots abimés
+Je cherche une âme qui
+Pourra m' aider
+Je suis
+D' une génération désenchantée
+désenchantée
+
+Chaos Chaos chaos cha cha cha chaos
+
+Tout est chaos
+À côté
+Tous mes idéaux
+des mots abimés
+Je cherche une âme qui
+Pourra m' aider
+Je suis
+D' une génération désenchantée
+désenchantée
+
+Tout est chaos
+À côté
+Tous mes idéaux
+des mots abimés
+Je cherche une âme qui
+Pourra m' aider
+Je suis
+D' une génération désenchantée
+désenchantée
+
+Tout est chaos
+À côté
+Tous mes idéaux
+des mots abimés
+Je cherche une âme qui
+Pourra m' aider
+Je suis
+D' une génération désenchantée
+désenchantée
+
+<50>
+s' effondre À quel sein se vouer
+Qui peut prétendre Nous bercer dans son ventre
+La vie n' a rien de tendre
+un enfer Le ciel peut bien m' attendre
+ces vents contraires comment s' y prendre
+n' a de sens plus rien ne va
+
+<40>
+Tous mes idéaux des mots abimés
+une âme qui Pourra m' aider
+entendre Quand la raison s' effondre
+prétendre Nous bercer dans son ventre
+
+<30>
+Tout est chaos À côté
+mes idéaux des mots abimés
+qui Pourra m' aider
+la raison s' effondre
+Nous bercer dans son ventre
+
+<20>
+dois tomber de haut
+ma chute soit lente
+trouvé de repos
+Que dans l' indifférence
+retrouver l' innocence
+et rien ne va
+chaos À côté
+des mots abimés
+Pourra m' aider
+D' une génération désenchantée
+
+<10>
+de haut
+soit lente
+de repos
+l' indifférence
+l' innocence
+ne va
+À côté
+mots abimés
+m' aider
+génération désenchantée
+
+<0>
+dois tomber de haut
+
+<1000>
+Des lendemains
+la fin
+trop lourd
+presque rien
+la main
+
+<2000>
+dois tomber de haut
+ma chute soit lente
+n' ai trouvé de repos
+Que dans l' indifférence
+voudrais retrouver l' innocence
+n' a de sens
+et rien ne va
+
+<5000>
+À côté Tous mes idéaux des mots abimés
+Je cherche une âme qui Pourra m' aider
+Je suis D' une génération désenchantée désenchantée
+
+<10000>
+m' empêcher De tout entendre Quand la raison s' effondre
+se vouer Qui peut prétendre Nous bercer dans son ventre
+
+<20000>
+rien de tendre Si le ciel a un enfer Le ciel peut bien m' attendre
+contraires comment s' y prendre Plus rien n' a de sens plus rien ne va
+
+<END>

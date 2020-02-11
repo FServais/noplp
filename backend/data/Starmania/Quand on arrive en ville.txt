@@ -1,0 +1,172 @@
+﻿Quand tout l' monde dort tranquille
+Dans les banlieues-dortoir
+C' est l' heure où les zonards descendent sur la ville
+Qui est ce qui viole les filles
+Le soir dans les parkings
+Qui met l' feu aux buildings
+C' est toujours les zonards
+Alors c' est la panique sur les boulevards
+Quand on arrive en ville
+
+Quand on arrive en ville
+Tout l' monde change de trottoir
+On a pas l' air virils
+Mais on fait peur à voir
+Des gars qui se maquillent
+Ça fait rire les passants
+Mais quand ils voient du sang
+Sur nos lames de rasoir
+Ça fait comme un éclair dans le brouillard
+Quand on arrive en ville
+
+Nous tout c' qu' on veut c' est être heureux
+Etre heureux avant d' être vieux
+On n' a pas l' temps d' attendre d' avoir trente ans
+Nous tout c' qu' on veut c' est être heureux
+Etre heureux avant être vieux
+On prend tout c' qu' on peut prendre en attendant
+
+Quand on arrive en ville
+On arrive de nulle part
+On vit sans domicile
+On dort dans des hangars
+Le jour on est tranquille
+On passe incognito
+Le soir on change de peau
+Et on frappe au hasard
+Alors préparez vous pour la bagarre
+Quand on arrive en ville
+
+Quand la ville souterraine
+Est plongée dans le noir
+Les gens qui s' y promènent ressortent sur des brancards
+On agit sans mobile
+Ça vous parait bizarre
+C' est p't-être qu' on est débile
+C' est p't-être par désespoir
+Du moins c' est ce que disent les journaux du soir
+Quand on arrive en ville
+
+Nous tout ce qu' on veut c' est être heureux
+Etre heureux avant d' être vieux
+On a pas le temps d' attendre d' avoir trente ans
+Nous tout ce qu' on veut c' est être heureux
+Etre heureux avant d' être vieux
+On prend tout ce qu' on peut prendre en attendant
+
+Quand viendra l' an deux mille on aura quarante ans
+Si on vit pas maintenant demain il sera trop tard
+Qu' est ce qu' on va faire ce soir
+On va peut-être tout casser
+Si vous allez danser ne rentrez pas trop tard
+De peur qu' on égratigne vos Jaguars
+Préparez vous pour la bagarre
+C' est la panique sur les boulevards
+Quand on arrive en ville
+
+
+<50>
+sans domicile On dort dans des hangars
+Le jour on est tranquille On passe incognito
+de peau Et on frappe au hasard
+Alors préparez vous pour la bagarre
+la ville souterraine Est plongée dans le noir
+qui s' y promènent ressortent sur des brancards
+On agit sans mobile Ça vous parait bizarre
+est débile C' est p't-être par désespoir
+c' est ce que disent les journaux du soir
+l' an deux mille on aura quarante ans
+pas maintenant demain il sera trop tard
+ce soir On va peut-être tout casser
+allez danser ne rentrez pas trop tard
+De peur qu' on égratigne vos Jaguars
+
+<40>
+On dort dans des hangars
+Le jour on est tranquille
+on est tranquille On passe incognito
+Le soir on change de peau
+Et on frappe au hasard
+Alors préparez vous pour la bagarre
+souterraine Est plongée dans le noir
+s' y promènent ressortent sur des brancards
+sans mobile Ça vous parait bizarre
+C' est p't-être qu' on est débile
+ce que disent les journaux du soir
+
+<30>
+heureux avant d' être vieux
+d' attendre d' avoir trente ans
+Etre heureux avant être vieux
+Peut prendre en attendant
+On arrive de nulle part
+On vit sans domicile
+On dort dans des hangars
+Le jour on est tranquille
+On passe incognito
+Le soir on change de peau
+Et on frappe au hasard
+préparez vous pour la bagarre
+
+<20>
+peur à voir
+rire les passants
+lames de rasoir
+dans le brouillard
+c' est être heureux
+d' être vieux
+d' avoir trente ans
+prendre en attendant
+
+<10>
+à voir
+les passants
+de rasoir
+le brouillard
+être heureux
+d' être vieux
+trente ans
+en attendant
+
+<0>
+change de trottoir
+
+<1000>
+les filles
+les parkings
+aux buildings
+les zonards
+les boulevards
+de trottoir
+l' air virils
+à voir
+
+<2000>
+gars qui se maquillent
+fait rire les passants
+ils voient du sang
+nos lames de rasoir
+éclair dans le brouillard
+avant d' être vieux
+d' avoir trente ans
+peut prendre en attendant
+
+<5000>
+de nulle part On vit sans domicile
+sans domicile On dort dans des hangars
+Le jour on est tranquille On passe incognito
+on change de peau Et on frappe au hasard
+au hasard Alors préparez vous pour la bagarre
+
+<10000>
+Les gens qui s' y promènent ressortent sur des brancards
+sur des brancards On agit sans mobile Ça vous parait bizarre
+p't-être qu' on est débile C' est p't-être par désespoir
+Du moins c' est ce que disent les journaux du soir
+
+<20000>
+l' an deux mille on aura quarante ans Si on vit pas maintenant demain il sera trop tard
+trop tard Qu' est ce qu' on va faire ce soir On va peut-être tout casser
+Si vous allez danser ne rentrez pas trop tard De peur qu' on égratigne vos Jaguars
+
+<END>

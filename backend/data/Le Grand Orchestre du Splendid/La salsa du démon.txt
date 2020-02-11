@@ -1,0 +1,167 @@
+﻿(Horreur Malheur)
+
+Oui je suis Belzébuth (Horreur)
+Je suis un bouc je suis en rut (Horreur malheur)
+Oui oui oui je vis dans l' ordure (Horreur)
+Je pue la sueur et la luxure
+
+Je fume je bois j' ai tous les vices
+Et j' ai du poil partout sur les cuisses
+Je vous déteste je vous maudis
+J' suis complètement pourri
+
+Quand j' vois un gosse j' lui fous une claque
+Quand j' vois une vieille j' lui pique son sac
+Je crache je rote rien ne m' arrête
+Car aujourd'hui c' est la fête
+
+C' est la c' est la c' est la
+Salsa du démon
+Salsa du démon
+Salsa du démon
+Salsa du démon
+
+(Horreur malheur)
+
+Oui c' est moi Vampirella (Horreur)
+Malheur à ceux qui ne m' aiment pas (Horreur malheur)
+Oui oui oui mon coeur est en fer (Horreur)
+Je fais l' amour comme une panthère
+
+Mes amants je les écorche vifs
+Et je les fouette je leur coupe le pif
+J' fais des trucs cochons avec des chaines
+Aux minets du seizième
+
+Pourchassant les puceaux en fuite
+Le démon du sexe m' habite
+Venez là mes petits amis
+Car c' est la fête aujourd'hui
+
+C' est la c' est la c' est la
+Salsa du démon
+Salsa du démon
+Salsa du démon
+Salsa du démon
+
+(Horreur malheur)
+
+Oui je suis la sorcière (Horreur)
+J' suis vieille j' suis moche j' suis une mégère (Horreur malheur)
+Oui oui oui sur mon balai maudit (Horreur)
+J' aime bien faire mal aux tous petits
+
+Je fais bouillir des mains de pendus
+J' mange des crapauds des rats tout poilus
+J' fais des potions pour séduire les hommes
+Puis j' les mords quand ils dorment
+
+Dans ma marmite c' est l' épouvante
+Y a des bestioles dégoulinantes
+Ce soir j' fais du boeuf au pipi
+Car c' est la fête aujourd'hui
+
+C' est la c' est la c' est la
+Salsa du démon
+Salsa du démon
+Salsa du démon
+Salsa du démon
+
+
+C' est la c' est la c' est la
+Salsa du démon
+Salsa du démon
+Salsa du démon
+Salsa du démon
+
+C' est la c' est la c' est la
+Salsa du démon
+Salsa du démon
+Salsa du démon
+Salsa du démon
+
+
+<50>
+Malheur à ceux qui ne m' aiment pas
+Oui oui oui mon coeur est en fer
+Je fais l' amour comme une panthère
+je les fouette je leur coupe le pif
+J' fais des trucs cochons avec des chaines
+avec des chaines Aux minets du seizième
+en fuite Le démon du sexe m' habite
+
+<40>
+à ceux qui ne m' aiment pas
+Oui oui oui mon coeur est en fer
+fais l' amour comme une panthère
+les fouette je leur coupe le pif
+des trucs cochons avec des chaines
+des chaines Aux minets du seizième
+Le démon du sexe m' habite
+
+<30>
+qui ne m' aiment pas
+mon coeur est en fer
+l' amour comme une panthère
+je les écorche vifs
+je leur coupe le pif
+trucs cochons avec des chaines
+chaines Aux minets du seizième
+Le démon du sexe m' habite
+
+<20>
+m' aiment pas
+est en fer
+comme une panthère
+les écorche vifs
+coupe le pif
+cochons avec des chaines
+Aux minets du seizième
+du sexe m' habite
+
+<10>
+en fer
+une panthère
+écorche vifs
+le pif
+des chaines
+du seizième
+m' habite
+
+<0>
+partout sur les cuisses
+
+<1000>
+en rut
+l' ordure
+la luxure
+les vices
+les cuisses
+
+<2000>
+déteste je vous maudis
+J' suis complètement pourri
+lui fous une claque
+lui pique son sac
+rien ne m' arrête
+c' est la fête
+
+<5000>
+Malheur à ceux qui ne m' aiment pas
+Oui oui oui mon coeur est en fer
+Je fais l' amour comme une panthère
+Mes amants je les écorche vifs
+je les fouette je leur coupe le pif
+
+<10000>
+des trucs cochons avec des chaines Aux minets du seizième
+les puceaux en fuite Le démon du sexe m' habite
+Venez là mes petits amis Car c' est la fête aujourd'hui
+
+<20000>
+Je fais bouillir des mains de pendus J' mange des crapauds des rats tout poilus
+J' fais des potions pour séduire les hommes Puis j' les mords quand ils dorment
+Dans ma marmite c' est l' épouvante Y a des bestioles dégoulinantes
+Ce soir j' fais du boeuf au pipi Car c' est la fête aujourd'hui
+
+<END>

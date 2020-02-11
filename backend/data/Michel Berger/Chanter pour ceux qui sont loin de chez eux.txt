@@ -1,0 +1,129 @@
+﻿Celui-là passe toute la nuit
+À regarder les étoiles
+En pensant qu' au bout du monde
+Y a quelqu' un qui pense à lui
+
+Et cette petite fille qui joue
+Qui ne veut plus jamais sourire
+Et qui voit son père partout
+Qui s' est construit un empire
+
+Où qu' ils aillent ils sont tristes à la fête
+Où qu' ils aillent ils sont seuls dans leur tête
+
+Je veux chanter pour ceux
+Qui sont loin de chez eux
+Et qui ont dans leurs yeux
+Quelque chose qui fait mal qui fait mal
+Je veux chanter pour ceux
+Qu' on oublie peu à peu
+Et qui gardent au fond d' eux
+Quelque chose qui fait mal qui fait mal
+
+Qui a volé leur histoire
+qui a volé leur mémoire
+Qui a piétiné leur vie
+Comme on marche sur un miroir
+Celui là voudra des bombes
+Celui là comptera les jours
+En alignant des bâtons
+Comme les barreaux d' une prison
+
+Où qu' ils aillent ils sont tristes à la fête
+Où qu' ils aillent ils sont seuls dans leur tête
+
+Je veux chanter pour ceux
+Qui sont loin de chez eux
+Et qui ont dans leurs yeux
+Quelque chose qui fait mal qui fait mal
+Je veux chanter pour ceux
+Qu' on oublie peu à peu
+Et qui gardent au fond d' eux
+Quelque chose qui fait mal qui fait mal
+
+Chanter pour ceux
+Qui sont loin de chez eux
+Et qui ont dans leurs yeux
+Quelque chose qui fait mal qui fait mal
+
+Quand je pense à eux
+Ça fait mal ça fait mal
+Quand je pense à eux
+Ça fait mal ça fait mal
+
+
+
+
+
+
+
+<50>
+leur histoire qui a volé leur mémoire
+leur mémoire Qui a piétiné leur vie
+leur vie Comme on marche sur un miroir
+des bombes Celui là comptera les jours
+des bâtons Comme les barreaux d' une prison
+
+<40>
+leur histoire qui a volé leur mémoire
+leur mémoire Qui a piétiné leur vie
+Comme on marche sur un miroir
+bombes Celui là comptera les jours
+Comme les barreaux d' une prison
+
+<30>
+qui a volé leur mémoire
+Qui a piétiné leur vie
+on marche sur un miroir
+Celui là comptera les jours
+les barreaux d' une prison
+
+<20>
+ont dans leurs yeux
+oublie peu à peu
+au fond d' eux
+volé leur mémoire
+piétiné leur vie
+sur un miroir
+comptera les jours
+d' une prison
+
+<10>
+leurs yeux
+peu à peu
+leur mémoire
+leur vie
+un miroir
+les jours
+d' une prison
+
+
+<0>
+ils sont tristes à la fête
+
+<1000>
+les étoiles
+du monde
+à lui
+qui joue
+jamais sourire
+
+<2000>
+voit son père partout
+s' est construit un empire
+sont tristes à la fête
+seuls dans leur tête
+
+<5000>
+leurs yeux Quelque chose qui fait mal qui fait mal
+pour ceux Qu' on oublie peu à peu
+Et qui gardent au fond d' eux
+
+<10000>
+Qui a volé leur histoire qui a volé leur mémoire
+Qui a piétiné leur vie Comme on marche sur un miroir
+
+<20000>
+Celui là comptera les jours En alignant des bâtons Comme les barreaux d' une prison
+
+<END>

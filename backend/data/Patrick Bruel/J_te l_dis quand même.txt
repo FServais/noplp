@@ -1,0 +1,111 @@
+﻿On aurait pu se dire tout ça
+Ailleurs qu' au café d' en bas
+Que t' allais peut-être partir
+Et peut-être même pas revenir
+Mais en tout cas c' qui est sûr
+C' est qu' on pouvait en rire
+
+Alors on va s' quitter comme ça
+Comme des cons devant l' café d' en bas
+Comme dans une série B
+On est tous les deux mauvais
+On s' est moqué tellement d' fois
+Des gens qui faisaient ça
+
+Mais j' trouve pas d' refrain à notre histoire
+Tous les mots qui m' viennent sont dérisoires
+J' sais bien qu' j' l' ai trop dit
+Mais j' te l' dis quand même
+je t' aime
+
+J' voulais quand même te dire merci
+Pour tout le mal qu' on s' est pas dit
+Certains rigolent déjà
+J' m' en fous j' les aimais pas
+On avait l' air trop bien
+Y en a qui n' supportent pas
+
+Mais j' trouve pas d' refrain à notre histoire
+Tous les mots qui m' viennent sont dérisoires
+J' sais bien qu' j' te l' ai trop dit
+Mais j' te l' dis quand même
+je t' aime
+
+J' sais bien qu' j' l' ai trop dit
+Mais j' t’ le dis quand même
+je t' aime
+
+Je t’aime
+
+
+
+
+
+
+
+<50>
+le mal qu' on s' est pas dit
+J' m' en fous j' les aimais pas
+aimais pas On avait l' air trop bien
+Y en a qui n' supportent pas
+
+<40>
+qu' on s' est pas dit
+en fous j' les aimais pas
+On avait l' air trop bien
+Y en a qui n' supportent pas
+
+<30>
+quand même te dire merci
+qu' on s' est pas dit
+fous j' les aimais pas
+avait l' air trop bien
+qui n' supportent pas
+
+<20>
+gens qui faisaient ça
+à notre histoire
+m' viennent sont dérisoires
+je t' aime
+te dire merci
+j' les aimais pas
+n' supportent pas
+
+<10>
+faisaient ça
+notre histoire
+sont dérisoires
+je t' aime
+dire merci
+aimais pas
+trop bien
+supportent pas
+
+<0>
+même pas revenir
+
+<1000>
+d' en bas
+peut-être partir
+même pas revenir
+en rire
+
+<2000>
+s' quitter comme ça
+l' café d' en bas
+dans une série B
+tous les deux mauvais
+moqué tellement d' fois
+gens qui faisaient ça
+
+<5000>
+j' trouve pas d' refrain à notre histoire
+Tous les mots qui m' viennent sont dérisoires
+
+<10000>
+Pour tout le mal qu' on s' est pas dit
+
+<20000>
+j' les aimais pas On avait l' air trop bien Y en a qui n' supportent pas
+
+<END>

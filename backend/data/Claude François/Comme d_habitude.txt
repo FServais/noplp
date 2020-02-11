@@ -1,0 +1,156 @@
+﻿Je me lève et je te bouscule
+Tu n’te réveilles pas
+Comme d' habitude
+Sur toi je remonte le drap
+J' ai peur que tu aies froid
+Comme d' habitude
+Ma main caresse tes cheveux
+Presque malgré moi
+Comme d' habitude
+Mais toi tu me tournes le dos
+Comme d' habitude
+
+Et puis je m' habille très vite
+Je sors de la chambre
+Comme d' habitude
+Tout seul je bois mon café
+Je suis en retard
+Comme d' habitude
+Sans bruit je quitte la maison
+Tout est gris dehors
+Comme d' habitude
+J' ai froid je relève mon col
+Comme d' habitude
+
+Comme d' habitude toute la journée
+Je vais jouer à faire semblant
+Comme d' habitude je vais sourire
+Oui comme d' habitude je vais même rire
+Comme d' habitude enfin je vais vivre
+Oui comme d' habitude
+
+Et puis le jour s' en ira
+Moi je reviendrai
+Comme d' habitude
+Toi tu seras sortie
+Pas encore rentrée
+Comme d' habitude
+Tout seul j' irai me coucher
+Dans ce grand lit froid
+Comme d' habitude
+Mes larmes je les cacherai
+Comme d' habitude
+
+Mais comme d' habitude même la nuit
+Je vais jouer à faire semblant
+Comme d' habitude tu rentreras
+Oui comme d' habitude je t' attendrai
+Comme d' habitude tu me souriras
+Oui comme d' habitude
+
+(Oh) Comme d' habitude tu te déshabilleras
+Oui comme d' habitude tu te coucheras
+Oui comme d' habitude on s' embrassera
+(Oh) Comme d' habitude
+
+(Oh) Comme d' habitude on fera semblant
+Oui comme d' habitude on fera l' amour
+Oui comme d' habitude on fera semblant
+(Oh) Comme d' habitude
+
+
+(Oh) Comme d' habitude
+On fera semblant
+
+
+<50>
+très vite Je sors de la chambre
+je bois mon café Je suis en retard
+je quitte la maison Tout est gris dehors
+J' ai froid je relève mon col
+toute la journée Je vais jouer à faire semblant
+le jour s' en ira Moi je reviendrai
+Toi tu seras sortie Pas encore rentrée
+me coucher Dans ce grand lit froid
+
+<40>
+vite Je sors de la chambre
+mon café Je suis en retard
+la maison Tout est gris dehors
+J' ai froid je relève mon col
+journée Je vais jouer à faire semblant
+
+<30>
+je m' habille très vite
+Je sors de la chambre
+seul je bois mon café
+bruit je quitte la maison
+Tout est gris dehors
+je relève mon col
+vais jouer à faire semblant
+je vais même rire
+enfin je vais vivre
+
+
+<20>
+m' habille très vite
+sors de la chambre
+je bois mon café
+Je suis en retard
+je quitte la maison
+Tout est gris dehors
+je relève mon col
+à faire semblant
+je vais sourire
+je vais même rire
+je vais vivre
+
+<10>
+très vite
+la chambre
+mon café
+en retard
+la maison
+gris dehors
+mon col
+faire semblant
+vais sourire
+même rire
+vais vivre
+
+<0>
+que tu aies froid
+
+<1000>
+le drap
+aies froid
+tes cheveux
+malgré moi
+le dos
+
+<2000>
+m' habille très vite
+sors de la chambre
+je bois mon café
+Je suis en retard
+je quitte la maison
+Tout est gris dehors
+je relève mon col
+
+<5000>
+la journée Je vais jouer à faire semblant
+faire semblant Comme d' habitude je vais sourire
+Oui comme d' habitude je vais même rire
+Comme d' habitude enfin je vais vivre
+
+<10000>
+Et puis le jour s' en ira Moi je reviendrai
+Toi tu seras sortie Pas encore rentrée Comme d' habitude
+Tout seul j' irai me coucher Dans ce grand lit froid
+
+<20000>
+Mais comme d' habitude même la nuit Je vais jouer à faire semblant
+tu rentreras Oui comme d' habitude je t' attendrai Comme d' habitude tu me souriras
+tu te déshabilleras Oui comme d' habitude tu te coucheras Oui comme d' habitude on s' embrassera
+
+<END>

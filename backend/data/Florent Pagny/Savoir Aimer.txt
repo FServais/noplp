@@ -1,0 +1,181 @@
+﻿Savoir sourire
+À une inconnue qui passe
+N' en garder aucune trace
+Sinon celle du plaisir
+Savoir aimer
+Sans rien attendre en retour
+Ni égard ni grand amour
+Pas même l' espoir d' être aimé
+
+Mais savoir donner
+Donner sans reprendre
+Ne rien faire qu' apprendre
+Apprendre à aimer
+Aimer sans attendre
+Aimer à tout prendre
+Apprendre à sourire
+Rien que pour le geste
+Sans vouloir le reste
+Et apprendre à vivre
+Et s' en aller
+
+Savoir attendre
+Gouter à ce plein bonheur
+Qu' on vous donne comme par erreur
+Tant on ne l' attendait plus
+Se voir y croire
+Pour tromper la peur du vide
+Ancrée comme autant de rides
+Qui ternissent les miroirs
+
+Mais savoir donner
+Donner sans reprendre
+Ne rien faire qu' apprendre
+Apprendre à aimer
+Aimer sans attendre
+Aimer à tout prendre
+Apprendre à sourire
+Rien que pour le geste
+Sans vouloir le reste
+Et apprendre à vivre
+Et s' en aller
+
+Savoir souffrir
+En silence sans murmure
+Ni défense ni armure
+Souffrir à vouloir mourir
+Et se relever
+Comme on renait de ses cendres
+Avec tant d' amour à revendre
+Qu' on tire un trait sur le passé
+
+Mais savoir donner
+Donner sans reprendre
+Ne rien faire qu' apprendre
+Apprendre à aimer
+Aimer sans attendre
+Aimer à tout prendre
+Apprendre à sourire
+Rien que pour le geste
+Sans vouloir le reste
+Et apprendre à vivre
+Et s' en aller
+
+Apprendre à rêver
+À rêver pour deux
+Rien qu' en fermant les yeux
+Et savoir donner
+Donner sans rature
+Ni demi-mesure
+Apprendre à rester
+Vouloir jusqu' au bout
+Rester malgré tout
+Apprendre à aimer
+Et s' en aller
+Et s' en aller
+Et s' en aller
+
+
+
+
+<50>
+Savoir attendre Gouter à ce plein bonheur
+Qu' on vous donne comme par erreur
+par erreur Tant on ne l' attendait plus
+l' attendait plus Se voir y croire
+y croire Pour tromper la peur du vide
+comme autant de rides Qui ternissent les miroirs
+En silence sans murmure Ni défense ni armure
+Ni défense ni armure Souffrir à vouloir mourir
+Et se relever Comme on renait de ses cendres
+ses cendres Avec tant d' amour à revendre
+Qu' on tire un trait sur le passé
+
+<40>
+attendre Gouter à ce plein bonheur
+Qu' on vous donne comme par erreur
+Tant on ne l' attendait plus
+l' attendait plus Se voir y croire
+croire Pour tromper la peur du vide
+autant de rides Qui ternissent les miroirs
+
+<30>
+Rien que pour le geste
+geste Sans vouloir le reste
+reste Et apprendre à vivre
+vivre Et s' en aller
+Gouter à ce plein bonheur
+vous donne comme par erreur
+on ne l' attendait plus
+plus Se voir y croire
+Pour tromper la peur du vide
+Qui ternissent les miroirs
+
+<20>
+Aimer à tout prendre
+Rien que pour le geste
+Sans vouloir le reste
+Et apprendre à vivre
+Et s' en aller
+à ce plein bonheur
+donne comme par erreur
+ne l' attendait plus
+Se voir y croire
+tromper la peur du vide
+ternissent les miroirs
+
+<10>
+à tout prendre
+le geste
+le reste
+à vivre
+s' en aller
+plein bonheur
+par erreur
+l' attendait plus
+y croire
+du vide
+les miroirs
+
+<0>
+Sinon celle du plaisir
+
+<1000>
+qui passe
+aucune trace
+du plaisir
+Savoir aimer
+en retour
+grand amour
+d' être aimé
+
+<2000>
+Ne rien faire qu' apprendre
+aimer Aimer sans attendre
+Aimer à tout prendre
+Rien que pour le geste
+Sans vouloir le reste
+Et apprendre à vivre
+Et s' en aller
+
+<5000>
+Savoir attendre Gouter à ce plein bonheur
+Qu' on vous donne comme par erreur
+par erreur Tant on ne l' attendait plus
+l' attendait plus Se voir y croire
+y croire Pour tromper la peur du vide
+comme autant de rides Qui ternissent les miroirs
+
+<10000>
+Savoir souffrir En silence sans murmure Ni défense ni armure
+En silence sans murmure Ni défense ni armure Souffrir à vouloir mourir
+mourir Et se relever Comme on renait de ses cendres
+on renait de ses cendres Avec tant d' amour à revendre
+à revendre Qu' on tire un trait sur le passé
+
+<20000>
+Apprendre à rêver À rêver pour deux Rien qu' en fermant les yeux Et savoir donner
+deux Rien qu' en fermant les yeux Et savoir donner Donner sans rature Ni demi-mesure
+Apprendre à rester Vouloir jusqu' au bout Rester malgré tout Apprendre à aimer Et s' en aller
+
+<END>

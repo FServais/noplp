@@ -1,0 +1,129 @@
+﻿À force de se voir
+on ne se voyait plus
+À tant vouloir y croire
+on n' y croyait plus
+Et ne me laisse pas
+si tu n' es pas sûre
+Loin loin de toi
+tu me dis tout bas
+Cette petite aventure
+Va tourner en déconfiture
+Éclaire moi
+
+Éteins la lumière
+Montre moi ton côté sombre
+Regarde les ombres
+Qui errent
+Cherche un peu de lumière
+Tout s' éclaire
+
+Maintenant que le ciel n' a plus de mur
+Laissons nous glisser dans l' ouverture
+Le cœur est si léger là où je t' emmène
+D' autres sont allés dans ce domaine
+
+Éteins la lumière
+Nettoie ce qui n' est pas toi
+Souffle la poussière sur toi
+
+Éteins la lumière
+Montre moi ton coté sombre
+Regarde les ombres
+Qui errent
+Cherche un peu de lumière
+Tout s' éclaire
+
+À force de se voir
+on ne se voyait plus
+À tant vouloir y croire
+on n' y croyait plus
+Cette petite aventure
+Va tourner en déconfiture
+
+Éteins la lumière
+Montre moi ton coté sombre
+Regarde les ombres
+Qui errent
+Cherche un peu de lumière
+Tout s' éclaire
+
+S' éclaire
+
+
+<50>
+que le ciel n' a plus de mur
+Laissons nous glisser dans l' ouverture
+est si léger là où je t' emmène
+D' autres sont allés dans ce domaine
+Nettoie ce qui n' est pas toi
+pas toi Souffle la poussière sur toi
+
+<40>
+le ciel n' a plus de mur
+Laissons nous glisser dans l' ouverture
+si léger là où je t' emmène
+D' autres sont allés dans ce domaine
+Nettoie ce qui n' est pas toi
+pas toi Souffle la poussière sur toi
+
+<30>
+Montre moi ton côté sombre
+Regarde les ombres Qui errent
+peu de lumière Tout s' éclaire
+n' a plus de mur
+glisser dans l' ouverture
+là où je t' emmène
+sont allés dans ce domaine
+ce qui n' est pas toi
+
+
+<20>
+tourner en déconfiture
+ton côté sombre
+ombres Qui errent
+un peu de lumière
+Tout s' éclaire
+dans l' ouverture
+je t' emmène
+dans ce domaine
+
+<10>
+en déconfiture
+côté sombre
+Qui errent
+de lumière
+s' éclaire
+l' ouverture
+t' emmène
+ce domaine
+
+<0>
+la lumière
+
+<1000>
+voyait plus
+y croire
+croyait plus
+laisse pas
+pas sûre
+
+<2000>
+Loin loin de toi
+me dis tout bas
+Va tourner en déconfiture
+
+<5000>
+Éteins la lumière Montre moi ton côté sombre
+ton côté sombre Regarde les ombres Qui errent
+Qui errent Cherche un peu de lumière
+Cherche un peu de lumière Tout s' éclaire
+
+<10000>
+n' a plus de mur Laissons nous glisser dans l' ouverture
+Le cœur est si léger là où je t' emmène
+où je t' emmène D' autres sont allés dans ce domaine
+
+<20000>
+Éteins la lumière Nettoie ce qui n' est pas toi Souffle la poussière sur toi
+
+<END>

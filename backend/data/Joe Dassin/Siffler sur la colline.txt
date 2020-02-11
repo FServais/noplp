@@ -1,0 +1,114 @@
+﻿Ho ho ho ho
+ho ho ho ho
+
+Je l' ai vu près d' un laurier
+Elle gardait ses blanches brebis
+Quand j' ai demandé d' où venait sa peau fraiche
+Elle m' a dit
+C' est d' rouler dans la rosée qui rend les bergères jolies
+Mais quand j' ai dit qu' avec elle je voudrais m' y rouler aussi
+Elle m' a dit
+
+Elle m' a dit d' aller siffler là-haut sur la colline
+De l' attendre avec un petit bouquet d' églantines
+J' ai cueilli des fleurs et j' ai sifflé tant que j' ai pu
+j' ai attendu attendu elle n' est jamais venue
+
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+
+À la foire du village
+Un jour je lui ai soupiré
+Que je voudrais être une pomme
+suspendue à un pommier
+Et qu' à chaque fois qu' elle passe
+Elle vienne me mordre dedans
+Mais elle est passée tout en me montrant ses jolies dents
+Elle m' a dit
+
+Elle m' a dit d' aller siffler là-haut sur la colline
+De l' attendre avec un petit bouquet d' églantines
+J' ai cueilli des fleurs et j' ai sifflé tant que j' ai pu
+j' ai attendu attendu elle n' est jamais venue
+
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+
+Ho ho ho ho
+ho ho ho ho
+
+Elle m' a dit d' aller siffler là-haut sur la colline
+De l' attendre avec un petit bouquet d' églantines
+J' ai cueilli des fleurs et j' ai sifflé tant que j' ai pu
+j' ai attendu attendu elle n' est jamais venue
+
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+zaï zaï zaï zaï
+
+Ho ho ho ho
+ho ho ho ho
+
+
+<50>
+du village un jour je lui ai soupiré
+voudrais être une pomme suspendue à un pommier
+qu' elle passe elle vienne me mordre dedans
+tout en me montrant ses jolies dents
+
+<40>
+village un jour je lui ai soupiré
+être une pomme suspendue à un pommier
+passe elle vienne me mordre dedans
+en me montrant ses jolies dents
+
+<30>
+un jour je lui ai soupiré
+une pomme suspendue à un pommier
+elle vienne me mordre dedans
+me montrant ses jolies dents
+
+<20>
+bouquet d' églantines
+je lui ai soupiré
+suspendue à un pommier
+me mordre dedans
+ses jolies dents
+
+<10>
+bouquet d' églantines
+un pommier
+me mordre dedans
+jolies dents
+
+<0>
+Elle m' a dit
+
+<1000>
+blanches brebis
+peau fraiche
+
+<2000>
+rouler dans la rosée
+rend les bergères jolies
+m' y rouler aussi
+
+<5000>
+De l' attendre avec un petit bouquet d' églantines
+et j' ai sifflé tant que j' ai pu
+j' ai attendu attendu elle n' est jamais venue
+
+<10000>
+À la foire du village un jour je lui ai soupiré
+Que je voudrais être une pomme suspendue à un pommier
+
+<20000>
+elle vienne me mordre dedans Mais elle est passée tout en me montrant ses jolies dents
+Mais elle est passée tout en me montrant ses jolies dents Elle m' a dit
+
+<END>

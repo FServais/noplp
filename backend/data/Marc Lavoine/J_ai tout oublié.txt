@@ -1,0 +1,137 @@
+﻿À deux pas d' ici j' habite
+Peut-être est-ce ailleurs
+Je ne reconnais plus ma vie
+Parfois je me fais peur
+Je vis dans un monde
+Qui n' existe pas
+Sans toi je ne suis plus tout à fait moi
+
+À deux pas d' ici
+J' ai égaré ce que j' étais
+Mon nom ne me dit rien
+Ni la photo sur mes papiers
+On peut bien m' appeler
+Untel ou untel
+Sans toi peu m' importe qui m' appelle
+
+Comment dit on bonjour
+Je ne sais plus
+Le parfum des beaux jours
+Je le sens plus
+Comment fait on l' amour
+Si j' avais su
+J' ai tout oublié quand tu m' as oublié
+Les mots doux de velours
+Je n' écris plus
+Et le sens de l' humour
+Je l' ai perdu
+Comment faire l' amour
+Si j' avais su
+J' ai tout oublié quand tu m' as oublié
+
+À deux pas d' ici j' ai essayé de revenir
+De mettre un peu d' ordre à mes idées
+Les rafraichir
+
+Je m'  suis coupée les cheveux
+J' ai rasé les murs
+Ce que je fais
+Je n' en suis pas sure
+
+Comment dit on bonjour
+Je ne sais plus
+Le parfum des beaux jours
+Je le sens plus
+Comment fait on l' amour
+Si j' avais su
+J' ai tout oublié quand tu m' as oublié
+Les mots doux de velours
+Je n' écris plus
+Et le sens de l' humour
+Je l' ai perdu
+Comment faire l' amour
+Si j' avais su
+J' ai tout oublié quand tu m' as oublié
+
+J' ai tout oublié quand tu m' as oublié
+
+J' ai tout oublié quand tu m' as oublié
+
+
+
+
+
+
+
+<50>
+d' ici j' ai essayé de revenir
+un peu d' ordre à mes idées
+d' ordre à mes idées Les rafraichir
+les cheveux J' ai rasé les murs
+je fais Je n' en suis pas sure
+
+<40>
+d' ici j' ai essayé de revenir
+peu d' ordre à mes idées
+cheveux J' ai rasé les murs
+Je n' en suis pas sure
+
+<30>
+beaux jours Je le sens plus
+l' amour Si j' avais su
+velours Je n' écris plus
+l' humour Je l' ai perdu
+j' ai essayé de revenir
+d' ordre à mes idées
+J' ai rasé les murs
+Je n' en suis pas sure
+
+<20>
+parfum des beaux jours
+Je le sens plus
+Si j' avais su
+mots doux de velours
+n' écris plus
+sens de l' humour
+Je l' ai perdu
+Comment faire l' amour
+
+<10>
+beaux jours
+sens plus
+l' amour
+j' avais su
+de velours
+l' humour
+Je l' ai perdu
+
+<0>
+Qui n' existe pas
+
+<1000>
+ma vie
+fais peur
+n' existe pas
+
+<2000>
+ce que j' étais
+ne me dit rien
+la photo sur mes papiers
+m' appeler Untel ou untel
+m' importe qui m' appelle
+
+<5000>
+dit on bonjour Je ne sais plus
+des beaux jours Je le sens plus
+fait on l' amour Si j' avais su
+de velours Je n' écris plus
+de l' humour Je l' ai perdu
+
+<10000>
+À deux pas d' ici j' ai essayé de revenir
+De mettre un peu d' ordre à mes idées Les rafraichir
+
+<20000>
+J' ai rasé les murs Ce que je fais Je n' en suis pas sure
+
+<END>

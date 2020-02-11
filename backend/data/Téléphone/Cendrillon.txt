@@ -1,0 +1,135 @@
+﻿Cendrillon pour ses vingt ans
+Est la plus jolie des enfants
+Son bel amant le prince charmant
+La prend sur son cheval blanc
+Elle oublie le temps
+Dans ce palais d' argent
+Pour ne pas voir qu' un nouveau jour se lève
+Elle ferme les yeux et dans ses rêves
+
+Elle part jolie petite histoire
+Elle part jolie petite histoire
+
+Cendrillon pour ses trente ans
+Est la plus triste des mamans
+Le prince charmant a foutu l' camp
+Avec la Belle au bois dormant
+Elle a vu cent chevaux blancs
+Loin d' elle emmener ses enfants
+Elle commence à boire
+À trainer dans les bars
+Emmitouflée dans son cafard
+Maintenant elle fait le trottoir
+
+Elle part jolie petite histoire
+Elle part jolie petite histoire
+
+Dix ans de cette vie ont suffi
+A la changer en junkie
+Et dans un sommeil infini
+Cendrillon voit finir sa vie
+Les lumières dansent
+Dans l' ambulance
+Mais elle tue sa dernière chance
+Tout ça n' a plus d' importance
+
+Elle part
+Fin de l' histoire
+
+Notre père qui êtes si vieux
+As tu vraiment fait de ton mieux
+Car sur la terre et dans les cieux
+Tes anges n' aiment pas devenir vieux
+
+
+
+
+
+
+
+<50>
+cette vie ont suffi A la changer en junkie
+un sommeil infini Cendrillon voit finir sa vie
+sa vie Les lumières dansent Dans l' ambulance
+dernière chance Tout ça n' a plus d' importance
+As tu vraiment fait de ton mieux
+Car sur la terre et dans les cieux
+Tes anges n' aiment pas devenir vieux
+
+<40>
+ont suffi A la changer en junkie
+infini Cendrillon voit finir sa vie
+Les lumières dansent Dans l' ambulance
+Mais elle tue sa dernière chance
+Tout ça n' a plus d' importance
+
+<30>
+la plus triste des mamans
+Le prince charmant a foutu l' camp
+Avec la Belle au bois dormant
+Elle a vu cent chevaux blancs
+Loin d' elle emmener ses enfants
+les bars Emmitouflée dans son cafard
+cafard Maintenant elle fait le trottoir
+
+<20>
+pour ses trente ans
+plus triste des mamans
+a foutu l' camp
+la Belle au bois dormant
+vu cent chevaux blancs
+emmener ses enfants
+Elle commence à boire
+À trainer dans les bars
+Emmitouflée dans son cafard
+elle fait le trottoir
+
+
+<10>
+ses trente ans
+des mamans
+foutu l' camp
+au bois dormant
+chevaux blancs
+emmener ses enfants
+à boire
+les bars
+son cafard
+le trottoir
+
+<0>
+cheval blanc
+
+<1000>
+des enfants
+bel amant
+prince charmant
+cheval blanc
+le temps
+d' argent
+
+<2000>
+nouveau jour se lève
+Elle ferme les yeux
+et dans ses rêves
+part jolie petite histoire
+
+<5000>
+trente ans Est la plus triste des mamans
+Le prince charmant a foutu l' camp
+l' camp Avec la Belle au bois dormant
+chevaux blancs Loin d' elle emmener ses enfants
+Elle commence à boire À trainer dans les bars
+Emmitouflée dans son cafard Maintenant elle fait le trottoir
+
+<10000>
+Dix ans de cette vie ont suffi A la changer en junkie
+Et dans un sommeil infini Cendrillon voit finir sa vie
+dansent Dans l' ambulance Mais elle tue sa dernière chance
+Mais elle tue sa dernière chance Tout ça n' a plus d' importance
+
+<20000>
+si vieux As tu vraiment fait de ton mieux Car sur la terre et dans les cieux
+de ton mieux Car sur la terre et dans les cieux Tes anges n' aiment pas devenir vieux
+
+<END>

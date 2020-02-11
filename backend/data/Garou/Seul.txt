@@ -1,0 +1,153 @@
+﻿Tant de fois j' ai tenté
+D' aller toucher les étoiles
+Que souvent en tombant
+Je m' y suis fait mal
+
+Tant de fois j' ai pensé
+Avoir franchi les limites
+Mais toujours une femme
+M' a remis en orbite
+
+Tant de fois j' ai grimpé
+Jusqu' au plus haut des cimes
+Que je m' suis retrouvé
+Seul au fond de l' abime
+Seul au fond de l' abime
+
+Celui qui n' a jamais été seul
+Au moins une fois dans sa vie
+Seul au fond de son lit
+Seul au bout de la nuit
+
+Celui qui n' a jamais été seul
+Au moins une fois dans sa vie
+Peut il seulement aimer
+Peut il aimer jamais
+
+Tant d' amis sont partis
+Du jour au lendemain
+Que je sais aujourd'hui
+Qu' on peut mourir demain
+
+On a beau tout avoir
+L' argent l' amour la gloire
+Il y a toujours un soir
+Où l' on se retrouve seul
+Seul au point de départ
+
+Celui qui n' a jamais été seul
+Au moins une fois dans sa vie
+Seul au fond de son lit
+Seul au bout de la nuit
+
+Celui qui n' a jamais été seul
+Au moins une fois dans sa vie
+Peut il seulement aimer
+Peut il aimer jamais
+
+Tant de fois j' ai été
+Jusqu' au bout de mes rêves
+Que je continuerai
+Jusqu' à ce que j' en crève
+Que je continuerai
+Que je continuerai
+
+Celui qui n' a jamais été seul
+Au moins une fois dans sa vie
+Seul au fond de son lit
+Seul au bout de la nuit
+
+(seulement aimer)
+
+Jamais jamais
+(Jamais jamais)
+
+Peut il seulement aimer
+(seulement aimer)
+
+Jamais jamais
+(Jamais jamais) 
+
+Je continuerai
+Je continuerai
+
+(seulement aimer)
+Peut il aimer
+
+
+
+
+
+
+
+<50>
+d' amis sont partis Du jour au lendemain
+je sais aujourd'hui Qu' on peut mourir demain
+tout avoir L' argent l' amour la gloire
+un soir Où l' on se retrouve seul
+se retrouve seul Seul au point de départ
+
+<40>
+sont partis Du jour au lendemain
+aujourd'hui Qu' on peut mourir demain
+L' argent l' amour la gloire
+Où l' on se retrouve seul
+seul Seul au point de départ
+
+<30>
+partis Du jour au lendemain
+Qu' on peut mourir demain
+L' argent l' amour la gloire
+l' on se retrouve seul
+Seul au point de départ
+
+<20>
+fois dans sa vie
+fond de son lit
+bout de la nuit
+Peut il seulement aimer
+Peut il aimer jamais
+Du jour au lendemain
+peut mourir demain
+
+<10>
+sa vie
+son lit
+la nuit
+seulement aimer
+aimer jamais
+au lendemain
+mourir demain
+
+<0>
+M' a remis en orbite
+
+<1000>
+les étoiles
+fait mal
+j' ai pensé
+les limites
+
+<2000>
+Mais toujours une femme
+M' a remis en orbite
+plus haut des cimes
+je m' suis retrouvé
+au fond de l' abime
+
+<5000>
+Au moins une fois dans sa vie
+son lit Seul au bout de la nuit
+Celui qui n' a jamais été seul
+Au moins une fois dans sa vie
+Peut il seulement aimer Peut il aimer jamais
+
+<10000>
+au lendemain Que je sais aujourd'hui Qu' on peut mourir demain
+
+<20000>
+l' amour la gloire Il y a toujours un soir Où l' on se retrouve seul
+toujours un soir Où l' on se retrouve seul Seul au point de départ
+Jusqu' au bout de mes rêves Que je continuerai Jusqu' à ce que j' en crève
+
+<END>

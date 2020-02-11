@@ -1,0 +1,125 @@
+﻿Posté devant la fenêtre
+Je guette les âmes esseulées
+À la faveur de l' automne
+
+Posté devant la fenêtre
+Je regrette de n' y avoir songé
+Maintenant que tu abandonnes
+
+À la faveur de l' automne
+Revient cette douce mélancolie
+Un deux trois quatre
+Un peu comme on fredonne
+De vieilles mélodies
+
+Rivé devant le téléphone
+J' attends que tu daignes m' appeler
+Que tu te décides enfin
+
+Toi tes allures de garçonne
+Rompiez un peu la monotonie
+De mes journées de mes nuits
+
+À la faveur de l' automne
+Revient cette douce mélancolie
+Un deux trois quatre
+Un peu comme on fredonne
+De vieilles mélodies
+
+À la faveur de l' automne
+Tu redonnes à ma mélancolie
+Ses couleurs de super scopitone
+
+À la faveur de l' automne
+À la faveur de l' automne
+À la faveur de l' automne
+
+Comment
+Ai je pu seulement être aussi bête
+On m' avait prévenu
+Voici la vérité nue
+
+Manquerait
+Plus que le mauvais temps s' y mette
+Une goutte de pluie et
+J' aurai vraiment tout perdu
+
+À la faveur de l' automne
+Revient cette douce mélancolie
+Un deux trois quatre
+Un peu comme on fredonne
+De vieilles mélodies
+
+À la faveur de l' automne
+Tu redonnes à ma mélancolie
+Ses couleurs de super scopitone
+
+À la faveur de l' automne
+
+
+
+
+<50>
+J' attends que tu daignes m' appeler
+m' appeler Que tu te décides enfin
+allures de garçonne Rompiez un peu la monotonie
+la monotonie De mes journées de mes nuits
+à ma mélancolie Ses couleurs de super scopitone
+On m' avait prévenu Voici la vérité nue
+de pluie et J' aurai vraiment tout perdu
+
+<40>
+J' attends que tu daignes m' appeler
+m' appeler Que tu te décides enfin
+de garçonne Rompiez un peu la monotonie
+De mes journées de mes nuits
+ma mélancolie Ses couleurs de super scopitone
+m' avait prévenu Voici la vérité nue
+pluie et J' aurai vraiment tout perdu
+
+<30>
+que tu daignes m' appeler
+Que tu te décides enfin
+Rompiez un peu la monotonie
+De mes journées de mes nuits
+
+<20>
+cette douce mélancolie
+comme on fredonne
+De vieilles mélodies
+daignes m' appeler
+te décides enfin
+
+<10>
+douce mélancolie
+on fredonne
+vieilles mélodies
+m' appeler
+décides enfin
+
+<0>
+tu abandonnes
+
+<1000>
+âmes esseulées
+avoir songé
+tu abandonnes
+
+<2000>
+Revient cette douce mélancolie
+peu comme on fredonne
+fredonne De vieilles mélodies
+
+<5000>
+J' attends que tu daignes m' appeler
+m' appeler Que tu te décides enfin
+
+<10000>
+Rompiez un peu la monotonie De mes journées de mes nuits
+Tu redonnes à ma mélancolie Ses couleurs de super scopitone
+
+<20000>
+Ai je pu seulement être aussi bête On m' avait prévenu Voici la vérité nue
+le mauvais temps s' y mette Une goutte de pluie et J' aurais vraiment tout perdu
+
+<END>

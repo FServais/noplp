@@ -1,0 +1,119 @@
+﻿Petite Marie je parle de toi
+Parce qu' avec ta petite voix
+Tes petites manies
+tu as versé sur ma vie
+Des milliers de roses
+
+Petite furie je me bats pour toi
+Pour que dans dix mille ans de ça
+On se retrouve à l' abri
+sous un ciel aussi joli
+Que des milliers de roses
+
+Je viens du ciel et les étoiles entre elles
+Ne parlent que de toi
+D' un musicien qui fait jouer ses mains
+Sur un morceau de bois
+De leur amour plus bleu que le ciel autour
+
+Petite Marie je t' attends transi
+Sous une tuile de ton toit
+Le vent de la nuit froide me renvoie la ballade
+Que j' avais écrite pour toi
+
+Petite furie tu dis que la vie
+C' est une bague à chaque doigt
+Au soleil de Floride
+Moi mes poches sont vides et mes yeux pleurent de froid
+
+Je viens du ciel et les étoiles entre elles
+Ne parlent que de toi
+D' un musicien qui fait jouer ses mains
+Sur un morceau de bois
+De leur amour plus bleu que le ciel autour
+
+Dans la pénombre de ta rue
+Petite Marie m' entends tu
+Je n' attends plus que toi pour partir
+
+Dans la pénombre de ta rue
+Petite Marie m' entends tu
+Je n' attends plus que toi pour partir
+
+Je viens du ciel et les étoiles entre elles
+Ne parlent que de toi
+D' un musicien qui fait jouer ses mains
+Sur un morceau de bois
+De leur amour plus bleu que le ciel autour
+
+
+<50>
+transi Sous une tuile de ton toit
+de la nuit froide me renvoie la ballade
+la ballade Que j' avais écrite pour toi
+C' est une bague à chaque doigt
+à chaque doigt Au soleil de Floride
+sont vides Et mes yeux pleurent de froid
+
+<40>
+transi Sous une tuile de ton toit
+nuit froide me renvoie la ballade
+Que j' avais écrite pour toi
+C' est une bague à chaque doigt
+à chaque doigt Au soleil de Floride
+Et mes yeux pleurent de froid
+
+<30>
+Sous une tuile de ton toit
+froide me renvoie la ballade
+j' avais écrite pour toi
+une bague à chaque doigt
+doigt Au soleil de Floride
+mes yeux pleurent de froid
+
+<20>
+Ne parlent que de toi
+Sur un morceau de bois
+que le ciel autour
+de ton toit
+écrite pour toi
+
+<10>
+que de toi
+de bois
+ciel autour
+ton toit
+pour toi
+
+<0>
+Des milliers de roses
+
+<1000>
+petites manies
+de roses
+pour toi
+de ça
+l' abri
+
+<2000>
+Ne parlent que de toi
+fait jouer ses mains
+un morceau de bois
+que le ciel autour
+
+<5000>
+transi Sous une tuile de ton toit
+de la nuit froide me renvoie la ballade
+la ballade Que j' avais écrite pour toi
+
+<10000>
+que la vie C' est une bague à chaque doigt
+C' est une bague à chaque doigt Au soleil de Floride
+moi mes poches sont vides Et mes yeux pleurent de froid
+
+<20000>
+ta rue Petite Marie m' entends tu Je n' attends plus que toi pour partir
+
+
+
+<END>

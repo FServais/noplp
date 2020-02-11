@@ -1,0 +1,125 @@
+﻿Ziggy il s' appelle Ziggy
+Je suis folle de lui
+C' est un garçon pas comme les autres
+Mais moi je l' aime c' est pas d' ma faute
+Même si je sais
+Qu' il ne m' aimera jamais
+
+Ziggy il s' appelle Ziggy
+Je suis folle de lui
+La première fois que je l' ai vu
+Je m' suis jetée sur lui dans la rue
+J' lui ai seulement dit
+Que j' avais envie de lui
+Il était quatre heures du matin
+J' étais seule et j' avais besoin
+De parler à quelqu'un
+Il m' a dit viens prendre un café
+On s' est raconté nos vies
+On a ri on a pleuré oh
+
+Ziggy il s' appelle Ziggy
+C' est mon seul ami
+Dans sa tête y a que d' la musique
+Il vend des disques dans une boutique
+On dirait qu' il vit dans une autre galaxie
+Tous les soirs il m' emmène danser
+Dans des endroits très très gais
+Où il a des tas d' amis
+Oui je sais il aime les garçons
+Je devrais me faire une raison
+Essayer de l' oublier mais
+
+Ziggy il s' appelle Ziggy
+Je suis folle de lui
+C' est un garçon pas comme les autres
+Mais moi je l' aime c' est pas d' ma faute
+Même si je sais
+Qu' il ne m' aimera jamais
+
+
+
+
+
+
+
+<50>
+Dans sa tête y a que d' la musique
+Il vend des disques dans une boutique
+qu' il vit dans une autre galaxie
+Tous les soirs il m' emmène danser
+danser Dans des endroits très très gais
+Où il a des tas d' amis
+Oui je sais il aime les garçons
+les garçons Je devrais me faire une raison
+
+<40>
+sa tête y a que d' la musique
+des disques dans une boutique
+vit dans une autre galaxie
+Tous les soirs il m' emmène danser
+Dans des endroits très très gais
+Où il a des tas d' amis
+je sais il aime les garçons
+Je devrais me faire une raison
+
+<30>
+et j' avais besoin
+De parler à quelqu'un
+viens prendre un café
+On s' est raconté nos vies
+On a ri on a pleuré
+y a que d' la musique
+des disques dans une boutique
+dans une autre galaxie
+il m' emmène danser
+endroits très très gais
+
+<20>
+quatre heures du matin
+et j' avais besoin
+parler à quelqu'un
+viens prendre un café
+raconté nos vies
+on a pleuré
+
+<10>
+du matin
+j' avais besoin
+à quelqu'un
+un café
+nos vies
+on a pleuré
+
+<0>
+Qu' il ne m' aimera jamais
+
+<1000>
+de lui
+l' aime
+d' ma faute
+je sais
+m' aimera jamais
+
+<2000>
+que je l' ai vu
+sur lui dans la rue
+lui ai seulement dit
+j' avais envie de lui
+
+<5000>
+Il était quatre heures du matin
+J' étais seule et j' avais besoin
+Il m' a dit viens prendre un café
+nos vies On a ri on a pleuré
+
+<10000>
+que d' la musique Il vend des disques dans une boutique
+une boutique On dirait qu' il vit dans une autre galaxie
+il m' emmène danser Dans des endroits très très gais
+Dans des endroits très très gais Où il a des tas d' amis
+
+<20000>
+Oui je sais il aime les garçons Je devrais me faire une raison Essayer de l' oublier mais
+
+<END>

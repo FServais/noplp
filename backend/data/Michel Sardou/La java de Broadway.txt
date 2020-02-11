@@ -1,0 +1,145 @@
+﻿(When dancing the java Saturday on Broadway
+It swings like in Meudon
+We get high and we fly no need from Beaujolais
+If we' ve got some Bourbon
+It might not be the really one
+But it' s the Broadway one
+But it' s the Broadway one)
+
+Quand on fait la java le samedi à Broadway
+Ça swingue comme à Meudon
+On se défonce on y va pas besoin de beaujolais
+Quand on a du bourbon
+C' est peut-être pas la vraie de vraie
+La java de Broadway
+Oui mais c' est elle qui plait
+
+Quand on est fin bourrés on se tire des bordées
+Sur la quarante-deuxième
+On rigole et on danse comme à Saint-Paul-de-Vence
+Jusqu' à la cinquantième
+C' est peut-être pas la vraie de vraie
+La java de Broadway
+Oui mais c' est elle qui plait
+
+Quand on fait la java le samedi à Broadway
+Y a des chiens dans les bars
+Quand arrivent les nanas quand on est au complet
+On décerne les Oscars
+C' est peut-être pas les vraies de vraies
+Les nanas de Broadway
+Oui mais c' est ça qui plait
+
+Quand on fait la java le samedi à Broadway
+On dort sur les trottoirs
+Quand on nous sort de là c' est à coups de balai
+À grands coups d' arrosoir
+Et on ne sait plus à midi
+Si l' on est à Clichy ou en Californie
+
+Quand on fait la java le samedi à Broadway
+Ça swingue comme à Meudon
+On se défonce on y va pas besoin de beaujolais
+Quand on a du Bourbon
+C' est peut-être pas la vraie de vraie
+La java de Broadway
+Oui mais c' est elle qui plait
+
+Elle teintée de blues et de jazz et de rock
+C' est une java quand même
+Quand on est dix ou douze quand les verres s' entrechoquent
+On ne voit plus les problèmes
+C' est peut-être pas la vraie de vraie
+La java de Broadway
+Oui mais c' est elle qui plait
+
+Quand on fait la java le samedi à Broadway
+Ça swingue comme à Meudon
+On se défonce on y va pas besoin de beaujolais
+Quand on a du bourbon
+C' est peut-être pas la vraie de vraie
+(Oh) La java de Broadway
+Oui mais c' est elle qui plait
+
+Quand on fait la java le samedi à Broadway
+Ça swingue comme à Meudon
+On se défonce on y va pas besoin de beaujolais 
+
+
+
+
+
+<50>
+Y a des chiens dans les bars
+les nanas quand on est au complet
+on est au complet On décerne les Oscars
+là c' est à coups de balai
+de balai À grands coups d' arrosoir
+l' on est à Clichy ou en Californie
+
+<40>
+des chiens dans les bars
+nanas quand on est au complet
+au complet On décerne les Oscars
+On dort sur les trottoirs
+c' est à coups de balai
+À grands coups d' arrosoir
+est à Clichy ou en Californie
+
+<30>
+des bordées Sur la quarante-deuxième
+on danse comme à Saint-Paul-de-Vence
+des chiens dans les bars
+quand on est au complet
+On décerne les Oscars
+
+<20>
+tire des bordées
+Sur la quarante-deuxième
+et on danse
+comme à Saint-Paul-de-Vence
+Jusqu' à la cinquantième
+
+dans les bars
+arrivent les nanas
+est au complet
+décerne les Oscars
+Les nanas de Broadway
+
+<10>
+des bordées
+la quarante-deuxième
+la cinquantième
+les bars
+au complet
+les Oscars
+
+<0>
+Quand on a du bourbon
+
+<1000>
+du bourbon
+de vraie
+qui plait
+
+<2000>
+se tire des bordées
+Sur la quarante-deuxième
+comme à Saint-Paul-de-Vence
+Jusqu' à la cinquantième
+
+<5000>
+Y a des chiens dans les bars
+les nanas quand on est au complet
+on est au complet On décerne les Oscars
+
+<10000>
+nous sort de là c' est à coups de balai
+c' est à coups de balai À grands coups d' arrosoir
+à midi Si l' on est à Clichy ou en Californie
+
+<20000>
+teintée de blues et de jazz et de rock C' est une java quand même
+est dix ou douze quand les verres s' entrechoquent On ne voit plus les problèmes
+
+<END>

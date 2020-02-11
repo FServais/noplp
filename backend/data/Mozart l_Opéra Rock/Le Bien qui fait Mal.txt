@@ -1,0 +1,152 @@
+﻿Mais d' où vient l' émotion étrange
+Qui me fascine autant qu' elle me dérange
+Je frissonne poignardé par le beau
+C' est comme dans l' âme le couteau
+La blessure traverse mon cœur
+Et j' ai la joie dans la douleur
+Je m' enivre de ce poison
+À en perdre la raison
+
+C' est le bien qui fait mal
+Quand tu aimes
+Tout à fait normal
+Ta haine
+Prend le plaisir
+C' est si bon de souffrir
+Succombe au charme
+Donne tes larmes
+
+C' est le bien qui fait mal
+Quand tu aimes
+Tout à fait banal
+Ta peine
+Les vrais délices
+Passent par le supplice
+Baisse les armes
+Donne tes larmes
+
+Je ressens de violentes pulsions
+J' ai l' impression de glisser vers le fond
+Si j' ignore d' où vient ce fléau
+J' adore l' avoir dans la peau
+Envouté par des idées folles
+Soudain mes envies s' envolent
+Le désir devient ma prison
+À en perdre la raison
+
+C' est le bien qui fait mal
+Quand tu aimes
+Tout à fait normal
+Ta haine
+Prend le plaisir
+C' est si bon de souffrir
+Succombe au charme
+Donne tes larmes
+
+C' est le bien qui fait mal
+Quand tu aimes
+Tout à fait banal
+Ta peine
+Les vrais délices
+Passent par le supplice
+Baisse les armes
+Donne tes larmes
+
+Je ressens de violentes pulsions
+J' ai l' impression de glisser vers le fond
+
+C' est le bien qui fait mal
+Quand tu aimes
+Tout à fait normal
+Ta haine
+Prend le plaisir
+C' est si bon de souffrir
+Succombe au charme
+Donne tes larmes
+
+C' est le bien qui fait mal
+Quand tu aimes
+Tout à fait banal
+Ta peine
+Les vrais délices
+Passe par le supplice
+Baisse les armes
+Donne tes larmes
+
+<50>
+l' impression de glisser vers le fond
+j' ignore d' où vient ce fléau
+J' adore l' avoir dans la peau
+des idées folles Soudain mes envies s' envolent
+ma prison À en perdre la raison
+
+<40>
+l' impression de glisser vers le fond
+j' ignore d' où vient ce fléau
+J' adore l' avoir dans la peau
+folles Soudain mes envies s' envolent
+prison À en perdre la raison
+
+<30>
+Passent par le supplice
+armes Donne tes larmes
+de glisser vers le fond
+d' où vient ce fléau
+l' avoir dans la peau
+par des idées folles
+mes envies s' envolent
+devient ma prison
+en perdre la raison
+
+<20>
+Tout à fait banal
+Les vrais délices
+Passent par le supplice
+Baisse les armes
+Donne tes larmes
+vers le fond
+
+<10>
+vrais délices
+le supplice
+les armes
+tes larmes
+le fond
+ce fléau
+la peau
+idées folles
+s' envolent
+ma prison
+la raison
+
+<0>
+la raison
+
+<1000>
+me dérange
+le beau
+le couteau
+
+<2000>
+blessure traverse mon cœur
+la joie dans la douleur
+m' enivre de ce poison
+en perdre la raison
+
+<5000>
+Quand tu aimes Tout à fait normal
+normal Ta haine Prend le plaisir
+C' est si bon de souffrir
+Succombe au charme Donne tes larmes
+
+<10000>
+Tout à fait banal Ta peine Les vrais délices
+Passent par le supplice Baisse les armes Donne tes larmes
+
+<20000>
+Je ressens de violentes pulsions J' ai l' impression de glisser vers le fond
+d' où vient ce fléau J' adore l' avoir dans la peau Envouté par des idées folles
+Envouté par des idées folles Soudain mes envies s' envolent Le désir devient ma prison
+Soudain mes envies s' envolent Le désir devient ma prison À en perdre la raison
+
+<END>

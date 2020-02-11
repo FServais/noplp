@@ -1,0 +1,140 @@
+﻿La lumière revient déjà
+Et le film est terminé
+Je réveille mon voisin
+Il dort comme un nouveau-né
+Je relève mon strapontin
+J' ai une envie de bailler
+C' était la dernière séquence
+C' était la dernière séance
+Et le rideau sur l' écran est tombé
+
+La photo sur le mot fin
+Peut faire sourire ou pleurer
+Mais je connais le destin
+D' un cinéma de quartier
+Il finira en garage
+En building supermarché
+Il n' a plus aucune chance
+C' était sa dernière séance
+Et le rideau sur l' écran est tombé
+
+Bye bye les héros que j' aimais
+L' entracte est terminée
+Bye bye rendez-vous à jamais
+Mes chocolats glacés glacés
+
+J' allais rue des Solitaires
+À l' école de mon quartier
+À cinq heures j' étais sorti
+Mon père venait me chercher
+On voyait Gary Cooper
+Qui défendait l' opprimé
+C' était vraiment bien l' enfance
+Mais c' est la dernière séquence
+Et le rideau sur l' écran est tombé
+
+Bye bye les filles qui tremblaient
+Pour les jeunes premiers
+Bye bye rendez-vous à jamais
+Mes chocolats glacés glacés
+
+La lumière s' éteint déjà
+La salle est vide à pleurer
+Mon voisin détend ses bras
+Il s' en va boire un café
+Un vieux pleure dans un coin
+Son cinéma est fermé
+C' était la dernière séquence
+C' était sa dernière séance
+Et le rideau sur l' écran est tombé
+
+<50>
+le mot fin Peut faire sourire ou pleurer
+connais le destin D' un cinéma de quartier
+Il finira en garage En building supermarché
+les héros que j' aimais L' entracte est terminée
+Bye bye rendez-vous à jamais Mes chocolats glacés glacés
+des Solitaires À l' école de mon quartier
+j' étais sorti Mon père venait me chercher
+On voyait Gary Cooper Qui défendait l' opprimé
+l' opprimé C' était vraiment bien l' enfance
+
+<40>
+fin Peut faire sourire ou pleurer
+le destin D' un cinéma de quartier
+Il finira en garage En building supermarché
+que j' aimais L' entracte est terminée
+rendez-vous à jamais Mes chocolats glacés glacés
+À l' école de mon quartier
+sorti Mon père venait me chercher
+Gary Cooper Qui défendait l' opprimé
+C' était vraiment bien l' enfance
+
+<30>
+Peut faire sourire ou pleurer
+D' un cinéma de quartier
+en garage En building supermarché
+j' aimais L' entracte est terminée
+à jamais Mes chocolats glacés glacés
+l' école de mon quartier
+Mon père venait me chercher
+Qui défendait l' opprimé
+
+<20>
+sourire ou pleurer
+cinéma de quartier
+En building supermarché
+L' entracte est terminée
+Mes chocolats glacés
+de mon quartier
+venait me chercher
+défendait l' opprimé
+
+<10>
+ou pleurer
+de quartier
+building supermarché
+est terminée
+chocolats glacés
+mon quartier
+me chercher
+l' opprimé
+
+<0>
+C' était la dernière séance
+
+<1000>
+mon voisin
+un nouveau-né
+mon strapontin
+de bailler
+dernière séquence
+est tombé
+
+<2000>
+sur le mot fin
+faire sourire ou pleurer
+je connais le destin
+un cinéma de quartier
+Il finira en garage
+garage En building supermarché
+n' a plus aucune chance
+
+<5000>
+les héros que j' aimais L' entracte est terminée
+rendez-vous à jamais Mes chocolats glacés glacés
+des Solitaires À l' école de mon quartier
+
+<10000>
+À cinq heures j' étais sorti Mon père venait me chercher
+me chercher On voyait Gary Cooper Qui défendait l' opprimé
+Qui défendait l' opprimé C' était vraiment bien l' enfance
+vraiment bien l' enfance Mais c' est la dernière séquence
+Bye bye les filles qui tremblaient Pour les jeunes premiers
+
+<20000>
+est vide à pleurer Mon voisin détend ses bras Il s' en va boire un café
+Il s' en va boire un café Un vieux pleure dans un coin Son cinéma est fermé
+
+
+<END>

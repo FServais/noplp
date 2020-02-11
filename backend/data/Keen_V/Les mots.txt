@@ -1,0 +1,158 @@
+﻿Faut pas les écouter ce qu' ils disent est faux
+Donne moi donne moi donne moi le temps de trouver les mots
+Sois pas dégoûtée je ferai ce qu' il faut
+Près de toi près de toi près de toi je soignerai tes maux
+
+Je t' écris ce texte en guise de lettre
+Car tu ne te fies qu' à mon paraître
+Tous tes amis me descendent en traître
+Donc tu n' essaies même pas de me connaître
+Je serai ton Roméo oh hey ho
+Tu auras pas qu' une expérience
+Jamais je n' te quitterai oh hey ho
+J' t' en prie fais moi confiance
+Il y aura des bas et des hauts oh hey ho
+ça c' est une évidence
+Mais écoute plutôt ton cœur
+je t' en prie laisse moi une chance
+
+Faut pas les écouter ce qu' ils disent est faux
+Donne moi donne moi donne moi le temps de trouver les mots
+Sois pas dégoûtée je ferai ce qu' il faut
+Près de toi près de toi près de toi je soignerai tes maux
+
+J' suis dingue de cette nana là
+La la la la la la
+J' suis dingue de cette nana là
+Mais elle ne l' entend pas
+J' suis dingue de cette nana là
+La la la la la la
+J' suis dingue de cette nana là
+Mais elle ne l' entend pas
+
+Et puis je réalise que je l' idéalise
+Que mon cœur elle en a la totale possession
+Qu' il n' y ait pas de méprise je suis sous son emprise
+Elle est ma raison d' être elle est mon obsession
+
+Faut pas les écouter ce qu' ils disent est faux
+Donne moi donne moi donne moi le temps de trouver les mots
+Sois pas dégoûtée je ferai ce qu' il faut
+Près de toi près de toi près de toi je soignerai tes maux
+
+Laisse moi t' aimer j' le ferai comme personne
+J' te comblerai de mille-et-une couronnes
+Il semblerait qu' à toi je m' abandonne
+Si tu le voulais alors je s'rai ton homme
+
+Laisse moi t' aimer j' le ferai comme personne
+J' te comblerai de mille-et-une couronnes
+Il semblerait qu' à toi je m' abandonne
+Si tu le voulais alors je s'rai ton homme
+
+Faut pas les écouter ce qu' ils disent est faux
+Donne moi donne moi donne moi le temps de trouver les mots
+Sois pas dégoûtée je ferai ce qu' il faut
+Près de toi près de toi près de toi je soignerai tes maux
+
+Faut pas les écouter ce qu' ils disent est faux
+Donne moi donne moi donne moi le temps de trouver les mots
+Sois pas dégoûtée je ferai ce qu' il faut
+Près de toi près de toi près de toi je soignerai tes maux
+
+Je soignerai tes maux
+(Écoute ça c' est pour toi c' est comme ça c' est Keen'V)
+ je ferai c' qu' il faut
+(Écoute ça c' est pour toi c' est comme ça c' est Keen'V)
+Je soignerai tes maux
+(Écoute ça c' est pour toi c' est comme ça c' est Keen'V)
+ je ferai c' qu' il faut
+(Écoute ça c' est pour toi c' est comme ça c' est Keen'V)
+
+
+
+
+<50>
+Tu auras pas qu' une expérience
+J' t' en prie fais moi confiance
+Il y aura des bas et des hauts
+je t' en prie laisse moi une chance
+mon cœur elle en a la totale possession
+pas de méprise je suis sous son emprise
+ma raison d' être elle est mon obsession
+
+<40>
+Tu auras pas qu' une expérience
+aura des bas et des hauts
+elle en a la totale possession
+de méprise je suis sous son emprise
+d' être elle est mon obsession
+
+
+<30>
+même pas de me connaître
+auras pas qu' une expérience
+des bas et des hauts
+ça c' est une évidence
+prie laisse moi une chance
+dingue de cette nana là
+elle ne l' entend pas
+en a la totale possession
+je suis sous son emprise
+
+<20>
+je soignerai tes maux
+qu' à mon paraître
+descendent en traître
+de me connaître
+qu' une expérience
+fais moi confiance
+c' est une évidence
+laisse moi une chance
+de cette nana là
+ne l' entend pas
+
+<10>
+tes maux
+mon paraître
+en traître
+me connaître
+une expérience
+une évidence
+une chance
+nana là
+l' entend pas
+
+<0>
+de trouver les mots
+
+<1000>
+est faux
+pas dégoûtée
+qu' il faut
+tes maux
+
+<2000>
+en guise de lettre
+qu' à mon paraître
+me descendent en traître
+pas de me connaître
+
+<5000>
+Tu auras pas qu' une expérience
+expérience Jamais je n' te quitterai
+J' t' en prie fais moi confiance
+Il y aura des bas et des hauts
+je t' en prie laisse moi une chance
+
+<10000>
+l' idéalise Que mon cœur elle en a la totale possession
+n' y ait pas de méprise je suis sous son emprise
+Elle est ma raison d' être elle est mon obsession
+
+<20000>
+Laisse moi t' aimer j' le ferai comme personne J' te comblerai de mille-et-une couronnes
+Il semblerait qu' à toi je m' abandonne Si tu le voulais alors je s'rai ton homme
+
+
+<END>

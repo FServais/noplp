@@ -1,0 +1,91 @@
+﻿Je n' ai besoin de personne
+En Harley-Davidson
+Je n' reconnais plus personne
+En Harley-Davidson
+J' appuie sur le starter
+Et voici que je quitte la terre
+J' irai p't'être au paradis
+Mais dans un train d' enfer
+
+Je n' ai besoin de personne
+En Harley-Davidson
+Je n' reconnais plus personne
+En Harley-Davidson
+Et si je meurs demain
+C' est que tel était mon destin
+Je tiens bien moins à la vie
+Qu' à mon terrible engin
+
+Quand je sens en chemin
+Les trépidations de ma machine
+Il me monte des désirs
+Dans le creux de mes reins
+
+Je n' ai besoin de personne
+En Harley-Davidson
+Je n' reconnais plus personne
+En Harley-Davidson
+Je vais à plus de cent
+Et je me sens à feu et à sang
+Que m' importe de mourir
+Les cheveux dans le vent
+Que m' importe de mourir
+Les cheveux dans le vent
+
+
+
+<50>
+demain C' est que tel était mon destin
+à la vie Qu' à mon terrible engin
+sens en chemin Les trépidations de ma machine
+des désirs Dans le creux de mes reins
+
+<40>
+C' est que tel était mon destin
+à la vie Qu' à mon terrible engin
+en chemin Les trépidations de ma machine
+désirs Dans le creux de mes reins
+
+<30>
+que tel était mon destin
+Je tiens bien moins à la vie
+Qu' à mon terrible engin
+
+<20>
+je meurs demain
+tel était mon destin
+bien moins à la vie
+mon terrible engin
+
+<10>
+meurs demain
+mon destin
+à la vie
+terrible engin
+
+<0>
+sur le starter
+
+<1000>
+plus personne
+le starter
+la terre
+
+<2000>
+un train d' enfer
+si je meurs demain
+
+<5000>
+C' est que tel était mon destin
+Je tiens bien moins à la vie
+à la vie Qu' à mon terrible engin
+
+<10000>
+Quand je sens en chemin Les trépidations de ma machine
+Il me monte des désirs Dans le creux de mes reins
+
+<20000>
+Je vais à plus de cent Et je me sens à feu et à sang
+à feu et à sang Que m' importe de mourir Les cheveux dans le vent
+
+<END>

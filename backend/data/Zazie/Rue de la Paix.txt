@@ -1,0 +1,162 @@
+﻿Je vends mon auto
+Puisque je roule trop vite
+Et que ça me fait peur
+Je vends mon magot
+Puisque tant de réussite
+Ne fait pas mon bonheur
+Je vends mes charmes
+Et mes armes
+Ma violence et ma douceur
+Je sauve ma peau
+Vends mon âme au diable
+
+Je vends mon usine
+Avant que l' oxygène
+Ne vienne à nous manquer
+Je vends ma gazoline
+Avant que la mer ne vienne
+Mourir à nos pieds
+Je sauve la peau de l' ours
+Avant de l' avoir tué
+Je sauve les meubles
+Et vends la maison
+
+Pour mettre un hôtel rue de la paix
+Pour mettre un hôtel rue de la paix
+Un monde où tout le monde s' aimerait
+Enfin yeah
+J' achète un château en Espagne
+J' achète un château en Espagne
+J' achète un monde où tout le monde gagne
+À la fin yeah
+
+Je vends ma carte chance
+Et je puise dans la caisse
+On a bien mérité
+De toucher une avance
+Si c' est pour rendre la caisse
+À la communauté
+Je passe à l' action
+Quitte à monopoliser l' attention
+Et rester quelques jours en prison
+
+Pour mettre un hôtel rue de la paix
+Pour mettre un hôtel rue de la paix
+Un monde où tout le monde s' aimerait
+Enfin yeah
+J' achète un château en Espagne
+J' achète un château en Espagne
+J' achète un monde où tout le monde gagne
+À la fin yeah
+
+Je vends tout ce que j' ai
+Contre tout ce qui me manque
+Je vends ce qui s' achète
+Contre ce qui n' a pas de prix
+Et je vends ce que je vaux
+Contre ce qui m' est le plus cher
+Et si ça ne vaut pas un clou
+Tant pis je donnerai tout
+
+Pour mettre un hôtel rue de la paix
+Pour mettre un hôtel rue de la paix
+Un monde où tout le monde s' aimerait
+Enfin yeah
+J' achète un château en Espagne
+J' achète un château en Espagne
+J' achète un monde où tout le monde gagne
+À la fin yeah
+
+Un hôtel rue de la paix
+Un château en Espagne
+J’achète un château en Espagne
+J' achète un monde où tout le monde gagne
+
+<50>
+ma carte chance Et je puise dans la caisse
+je puise dans la caisse On a bien mérité
+c' est pour rendre la caisse À la communauté
+à l' action Quitte à monopoliser l' attention
+l' attention Et rester quelques jours en prison
+ce que j' ai Contre tout ce qui me manque
+Contre ce qui n' a pas de prix
+Contre ce qui m' est le plus cher
+pas un clou Tant pis je donnerai tout
+
+<40>
+dans la caisse On a bien mérité
+a bien mérité De toucher une avance
+pour rendre la caisse À la communauté
+l' action Quitte à monopoliser l' attention
+Et rester quelques jours en prison
+
+
+<30>
+Avant de l' avoir tué
+meubles Et vends la maison
+tout le monde s' aimerait Enfin
+tout le monde gagne
+On a bien mérité
+la caisse À la communauté
+Quitte à monopoliser l' attention
+quelques jours en prison
+
+
+<20>
+de l' avoir tué
+Et vends la maison
+le monde s' aimerait
+tout le monde gagne
+On a bien mérité
+À la communauté
+monopoliser l' attention
+quelques jours en prison
+
+<10>
+l' avoir tué
+la maison
+s' aimerait
+monde gagne
+bien mérité
+la communauté
+l' attention
+en prison
+
+<0>
+Pour mettre un hôtel rue de la paix
+
+<1000>
+fait peur
+mon magot
+mon bonheur
+mes charmes
+Et mes armes
+ma douceur
+ma peau
+au diable
+
+<2000>
+Je vends mon usine
+vienne à nous manquer
+Je vends ma gazoline
+Mourir à nos pieds
+la peau de l' ours
+de l' avoir tué
+Je sauve les meubles
+Et vends la maison
+
+<5000>
+Un monde où tout le monde s' aimerait Enfin
+où tout le monde gagne À la fin
+
+<10000>
+ma carte chance Et je puise dans la caisse On a bien mérité
+une avance Si c' est pour rendre la caisse À la communauté
+Quitte à monopoliser l' attention Et rester quelques jours en prison
+
+<20000>
+tout ce qui me manque Je vends ce qui s' achète Contre ce qui n' a pas de prix
+pas de prix Et je vends ce que je vaux Contre ce qui m' est le plus cher
+m' est le plus cher Et si ça ne vaut pas un clou Tant pis je donnerai tout
+
+<END>

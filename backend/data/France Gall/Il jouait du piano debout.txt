@@ -1,0 +1,154 @@
+﻿Ne dites pas que ce garçon était fou
+Il ne vivait pas comme les autres c' est tout
+Et pour quelles raisons étranges
+Les gens qui n' sont pas comme nous
+ça nous dérange
+Ne dites pas que ce garçon n' valait rien
+Il avait choisi un autre chemin
+Et pour quelles raisons étranges
+Les gens qui pensent autrement
+ça nous dérange
+Ça nous dérange
+
+Il jouait du piano debout
+C' est peut-être un détail pour vous
+Mais pour moi ça veut dire beaucoup
+Ça veut dire qu' il était libre
+Heureux d' être là malgré tout
+Il jouait du piano debout
+Quand les trouillards sont à genoux
+Et les soldats au garde-à-vous
+Simplement sur ses deux pieds
+Il voulait être lui vous comprenez
+
+Il n' y a que pour sa musique qu' il était patriote
+Il serait mort au champ d' honneur pour quelques notes
+Et pour quelles raisons étranges
+Les gens qui tiennent à leurs rêves
+ça nous dérange
+Lui et son piano ils pleuraient quelquefois
+Mais c' est quand les autres n' étaient pas là
+Et pour quelles raisons bizarres
+Son image a marqué ma mémoire
+Ma mémoire
+
+Il jouait du piano debout
+C' est peut-être un détail pour vous
+Mais pour moi ça veut dire beaucoup
+Ça veut dire qu' il était libre
+Heureux d' être là malgré tout
+Il jouait du piano debout
+Il chantait sur des rythmes fous
+Et pour moi ça veut dire beaucoup
+Ça veut dire essaie de vivre
+Essaie d' être heureux ça vaut le coup
+
+Il jouait du piano debout
+C' est peut-être un détail pour vous
+Mais pour moi ça veut dire beaucoup
+Ça veut dire qu' il était libre
+Heureux d' être là malgré tout
+Il jouait du piano debout
+Quand les trouillards sont à genoux
+Et les soldats au garde-à-vous
+Simplement sur ses deux pieds
+Il voulait être lui vous comprenez
+
+Di dili doudou
+Il jouait du piano debout
+
+
+<50>
+que pour sa musique qu' il était patriote
+mort au champ d' honneur pour quelques notes
+qui tiennent à leurs rêves ça nous dérange
+Lui et son piano ils pleuraient quelquefois
+c' est quand les autres n' étaient pas là
+bizarres Son image a marqué ma mémoire
+Essaie d' être heureux ça vaut le coup
+
+<40>
+sa musique qu' il était patriote
+au champ d' honneur pour quelques notes
+tiennent à leurs rêves ça nous dérange
+et son piano ils pleuraient quelquefois
+quand les autres n' étaient pas là
+bizarres Son image a marqué ma mémoire
+Il chantait sur des rythmes fous
+
+<30>
+les trouillards sont à genoux
+Et les soldats au garde-à-vous
+Simplement sur ses deux pieds
+Il voulait être lui vous comprenez
+musique qu' il était patriote
+champ d' honneur pour quelques notes
+à leurs rêves ça nous dérange
+son piano ils pleuraient quelquefois
+les autres n' étaient pas là
+Son image a marqué ma mémoire
+chantait sur des rythmes fous
+
+<20>
+sont à genoux
+soldats au garde-à-vous
+sur ses deux pieds
+être lui vous comprenez
+qu' il était patriote
+rêves ça nous dérange
+ils pleuraient quelquefois
+n' étaient pas là
+a marqué ma mémoire
+sur des rythmes fous
+
+<10>
+à genoux
+garde-à-vous
+deux pieds
+vous comprenez
+était patriote
+quelques notes
+nous dérange
+pleuraient quelquefois
+pas là
+ma mémoire
+rythmes fous
+
+<0>
+autrement
+
+<1000>
+était fou
+les autres
+c' est tout
+raisons étranges
+comme nous
+nous dérange
+n' valait rien
+autre chemin
+pensent autrement
+
+<2000>
+un détail pour vous
+ça veut dire beaucoup
+qu' il était libre
+d' être là malgré tout
+trouillards sont à genoux
+les soldats au garde-à-vous
+sur ses deux pieds
+être lui vous comprenez
+
+<5000>
+pour sa musique qu' il était patriote
+mort au champ d' honneur pour quelques notes
+Les gens qui tiennent à leurs rêves
+Lui et son piano ils pleuraient quelquefois
+
+<10000>
+Mais c' est quand les autres n' étaient pas là
+pour quelles raisons bizarres Son image a marqué ma mémoire
+
+<20000>
+Ça veut dire essaie de vivre Essaie d' être heureux ça vaut le coup
+
+<END>

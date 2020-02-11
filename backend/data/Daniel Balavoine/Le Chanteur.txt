@@ -1,0 +1,176 @@
+﻿Je m' présente je m' appelle Henri
+J' voudrais bien réussir ma vie être aimé
+Être beau gagner de l' argent
+Puis surtout être intelligent
+Mais pour tout ça il faudrait que j' bosse à plein temps
+
+J' suis chanteur je chante pour mes copains
+J' veux faire des tubes et que ça tourne bien tourne bien
+J' veux écrire une chanson dans le vent
+Un air gai chic et entraînant
+Pour faire danser dans les soirées de Monsieur Durand
+
+Et partout dans la rue
+J' veux qu' on parle de moi
+Que les filles soient nues
+Qu' elles se jettent sur moi
+Qu' elles m' admirent qu' elles me tuent
+Qu' elles s' arrachent ma vertu
+
+Pour les anciennes de l' école
+Devenir une idole
+J' veux que toutes les nuits
+Essoufflées dans leurs lits
+Elles trompent leurs maris
+Dans leurs rêves maudits
+
+Puis après je ferai des galas
+Mon public se prosternera devant moi
+Des concerts de cent mille personnes
+Où même le tout Paris s' étonne
+Et se lève pour prolonger le combat
+
+Et partout dans la rue
+J' veux qu' on parle de moi
+Que les filles soient nues
+Qu' elles se jettent sur moi
+Qu' elles m' admirent qu' elles me tuent
+Qu' elles s' arrachent ma vertu
+
+Puis quand j' en aurai assez
+De rester leur idole
+Je remonterai sur scène
+Comme dans les années folles
+Je ferai pleurer mes yeux
+Je ferai mes adieux
+Et puis l' année d' après
+Je recommencerai
+Et puis l' année d' après
+Je recommencerai
+Je me prostituerai
+Pour la postérité
+
+Les nouvelles de l' école
+Diront que j' suis pédé
+Que mes yeux puent l' alcool
+Que j' fais bien d' arrêter
+Bruleront mon auréole
+Saliront mon passé
+Alors je serai vieux
+Et je pourrai crever
+Je me chercherai un Dieu
+Pour tout me pardonner
+J' veux mourir malheureux
+Pour ne rien regretter
+J' veux mourir malheureux
+
+<50>
+Pour les anciennes de l' école Devenir une idole
+J' veux que toutes les nuits Essoufflées dans leurs lits
+Elles trompent leurs maris Dans leurs rêves maudits
+des galas Mon public se prosternera devant moi
+devant moi Des concerts de cent mille personnes
+s' étonne Et se lève pour prolonger le combat
+Puis quand j' en aurai assez De rester leur idole
+Je remonterai sur scène Comme dans les années folles
+Je ferai pleurer mes yeux Je ferai mes adieux
+
+<40>
+les anciennes de l' école Devenir une idole
+que toutes les nuits Essoufflées dans leurs lits
+leurs maris Dans leurs rêves maudits
+Mon public se prosternera devant moi
+Des concerts de cent mille personnes
+Et se lève pour prolonger le combat
+j' en aurai assez De rester leur idole
+sur scène Comme dans les années folles
+pleurer mes yeux Je ferai mes adieux
+Je me prostituerai Pour la postérité
+
+<30>
+de l' école Devenir une idole
+les nuits Essoufflées dans leurs lits
+maris Dans leurs rêves maudits
+Mon public se prosternera devant moi
+Des concerts de cent mille personnes
+se lève pour prolonger le combat
+assez De rester leur idole
+Comme dans les années folles
+yeux Je ferai mes adieux
+prostituerai Pour la postérité
+
+<20>
+se jettent sur moi
+qu' elles me tuent
+s' arrachent ma vertu
+Devenir une idole
+Essoufflées dans leurs lits
+Elles trompent leurs maris
+Dans leurs rêves maudits
+je ferai des galas
+se prosternera devant moi
+de cent mille personnes
+Et se lève pour prolonger le combat
+
+<10>
+me tuent
+ma vertu
+de l' école
+une idole
+les nuits
+leurs lits
+leurs maris
+rêves maudits
+des galas
+devant moi
+le combat
+
+<0>
+pour mes copains
+
+<1000>
+ma vie
+être aimé
+Être beau
+l' argent
+être intelligent
+plein temps
+mes copains
+tourne bien
+
+<2000>
+une chanson dans le vent
+gai chic et entraînant
+les soirées de Monsieur Durand
+Et partout dans la rue
+qu' on parle de moi
+les filles soient nues
+se jettent sur moi
+qu' elles me tuent
+s' arrachent ma vertu
+
+<5000>
+Pour les anciennes de l' école
+anciennes de l' école Devenir une idole
+que toutes les nuits Essoufflées dans leurs lits
+Elles trompent leurs maris Dans leurs rêves maudits
+Puis après je ferai des galas
+des galas Mon public se prosternera devant moi
+devant moi Des concerts de cent mille personnes
+personnes Où même le tout Paris s' étonne
+Et se lève pour prolonger le combat
+
+<10000>
+quand j' en aurai assez De rester leur idole Je remonterai sur scène
+leur idole Je remonterai sur scène Comme dans les années folles
+Comme dans les années folles Je ferai pleurer mes yeux Je ferai mes adieux
+Je ferai mes adieux Et puis l' année d' après Je recommencerai
+
+<20000>
+Les nouvelles de l' école Diront que j' suis pédé Que mes yeux puent l' alcool
+Diront que j' suis pédé Que mes yeux puent l' alcool Que j' fais bien d' arrêter
+Que mes yeux puent l' alcool Que j' fais bien d' arrêter Bruleront mon auréole Saliront mon passé
+d' arrêter Bruleront mon auréole Saliront mon passé Alors je serai vieux Et je pourrai crever
+Je me chercherai un Dieu Pour tout me pardonner J' veux mourir malheureux Pour ne rien regretter
+
+<END>

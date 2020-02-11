@@ -1,0 +1,164 @@
+﻿Là-bas
+Tout est neuf et tout est sauvage
+Libre continent sans grillage
+Ici nos rêves sont étroits
+C' est pour ça que j' irai là-bas
+
+Là-bas
+Faut du coeur et faut du courage
+Mais tout est possible à mon âge
+Si tu as la force et la foi
+L' or est à portée de tes doigts
+C' est pour ça que j' irai là-bas
+
+N' y va pas
+Y' a des tempêtes et des naufrages
+Le feu les diables et les mirages
+Je te sais si fragile parfois
+Reste au creux de moi
+
+On a tant d' amour à faire
+Tant de bonheur à venir
+Je te veux mari et père
+Et toi tu rêves de partir
+
+Ici tout est joué d' avance
+Et l' on n' y peut rien changer
+Tout dépend de ta naissance
+Et moi je ne suis pas bien né
+
+Là-bas
+Loin de nos vies de nos villages
+J' oublierai ta voix ton visage
+J' ai beau te serrer dans mes bras
+Tu m' échappes déjà
+
+Là-bas
+J' aurai ma chance j' aurai mes droits
+N' y va pas
+Et la fierté qu' ici je n' ai pas
+Là-bas
+Tout ce que tu mérites est à toi
+N' y va pas
+Ici les autres imposent leur loi
+Là-bas
+Je te perdrai peut-être là-bas
+N' y va pas
+Je me perds si je reste là
+Là-bas
+La vie ne m' as pas laissé le choix
+N' y va pas
+Toi et moi ce sera là-bas ou pas
+Là-bas
+Tout est neuf et tout est sauvage
+N' y va pas
+Libre continent sans grillage
+Là-bas
+Beau comme on n' imagine pas
+N' y va pas
+Ici même nos rêves sont étroits
+Là-bas
+C' est pour ça que j' irai là-bas
+N' y va pas
+On ne pas laissé le choix
+Là-bas
+Je me perds si je reste là
+N' y va pas
+C' est pour ça que j' irai là-bas
+
+N' y va pas...    
+
+
+
+
+
+
+<50>
+à faire Tant de bonheur à venir
+à venir Je te veux mari et père
+et père Et toi tu rêves de partir
+Ici tout est joué d' avance
+Et l' on n' y peut rien changer
+Et moi je ne suis pas bien né
+de nos villages J' oublierai ta voix ton visage
+J' ai beau te serrer dans mes bras
+dans mes bras Tu m' échappes déjà
+
+<40>
+Tant de bonheur à venir
+Je te veux mari et père
+Et toi tu rêves de partir
+Ici tout est joué d' avance
+l' on n' y peut rien changer
+je ne suis pas bien né
+
+<30>
+des tempêtes et des naufrages
+les diables et les mirages
+sais si fragile parfois
+Reste au creux de moi
+d' amour à faire
+de bonheur à venir
+te veux mari et père
+toi tu rêves de partir
+n' y peut rien changer
+ne suis pas bien né
+
+<20>
+et des naufrages
+et les mirages
+si fragile parfois
+creux de moi
+d' amour à faire
+bonheur à venir
+mari et père
+rêves de partir
+peut rien changer
+pas bien né
+
+<10>
+va pas
+des naufrages
+les mirages
+de moi
+à faire
+à venir
+et père
+de partir
+
+<0>
+du coeur et faut du courage
+
+<1000>
+est sauvage
+sans grillage
+sont étroits
+du courage
+
+<2000>
+possible à mon âge
+force et la foi
+portée de tes doigts
+N' y va pas
+tempêtes et des naufrages
+
+<5000>
+Le feu les diables et les mirages
+si fragile parfois Reste au creux de moi
+à faire Tant de bonheur à venir
+Je te veux mari et père
+Et toi tu rêves de partir
+
+<10000>
+d' avance Et l' on n' y peut rien changer
+de ta naissance Et moi je ne suis pas bien né
+nos vies de nos villages J' oublierai ta voix ton visage
+beau te serrer dans mes bras Tu m' échappes déjà
+
+<20000>
+j' aurai mes droits N' y va pas Et la fierté qu' ici je n' ai pas
+ce que tu mérites est à toi N' y va pas Ici les autres imposent leur loi
+Je te perdrai peut-être là-bas N' y va pas Je me perds si je reste là
+m' as pas laissé le choix N' y va pas Toi et moi ce sera là-bas ou pas
+
+<END>

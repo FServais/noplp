@@ -1,0 +1,106 @@
+﻿Ce soir j' irai danser le mambo
+Au Royal Casino sous les lambris rococo
+La pluie viendra me faire oublier
+Tu me feras rêver comme dans les chansons d' été
+
+C' est l' amour à la plage
+Et mes yeux dans tes yeux
+Baisers et coquillages
+Entre toi et l' eau bleue
+
+La mer quand vient le temps des vacances
+C' est le temps de la danse entre tes bras toutes les nuits
+Et si j' ai le cœur tout retourné
+Là je t' embrasserai jusqu' à la fin de l' été
+
+C' est l' amour à la plage
+Et mes yeux dans tes yeux
+Baisers et coquillages
+Entre toi et l' eau bleue
+
+Et si j' ai le cœur tout retourné
+Là je t' embrasserai jusqu' à la fin de l' été
+
+C' est l' amour à la plage
+Et mes yeux dans tes yeux
+Baisers et coquillages
+Entre toi et l' eau bleue
+
+C' est l' amour à la plage
+Et mes yeux dans tes yeux
+Baisers et coquillages
+Entre toi et l' eau bleue
+
+C' est l' amour à la plage
+Et mes yeux dans tes yeux
+Baisers et coquillages
+Entre toi et l' eau bleue
+
+
+<50>
+La mer quand vient le temps des vacances
+C' est le temps de la danse
+la danse entre tes bras toutes les nuits
+Et si j' ai le cœur tout retourné
+je t' embrasserai jusqu' à la fin de l' été
+
+<40>
+quand vient le temps des vacances
+C' est le temps de la danse
+entre tes bras toutes les nuits
+j' ai le cœur tout retourné
+jusqu' à la fin de l' été
+
+<30>
+le temps des vacances
+le temps de la danse
+tes bras toutes les nuits
+j' ai le cœur tout retourné
+Là je t' embrasserai
+la fin de l' été
+
+<20>
+Baisers et coquillages
+toi et l' eau bleue
+temps des vacances
+de la danse
+toutes les nuits
+le cœur tout retourné
+t' embrasserai
+de l' été
+
+<10>
+d' été
+et coquillages
+l' eau bleue
+des vacances
+la danse
+les nuits
+tout retourné
+
+
+<0>
+dans les chansons d' été
+
+<1000>
+le mambo
+Royal Casino
+lambris rococo
+
+<2000>
+viendra me faire oublier
+Tu me feras rêver
+les chansons d' été
+
+<5000>
+mes yeux dans tes yeux Baisers et coquillages
+et coquillages Entre toi et l' eau bleue
+
+<10000>
+le temps des vacances C' est le temps de la danse
+le temps de la danse entre tes bras toutes les nuits
+
+<20000>
+Et si j' ai le cœur tout retourné Là je t' embrasserai jusqu' à la fin de l' été
+
+<END>

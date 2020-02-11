@@ -1,0 +1,130 @@
+﻿Donnez moi une suite au Ritz je n' en veux pas
+Des bijoux de chez Chanel je n' en veux pas
+Donnez moi une limousine j' en ferais quoi papalapapapala
+
+Offrez moi du personnel j' en ferais quoi?
+Un manoir à Neufchatel ce n' est pas pour moi
+Offrez moi la Tour Eiffel j' en ferais quoi papalapapapala
+
+Je veux de l' amour d' la joie de la bonne humeur
+Ce n' est pas votre argent qui fera mon bonheur
+Moi j' veux crever la main sur le coeur papalapapapala
+Allons ensemble découvrir ma liberté
+Oubliez donc tous vos clichés bienvenue dans ma réalité
+
+J' en ai marre de vos bonnes manières c' est trop pour moi
+Moi je mange avec les mains et je suis comme ça
+J' parle fort et je suis franche excusez moi
+Finie l' hypocrisie moi j' me casse de là
+J' en ai marre des langues de bois
+Regardez moi toute manière j' vous en veux pas
+Et j' suis comme ça (j' suis comme ça) papalapapapala
+
+Je veux de l' amour d' la joie de la bonne humeur
+Ce n' est pas votre argent qui fera mon bonheur
+Moi j' veux crever la main sur le coeur papalapapapala
+Allons ensemble découvrir ma liberté
+Oubliez donc tous vos clichés bienvenue dans ma réalité
+
+Je veux de l' amour d' la joie de la bonne humeur
+Ce n' est pas votre argent qui fera mon bonheur
+Moi j' veux crever la main sur le coeur papalapapapala
+Allons ensemble découvrir ma liberté
+Oubliez donc tous vos clichés bienvenue dans ma réalité
+
+Je veux de l' amour d' la joie de la bonne humeur
+Ce n' est pas votre argent qui fera mon bonheur
+Moi j' veux crever la main sur le coeur papalapapapala
+Allons ensemble découvrir ma liberté
+Oubliez donc tous vos clichés bienvenue dans ma réalité
+
+
+
+<50>
+bonnes manières c' est trop pour moi
+avec les mains et je suis comme ça
+fort et je suis franche excusez moi
+l' hypocrisie moi j' me casse de là
+J' en ai marre des langues de bois
+toute manière j' vous en veux pas
+veux pas Et j' suis comme ça
+
+<40>
+manières c' est trop pour moi
+les mains et je suis comme ça
+et je suis franche excusez moi
+moi j' me casse de là
+ai marre des langues de bois
+toute manière j' vous en veux pas
+Et j' suis comme ça
+
+
+<30>
+Allons ensemble découvrir ma liberté
+vos clichés bienvenue dans ma réalité
+c' est trop pour moi
+et je suis comme ça
+je suis franche excusez moi
+j' me casse de là
+des langues de bois
+j' vous en veux pas
+j' suis comme ça
+
+
+<20>
+de la bonne humeur
+qui fera mon bonheur
+la main sur le coeur
+ensemble découvrir ma liberté
+Oubliez donc tous vos clichés
+bienvenue dans ma réalité
+trop pour moi
+je suis comme ça
+j' me casse de là
+des langues de bois
+
+<10>
+bonne humeur
+mon bonheur
+le coeur
+ma liberté
+vos clichés
+ma réalité
+pour moi
+langues de bois
+
+
+<0>
+Offrez moi du personnel
+
+<1000>
+au Ritz
+chez Chanel
+une limousine
+ferais quoi
+
+
+<2000>
+Offrez moi du personnel
+Un manoir à Neufchatel
+ce n' est pas pour moi
+Offrez moi la Tour Eiffel
+
+<5000>
+d' la joie de la bonne humeur
+pas votre argent qui fera mon bonheur
+j' veux crever la main sur le coeur
+ma liberté Oubliez donc tous vos clichés
+vos clichés bienvenue dans ma réalité
+
+<10000>
+ai marre de vos bonnes manières c' est trop pour moi
+Moi je mange avec les mains et je suis comme ça
+J' parle fort et je suis franche excusez moi
+Finie l' hypocrisie moi j' me casse de là
+
+<20000>
+J' en ai marre des langues de bois Regardez moi toute manière j' vous en veux pas
+langues de bois Regardez moi toute manière j' vous en veux pas Et j' suis comme ça
+
+<END>

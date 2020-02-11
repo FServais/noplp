@@ -1,0 +1,169 @@
+﻿J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas Non Non
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas
+
+Chaleur des iles
+Mademoiselle est belle
+Elle me rend tellement fragile
+Son sourire m' ensorcelle
+Juste un battement de cil
+J'  deviens statue de sel
+Moi qui ne suis pas docile
+Je le serais avec elle
+
+Moi perso j' les ai bien aimé Tes photos (Hohoho)
+Ca a même joué sur ma libido (Hohoho)
+A l' autre vieille tu lui as fait ravaler son chapeau (Hohoho)
+Quand j' te vois à la télé
+Dans mon boxer ça devient chaud
+
+(Hey hey ho
+On stoppe les conneries là
+Mais comment tu parles à ma sœur)
+
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas Non Non
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas
+
+Non elle ne veut pas Non Non
+Non elle ne veut pas Non Non
+Non elle ne veut pas Non Non
+Non elle ne veut pas
+Non elle ne veut pas Non Non
+Non elle ne veut pas Non Non
+Non elle ne veut pas Non Non
+Non elle ne veut pas
+
+J' l' emenerais sur les plages de punta cabana
+On ira tous les deux dans la cabana
+Elle goutera aux délices de la Havana
+J' connais pas plus sexy que cette nana là
+
+Ho mon Dieu qu' elle est belle ma métisse
+J' lui ferai goûter à mes delices
+Mes yeux brillent devant cette divine esquisse
+ce n' est peut-être qu' une autre Miss
+mais c' est pour moi la Number One
+
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas Non Non
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas
+
+Tu peux la chercher Ho tu vas pas la trouver
+Mets toi de coté Ho faut la laisser passer
+Mon ami tu rêves car cette fille n' est pas pour toi
+
+(Nana) Keen'v
+(Nana) Valérie
+(Nana) T' as pas compris
+(Biwa) C' est pas pour toi
+
+(Nana) Keen'v
+(Nana) Valérie
+(Nana) T' as pas compris
+(Biwa) Elle ne veut pas
+
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas Non Non
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas
+
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas Non Non
+J' aimerais trop qu' elle m' aime Mademoiselle Valérie
+Oui j' aimerais trop qu' elle m' aime
+Mais elle elle ne veut pas
+
+Keen'v
+Valérie
+T' as pas compris
+C' est pas pour toi
+
+Keen'v
+Valérie
+T' as pas compris
+Elle ne veut pas
+
+Tu peux la chercher partout
+
+
+
+
+<50>
+pas docile Je le serais avec elle
+j' les ai bien aimé Tes photos
+Ca a même joué sur ma libido
+tu lui as fait ravaler son chapeau
+Dans mon boxer ça devient chaud
+
+<40>
+docile Je le serais avec elle
+j' les ai bien aimé Tes photos
+Ca a même joué sur ma libido
+tu lui as fait ravaler son chapeau
+Dans mon boxer ça devient chaud
+
+<30>
+le serais avec elle
+bien aimé Tes photos
+joué sur ma libido
+fait ravaler son chapeau
+mon boxer ça devient chaud
+
+<20>
+bien aimé Tes photos
+sur ma libido
+ravaler son chapeau
+ça devient chaud
+
+<10>
+Tes photos
+ma libido
+son chapeau
+devient chaud
+
+<0>
+elle ne veut pas Non Non
+
+<1000>
+Mademoiselle Valérie
+veut pas
+est belle
+tellement fragile
+m' ensorcelle
+
+<2000>
+un battement de cil
+deviens statue de sel
+ne suis pas docile
+le serais avec elle
+
+<5000>
+j' les ai bien aimé Tes photos
+Ca a même joué sur ma libido
+vieille tu lui as fait ravaler son chapeau
+la télé Dans mon boxer ça devient chaud
+
+<10000>
+On ira tous les deux dans la cabana
+dans la cabana Elle goutera aux délices de la Havana
+J' connais pas plus sexy que cette nana là
+
+<20000>
+J' lui ferai goûter à mes delices Mes yeux brillent devant cette divine esquisse
+ce n' est peut-être qu' une autre Miss mais c' est pour moi la Number One
+faut la laisser passer Mon ami tu rêves car cette fille n' est pas pour toi
+
+<END>

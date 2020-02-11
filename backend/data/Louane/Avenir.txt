@@ -1,0 +1,143 @@
+﻿Waoh waoh waohoh
+Waoh waoh waohoh
+Waoh waoh waohoh
+Hey
+
+Partie loin derrière sans trop de raisons
+Tu m' as laissée hier la fin de la saison
+Je n' veux plus savoir
+On s' est éloignés
+Tu n' vas plus m' avoir et tout est terminé
+
+Waoh waoh waohoh
+Waoh waoh waohoh
+Waoh waoh waohoh
+Hey
+
+J' espère que tu vas souffrir
+Et que tu vas mal dormir
+Pendant ce temps j' vais écrire
+Pour demain l' avenir (pour demain l' avenir)
+Pour demain l' avenir (pour demain l' avenir)
+
+Partie pour un soir
+Juste lui parler
+Au fond d' un couloir
+Tu voulais aller
+Hypocrisie d' un soir
+Les verres sont cassés
+Envolés les espoirs et nos cœurs défoncés
+
+Waoh waoh waohoh
+Waoh waoh waohoh
+Waoh waoh waohoh
+Hey
+
+J' espère que tu vas souffrir
+Et que tu vas mal dormir
+Pendant ce temps j' vais écrire
+Pour demain l' avenir (pour demain l' avenir)
+Pour demain l' avenir (pour demain l' avenir)
+
+Partie seule dans la rue
+Je cherche mon chemin
+Je n' le trouve plus
+Il me parait bien loin
+Je t' ai oublié tu n' me fais plus rien
+Et je pars voyager en pensant à demain
+
+Waoh waoh waohoh
+Waoh waoh waohoh
+Waoh waoh waohoh
+Hey
+
+Waoh waoh waohoh
+Waoh waoh waohoh
+Waoh waoh waohoh
+Hey
+
+J' espère que tu vas souffrir
+Et que tu vas mal dormir
+Pendant ce temps j' vais écrire
+Pour demain l' avenir (pour demain l' avenir)
+Pour demain l' avenir (pour demain l' avenir)
+
+Partie loin derrière sans trop de raisons
+Tu m' as laissée hier la fin de la saison
+
+
+
+<50>
+Partie pour un soir Juste lui parler
+Au fond d' un couloir Tu voulais aller
+Hypocrisie d' un soir Les verres sont cassés
+Envolés les espoirs et nos cœurs défoncés
+Partie seule dans la rue Je cherche mon chemin
+Je n' le trouve plus Il me parait bien loin
+Je t' ai oublié tu n' me fais plus rien
+Et je pars voyager en pensant à demain
+
+<40>
+un soir Juste lui parler
+d' un couloir Tu voulais aller
+d' un soir Les verres sont cassés
+les espoirs et nos cœurs défoncés
+dans la rue Je cherche mon chemin
+trouve plus Il me parait bien loin
+oublié tu n' me fais plus rien
+pars voyager en pensant à demain
+
+<30>
+un soir Juste lui parler
+couloir Tu voulais aller
+soir Les verres sont cassés
+et nos cœurs défoncés
+
+<20>
+Juste lui parler
+Tu voulais aller
+Les verres sont cassés
+nos cœurs défoncés
+que tu vas souffrir
+tu vas mal dormir
+j' vais écrire
+
+<10>
+lui parler
+voulais aller
+sont cassés
+cœurs défoncés
+vas souffrir
+mal dormir
+j' vais écrire
+
+<0>
+que tu vas souffrir
+
+<1000>
+de raisons
+la saison
+plus savoir
+est terminé
+
+<2000>
+que tu vas souffrir
+tu vas mal dormir
+temps j' vais écrire
+
+<5000>
+Partie pour un soir Juste lui parler
+Au fond d' un couloir Tu voulais aller
+
+
+<10000>
+Hypocrisie d' un soir Les verres sont cassés Envolés les espoirs
+Les verres sont cassés Envolés les espoirs et nos cœurs défoncés
+Partie seule dans la rue Je cherche mon chemin
+
+<20000>
+Je n' le trouve plus Il me parait bien loin Je t' ai oublié
+Il me parait bien loin Je t' ai oublié tu n' me fais plus rien
+Je t' ai oublié tu n' me fais plus rien Et je pars voyager en pensant à demain
+
+<END>

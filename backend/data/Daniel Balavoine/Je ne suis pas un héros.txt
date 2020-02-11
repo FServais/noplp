@@ -1,0 +1,156 @@
+﻿Des coups de poing dans l' âme
+Le froid de la lame qui court
+Chaque jour me pousse
+Un peu plus vers la fin
+Quand je monte sur scène
+Comme on prend le dernier train
+
+Même les soirs de drame
+Il faut trouver la flamme qu' il faut
+Pour toucher les femmes
+Qui me tendent les mains
+Qui me crient qu' elles m' aiment
+Et dont je ne sais rien
+
+C' est pour ça qu' aujourd'hui je suis fatigué
+C' est pour ça qu' aujourd'hui je voudrais crier
+
+Je n' suis pas un héros
+Mes faux-pas me collent à la peau
+Je n' suis pas un héros
+Faut pas croire ce que disent les journaux
+Je n' suis pas un héros un héros
+
+Je n' suis pas un héros
+Mes faux-pas me collent à la peau
+Je n' suis pas un héros
+Faut pas croire ce que disent les journaux
+Je n' suis pas un héros un héros
+
+Quand les cris de femmes
+S' accrochent à mes larmes je sais
+Que c' est pour m' aider
+À porter tous mes chagrins
+Et je me dis qu' elles rêvent
+Mais ça leur fait du bien
+
+À coups de poing dans l' âme
+J' ai trouvé la trame qu' il faut
+Pour mourir célèbre
+Il ne faut rien emporter
+Que ce que les autres
+N' ont pas voulu garder
+
+C' est pour ça qu' aujourd'hui je suis fatigué
+C' est pour ça qu' aujourd'hui je voudrais crier
+
+Je n' suis pas un héros
+Mes faux-pas me collent à la peau
+Je n' suis pas un héros
+Faut pas croire ce que disent les journaux
+Je n' suis pas un héros un héros
+
+Je n' suis pas un héros
+Mes faux-pas me collent à la peau
+Je n' suis pas un héros
+Faut pas croire ce que disent les journaux
+Je n' suis pas un héros un héros
+
+Je n' suis pas un héros
+Je n' suis pas un héros un héros un héros
+Je n' suis pas un héros
+Je n' suis pas un héros un héros un héros
+Je ne suis je n' suis pas un héros
+Je n' suis pas un héros un héros un héros
+Je n' suis pas un héros Ooh
+Je n' suis pas un héros un héros
+Je ne suis je n' suis pas un héros
+
+
+<50>
+S' accrochent à mes larmes je sais
+pour m' aider À porter tous mes chagrins
+rêvent Mais ça leur fait du bien
+À coups de poing dans l' âme
+J' ai trouvé la trame qu' il faut
+Pour mourir célèbre Il ne faut rien emporter
+les autres N' ont pas voulu garder
+
+<40>
+S' accrochent à mes larmes je sais
+m' aider À porter tous mes chagrins
+Mais ça leur fait du bien
+trouvé la trame qu' il faut
+célèbre Il ne faut rien emporter
+autres N' ont pas voulu garder
+
+<30>
+Mes faux-pas me collent à la peau
+ce que disent les journaux
+Je n' suis pas un héros un héros
+à mes larmes je sais
+À porter tous mes chagrins
+ça leur fait du bien
+la trame qu' il faut
+Il ne faut rien emporter
+N' ont pas voulu garder
+
+
+<20>
+flamme qu' il faut
+me tendent les mains
+je ne sais rien
+je suis fatigué
+je voudrais crier
+me collent à la peau
+ce que disent les journaux
+mes larmes je sais
+tous mes chagrins
+fait du bien
+
+<10>
+qu' il faut
+les mains
+sais rien
+suis fatigué
+voudrais crier
+la peau
+les journaux
+je sais
+mes chagrins
+du bien
+
+<0>
+je suis fatigué
+
+<1000>
+l' âme
+qui court
+la fin
+sur scène
+dernier train
+
+<2000>
+les soirs de drame
+la flamme qu' il faut
+Pour toucher les femmes
+me tendent les mains
+qu' elles m' aiment
+je ne sais rien
+
+<5000>
+pour ça qu' aujourd'hui je suis fatigué
+un héros Mes faux-pas me collent à la peau
+Faut pas croire ce que disent les journaux
+
+<10000>
+les cris de femmes S' accrochent à mes larmes je sais
+c' est pour m' aider À porter tous mes chagrins
+je me dis qu' elles rêvent Mais ça leur fait du bien
+
+<20000>
+À coups de poing dans l' âme J' ai trouvé la trame qu' il faut
+J' ai trouvé la trame qu' il faut Pour mourir célèbre Il ne faut rien emporter
+Il ne faut rien emporter Que ce que les autres N' ont pas voulu garder
+
+<END>

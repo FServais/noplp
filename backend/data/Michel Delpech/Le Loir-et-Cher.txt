@@ -1,0 +1,129 @@
+﻿Ma famille habite dans le Loir-et-Cher
+Ces gens-là ne font pas de manières
+Ils passent tout l' automne à creuser des sillons
+À retourner des hectares de terre
+Je n' ai jamais eu grand-chose à leur dire
+Mais je les aime depuis toujours
+De temps en temps je vais les voir
+Je passe le dimanche dans le Loir-et-Cher
+
+Ils me disent ils me disent
+Tu vis sans jamais voir un cheval un hibou
+Ils me disent
+Tu n' viens plus même pour pécher un poisson
+Tu ne penses plus à nous
+
+On dirait que ça te gêne de marcher dans la boue
+On dirait que ça te gêne de diner avec nous
+On dirait que ça te gêne de marcher dans la boue
+On dirait que ça te gêne de diner avec nous
+
+Chaque fois que je m' arrête dans le Loir-et-Cher
+Ils ne me laissent plus partir de chez eux
+Je leur dis qu' il faut que je rentre sur Paris
+Que je ne fais pas toujours ce que j' veux
+Et qu' il faut que je trouve encore un poste d' essence
+Que j' n' ai pas le temps de finir ma bière
+Que je reviendrai un de ces dimanches
+Passer la nuit dans le Loir-et-Cher
+
+Ils me disent ils me disent
+Tu vis sans jamais voir un cheval un hibou
+Ils me disent
+Tu n'  viens plus même pour pécher un poisson
+Tu ne penses plus à nous
+
+On dirait que ça te gêne de marcher dans la boue
+On dirait que ça te gêne de diner avec nous
+On dirait que ça te gêne de marcher dans la boue
+On dirait que ça te gêne de diner avec nous
+
+On dirait que ça te gêne de marcher dans la boue
+On dirait que ça te gêne de diner avec nous
+On dirait que ça te gêne de marcher dans la boue
+On dirait que ça te gêne de diner avec nous
+
+
+
+
+
+
+<50>
+ne me laissent plus partir de chez eux
+qu' il faut que je rentre sur Paris
+ne fais pas toujours ce que j' veux
+que je trouve encore un poste d' essence
+pas le temps de finir ma bière
+Que je reviendrai un de ces dimanches
+ces dimanches Passer la nuit dans le Loir-et-Cher
+
+<40>
+laissent plus partir de chez eux
+faut que je rentre sur Paris
+pas toujours ce que j' veux
+trouve encore un poste d' essence
+le temps de finir ma bière
+je reviendrai un de ces dimanches
+Passer la nuit dans le Loir-et-Cher
+
+<30>
+plus partir de chez eux
+que je rentre sur Paris
+toujours ce que j' veux
+encore un poste d' essence
+temps de finir ma bière
+reviendrai un de ces dimanches
+la nuit dans le Loir-et-Cher
+
+<20>
+un cheval un hibou
+pécher un poisson
+penses plus à nous
+marcher dans la boue
+diner avec nous
+de chez eux
+rentre sur Paris
+poste d' essence
+finir ma bière
+
+<10>
+un hibou
+un poisson
+à nous
+la boue
+avec nous
+chez eux
+sur Paris
+d' essence
+ma bière
+
+<0>
+Je passe le dimanche dans le Loir-et-Cher
+
+<1000>
+de manières
+des sillons
+de terre
+à leur dire
+
+<2000>
+je les aime depuis toujours
+je vais les voir
+le dimanche dans le Loir-et-Cher
+un cheval un hibou
+
+<5000>
+n' viens plus même pour pécher un poisson
+un poisson Tu ne penses plus à nous
+ça te gêne de marcher dans la boue
+
+<10000>
+le Loir-et-Cher Ils ne me laissent plus partir de chez eux
+Je leur dis qu' il faut que je rentre sur Paris
+Que je ne fais pas toujours ce que j' veux
+
+<20000>
+encore un poste d' essence Que j' n' ai pas le temps de finir ma bière
+de finir ma bière Que je reviendrai un de ces dimanches Passer la nuit dans le Loir-et-Cher
+
+<END>

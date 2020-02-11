@@ -1,0 +1,126 @@
+﻿Tu m' as dit que j' étais faite pour une drôle de vie
+J' ai des idées dans la tête et je fais ce que j' ai envie
+Je t' emmène faire le tour de ma drôle de vie
+Je te verrai tous les jours
+Si je te pose des questions qu' est ce que tu diras
+Et si je te réponds qu' est ce que tu diras
+Si on parle d' amour qu' est ce que tu diras
+
+Si je sais que tu mènes la vie
+Que tu aimes au fond de moi
+Me donne tous ses emblèmes
+Me touche quand même
+Du bout de ses doigts
+Même si tu as des problèmes
+Tu sais que je t' aime ça t' aidera
+Laisse les autres totems tes drôles de poèmes
+Et viens avec moi
+
+On est parti tous les deux pour une drôle de vie
+On est toujours amoureux et on fait ce qu' on a envie
+Tu as sûrement fait le tour de ma drôle de vie
+Je te demanderai toujours
+Si je te pose des questions qu' est ce que tu diras
+Et si je te réponds qu' est ce que tu diras
+Si on parle d' amour qu' est ce que tu diras
+
+Si je sais que tu mènes la vie
+Que tu aimes au fond de moi
+Me donne tous ces emblèmes
+Me touche quand même
+Du bout de ses doigts
+Même si tu as des problèmes
+Tu sais que je t' aime ça t' aidera
+Laisse les autres totems tes drôles de poèmes
+Viens avec moi
+
+Et si je sais que tu mènes la vie
+Que tu aimes au fond de moi
+Me donne tous ces emblèmes
+Me touche quand même
+Du bout de ses doigts
+Même si tu as des problèmes
+Tu sais que je t' aime ça t' aidera
+Laisse les autres totems tes drôles de poèmes
+Et viens avec moi
+
+
+<50>
+les autres totems tes drôles de poèmes
+drôles de poèmes Et viens avec moi
+tous les deux pour une drôle de vie
+on fait ce qu' on a envie
+envie Tu as sûrement fait le tour
+ma drôle de vie Je te demanderai toujours
+
+<40>
+je t' aime ça t' aidera
+autres totems tes drôles de poèmes
+de poèmes Et viens avec moi
+On est parti tous les deux
+de vie On est toujours amoureux
+fait ce qu' on a envie
+Tu as sûrement fait le tour
+de vie Je te demanderai toujours
+
+<30>
+t' aime ça t' aidera
+totems tes drôles de poèmes
+poèmes Et viens avec moi
+est parti tous les deux
+vie On est toujours amoureux
+ce qu' on a envie
+as sûrement fait le tour
+vie Je te demanderai toujours
+
+<20>
+tu mènes la vie
+au fond de moi
+donne tous ses emblèmes
+Me touche quand même
+bout de ses doigts
+tu as des problèmes
+t' aime ça t' aidera
+Laisse les autres totems
+tes drôles de poèmes
+Et viens avec moi
+
+<10>
+ses emblèmes
+ses doigts
+des problèmes
+t' aidera
+autres totems
+de poèmes
+
+<0>
+qu' est ce que tu diras
+
+<1000>
+la tête
+j' ai envie
+les jours
+des questions
+tu diras
+te réponds
+
+<2000>
+on parle d' amour
+tu mènes la vie
+au fond de moi
+donne tous ses emblèmes
+
+<5000>
+touche quand même Du bout de ses doigts
+des problèmes Tu sais que je t' aime
+que je t' aime ça t' aidera
+
+<10000>
+les autres totems tes drôles de poèmes Et viens avec moi
+On est parti tous les deux pour une drôle de vie
+
+<20000>
+ce qu' on a envie Tu as sûrement fait le tour de ma drôle de vie
+envie Tu as sûrement fait le tour de ma drôle de vie Je te demanderai toujours
+
+<END>

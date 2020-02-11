@@ -1,0 +1,101 @@
+﻿Valérie s' ennuyait
+Dans les bras de Nicolas
+Mais Nicolas celui-là
+Ne le savait pas
+
+Isabelle a attendu attendu
+Mais Patrick n' est jamais reparu
+Yeah
+
+Les histoires d' A
+Les histoires d' A
+Les histoires d' amour finissent mal
+Les histoires d' amour finissent mal en général
+Les histoires d' amour finissent mal en général
+
+Michel aimait Gérard
+Et Gérard le lui rendait si bien
+Qu' à la fin ça ne rendait rien
+
+Evelyne toute sa vie attendit
+Que le monsieur en gris lui sourit
+Yeah yeah yeah
+
+(Et Gilbert ? Gilbert…)
+Gilbert partit en voyage
+Juste au moment de son mariage
+
+(Et Hector ? alors...)
+Hector est mort en faisant une fugue
+Il allait retrouver Gertrude
+
+Simone et Tom s' engueulaient
+Dès que vingt-et-une heures sonnaient
+
+Les histoires d' amour finissent mal en général
+Les histoires d' amour finissent mal en général
+Les histoires d' amour finissent mal en général
+Les histoires d' amour finissent mal en général
+
+
+
+
+<50>
+Qu' à la fin ça ne rendait rien
+Que le monsieur en gris lui sourit
+en voyage Juste au moment de son mariage
+en faisant une fugue Il allait retrouver Gertrude
+Tom s' engueulaient Dès que vingt-et-une heures sonnaient
+
+
+<40>
+la fin ça ne rendait rien
+le monsieur en gris lui sourit
+Juste au moment de son mariage
+une fugue Il allait retrouver Gertrude
+engueulaient Dès que vingt-et-une heures sonnaient
+
+<30>
+fin ça ne rendait rien
+le monsieur en gris lui sourit
+Juste au moment de son mariage
+fugue Il allait retrouver Gertrude
+Dès que vingt-et-une heures sonnaient
+
+<20>
+ça ne rendait rien
+gris lui sourit
+partit en voyage
+de son mariage
+
+<10>
+en général
+rendait rien
+lui sourit
+
+<0>
+Ne le savait pas
+
+<1000>
+de Nicolas
+savait pas
+
+<2000>
+Isabelle a attendu attendu
+n' est jamais reparu
+
+<5000>
+Et Gérard le lui rendait si bien
+Qu' à la fin ça ne rendait rien
+
+<10000>
+toute sa vie attendit Que le monsieur en gris lui sourit
+Gilbert partit en voyage Juste au moment de son mariage
+
+
+<20000>
+Hector est mort en faisant une fugue Il allait retrouver Gertrude
+Simone et Tom s' engueulaient Dès que vingt-et-une heures sonnaient
+
+
+<END>

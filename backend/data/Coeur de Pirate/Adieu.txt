@@ -1,0 +1,124 @@
+﻿Tu ris si mal tu ris de vivre
+Des tâches de vin sur ta chemise
+Qui à deux boutons éclatait
+Sur ton corps qui me repoussait
+Tu fais l' amour en deux poussées
+Blâmant le manque la tournée
+Et pendant que tu t' articules
+Moi je soupire et toi
+
+Tu me menaces de partir
+Parce que je hurle quand tu chantes tes souvenirs
+Eh bien chéri
+Prends donc la porte
+Car tu sais que plus rien ne m' importe
+
+Mais dis-moi adieu demain
+Mais dis-moi adieu en chemin
+Va voir les autres je n' en pense rien
+Je t' ai aimé mais je t' assure que c' est la fin
+
+Crois-tu pouvoir enfin me dire
+Que tu veux bien qu' on reste amis
+Non c' est gentil ça va comme ça
+Des amis j' en ai plein déjà
+Je n' aurai donc plus à t' entendre
+Rentrer la nuit quand j' attends l' aube
+Qui arrive en poussant les heures
+Moi je me lève et toi
+
+Tu me menaces de partir
+Parce que je hurle quand tu chantes tes souvenirs
+Eh bien chéri prends donc la porte
+Car tu sais que plus rien ne m' importe
+
+Mais dis moi adieu demain
+Mais dis moi adieu en chemin
+Va voir les autres je n' en pense rien
+Je t' ai aimé mais je t' assure que c' est la fin
+
+
+
+<50>
+Va voir les autres je n' en pense rien
+mais je t' assure que c' est la fin
+Que tu veux bien qu' on reste amis
+Non c' est gentil ça va comme ça
+Des amis j' en ai plein déjà
+Je n' aurai donc plus à t' entendre
+Rentrer la nuit quand j' attends l' aube
+
+<40>
+les autres je n' en pense rien
+t' assure que c' est la fin
+veux bien qu' on reste amis
+c' est gentil ça va comme ça
+j' en ai plein déjà
+n' aurai donc plus à t' entendre
+Rentrer la nuit quand j' attends l' aube
+
+<30>
+Prends donc la porte
+plus rien ne m' importe
+je n' en pense rien
+que c' est la fin
+qu' on reste amis
+gentil ça va comme ça
+ai plein déjà
+
+<20>
+menaces de partir
+tu chantes tes souvenirs
+Prends donc la porte
+ne m' importe
+adieu en chemin
+voir les autres
+n' en pense rien
+c' est la fin
+qu' on reste amis
+ça va comme ça
+
+<10>
+de partir
+tes souvenirs
+la porte
+m' importe
+en chemin
+les autres
+pense rien
+la fin
+
+<0>
+Tu me menaces de partir
+
+<1000>
+de vivre
+ta chemise
+boutons éclatait
+me repoussait
+deux poussées
+la tournée
+t' articules
+
+<2000>
+je soupire et toi
+me menaces de partir
+tu chantes tes souvenirs
+Prends donc la porte
+plus rien ne m' importe
+
+<5000>
+les autres je n' en pense rien
+je t' assure que c' est la fin
+
+<10000>
+enfin me dire Que tu veux bien qu' on reste amis
+qu' on reste amis Non c' est gentil ça va comme ça
+comme ça Des amis j' en ai plein déjà
+
+<20000>
+Je n' aurai donc plus à t' entendre Rentrer la nuit quand j' attends l' aube
+t' entendre Rentrer la nuit quand j' attends l' aube Qui arrive en poussant les heures
+j' attends l' aube Qui arrive en poussant les heures Moi je me lève et toi
+
+<END>

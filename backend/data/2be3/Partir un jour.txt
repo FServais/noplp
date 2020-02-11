@@ -1,0 +1,130 @@
+﻿Pour l' envie que l' on a de guider ses pas
+Pour garder ses émois
+Écouter son cœur qui bat
+
+Pour savoir regarder un ciel étoilé
+Tendre les mains
+À son destin
+Vouloir plus fort
+Encore demain
+
+Partir un jour sans retour
+Effacer notre amour
+Sans se retourner
+Ne pas regretter
+Garder les instants qu' on a volés
+Partir un jour sans bagages
+Oublier ton image
+Sans se retourner
+Ne pas regretter
+Penser à demain recommencer
+
+Pour l' amour que l' on donne et qui s' abandonne
+un mot que l' on pardonne pour un rêve qui nous étonne
+Pour le goût retrouvé de la liberté
+Ouvrir les yeux sans se dire adieu
+ne penser à rien rêver un peu
+
+Partir un jour sans retour
+Effacer notre amour
+Sans se retourner
+Ne pas regretter
+Garder les instants qu' on a volés
+Partir un jour sans bagages
+Oublier ton image
+Sans se retourner
+Ne pas regretter
+Penser à demain recommencer
+
+Partir un jour
+Partir un jour
+
+Partir un jour sans retour
+Effacer notre amour
+Sans se retourner
+Ne pas regretter
+Garder les instants qu' on a volés
+Partir un jour sans bagages
+Oublier ton image
+Sans se retourner
+Ne pas regretter
+Penser à demain recommencer
+
+Partir un jour sans retour
+Effacer notre amour
+Sans se retourner
+Ne pas regretter
+Garder les instants qu' on a volés
+Partir un jour sans bagages
+Oublier ton image
+Sans se retourner
+Ne pas regretter
+Penser à demain recommencer
+
+Partir un jour sans retour
+Effacer notre amour
+
+
+<50>
+pardonne pour un rêve qui nous étonne
+Ouvrir les yeux sans se dire adieu
+ne penser à rien rêver un peu
+
+<40>
+pour un rêve qui nous étonne
+les yeux sans se dire adieu
+penser à rien rêver un peu
+
+<30>
+un rêve qui nous étonne
+goût retrouvé de la liberté
+yeux sans se dire adieu
+à rien rêver un peu
+
+<20>
+À son destin
+plus fort Encore demain
+Effacer notre amour
+Sans se retourner
+Ne pas regretter
+qu' on a volés
+Oublier ton image
+Penser à demain recommencer
+
+<10>
+son destin
+Encore demain
+sans retour
+notre amour
+se retourner
+Ne pas regretter
+a volés
+sans bagages
+ton image
+
+<0>
+sans retour
+
+<1000>
+ses pas
+ses émois
+qui bat
+
+<2000>
+regarder un ciel étoilé
+mains À son destin
+plus fort Encore demain
+
+<5000>
+notre amour Sans se retourner Ne pas regretter
+Garder les instants qu' on a volés
+Partir un jour sans bagages Oublier ton image
+Ne pas regretter Penser à demain recommencer
+
+<10000>
+que l' on pardonne pour un rêve qui nous étonne
+
+<20000>
+la liberté Ouvrir les yeux sans se dire adieu ne penser à rien rêver un peu
+
+<END>

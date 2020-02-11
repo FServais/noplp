@@ -1,0 +1,110 @@
+﻿Je rêve son visage je décline son corps
+Et puis je l' imagine habitant mon décor
+J' aurais tant à lui dire si j' avais su parler
+Comment lui faire lire au fond de mes pensées
+
+Mais comment font ces autres à qui tout réussi
+Qu' on me dise mes fautes mes chimères aussi
+Moi j' offrirais mon âme mon coeur et tout mon temps
+Mais j' ai beau tout donner tout n' est pas suffisant
+
+S' il suffisait qu' on s' aime s' il suffisait d' aimer
+Si l' on changeait les choses un peu
+Rien qu' en aimant donner
+S' il suffisait qu' on s' aime s' il suffisait d' aimer
+Je ferais de ce monde un rêve une éternité
+
+J' ai du sang dans mes songes un pétale séché
+Quand des larmes me rongent que d' autres ont versées
+La vie n' est pas étanche mon île est sous le vent
+Les portes laissent entrer les cris même en fermant
+
+Dans un jardin d' enfant sur un balcon des fleurs
+Ma vie paisible où j' entends battre tous les coeurs
+Quand les nuages foncent présages des malheurs
+Quelles armes répondent aux pays de nos peurs
+
+S' il suffisait qu' on s' aime s' il suffisait d' aimer
+Si l' on changeait les choses un peu
+Rien qu' en aimant donner
+S' il suffisait qu' on s' aime s' il suffisait d' aimer
+Je ferais de ce monde un rêve une éternité
+
+S' il suffisait qu' on s' aime s' il suffisait d' aimer
+Si l' on pouvait changer les choses
+Et tout recommencer
+S' il suffisait qu' on s' aime s' il suffisait d' aimer
+Nous ferions de ce rêve un monde
+S' il suffisait d' aimer 
+
+
+
+<50>
+me rongent que d' autres ont versées
+étanche mon île est sous le vent
+laissent entrer les cris même en fermant
+jardin d' enfant sur un balcon des fleurs
+j' entends battre tous les coeurs
+Quelles armes répondent aux pays de nos peurs
+
+<40>
+me rongent que d' autres ont versées
+mon île est sous le vent
+entrer les cris même en fermant
+d' enfant sur un balcon des fleurs
+j' entends battre tous les coeurs
+armes répondent aux pays de nos peurs
+
+<30>
+changeait les choses un peu
+Rien qu' en aimant donner
+monde un rêve une éternité
+que d' autres ont versées
+île est sous le vent
+les cris même en fermant
+
+<20>
+n' est pas suffisant
+les choses un peu
+qu' en aimant donner
+un rêve une éternité
+
+<10>
+pas suffisant
+un peu
+aimant donner
+une éternité
+
+<0>
+au fond de mes pensées
+
+<1000>
+son corps
+mon décor
+lui dire
+su parler
+mes pensées
+
+<2000>
+à qui tout réussi
+me dise mes fautes
+fautes mes chimères aussi
+j' offrirais mon âme
+et tout mon temps
+tout n' est pas suffisant
+
+<5000>
+un peu Rien qu' en aimant donner
+de ce monde un rêve une éternité
+
+<10000>
+J' ai du sang dans mes songes un pétale séché
+Quand des larmes me rongent que d' autres ont versées
+n' est pas étanche mon île est sous le vent
+le vent Les portes laissent entrer les cris même en fermant
+
+<20000>
+d' enfant sur un balcon des fleurs Ma vie paisible où j' entends battre tous les coeurs
+Quand les nuages foncent présages des malheurs Quelles armes répondent aux pays de nos peurs
+
+<END>

@@ -1,0 +1,122 @@
+﻿Wight is Wight
+Dylan is Dylan
+Wight is Wight
+Viva Donovan
+C' est comme un soleil
+Dans le gris du ciel
+Wight is Wight et
+Hippie hip-hip-hip
+Hip-hip-hip
+Hip-hip-hip
+
+Ils sont arrivés dans l' ile nue
+Sans un bagage et les pieds nus
+Comme un cyclone inattendu
+Comme une fleur avant la saison
+Comme une pluie de papillons
+À laquelle on a jamais cru
+
+Wight is Wight
+Dylan is Dylan
+Wight is Wight
+Viva Donovan
+C' est comme un soleil
+Dans le gris du ciel
+Wight is Wight et
+Hippie hip-hip-hip
+Hip-hip-hip
+Hip-hip-hip
+
+Toi qui a voulu t' emprisonner
+As tu le droit de condamner
+Celui qui cherche à s' évader
+Chacun mène sa vie comme il veut
+Tu ne peux plus baisser les yeux
+Car aussi vrai que tu es né
+
+Wight is Wight
+Dylan is Dylan
+Wight is Wight
+Viva Donovan
+C' est comme un soleil
+Dans le gris du ciel
+Wight is Wight et
+Hippie hip-hip-hip
+Hip-hip-hip
+Hip-hip-hip
+
+Wight is Wight
+Dylan is Dylan
+Wight is Wight
+Viva Donovan
+C' est comme un soleil
+Dans le gris du ciel
+Wight is Wight et
+Hippie hip-hip-hip
+Wight is Wight
+
+
+<50>
+de condamner Celui qui cherche à s' évader
+Chacun mène sa vie comme il veut
+Tu ne peux plus baisser les yeux
+Car aussi vrai que tu es né
+
+<40>
+As tu le droit de condamner
+Celui qui cherche à s' évader
+mène sa vie comme il veut
+ne peux plus baisser les yeux
+aussi vrai que tu es né
+
+<30>
+a voulu t' emprisonner
+le droit de condamner
+cherche à s' évader
+sa vie comme il veut
+plus baisser les yeux
+que tu es né
+
+<20>
+l' ile nue
+les pieds nus
+un cyclone inattendu
+avant la saison
+une pluie de papillons
+on a jamais cru
+
+<10>
+ile nue
+pieds nus
+cyclone inattendu
+la saison
+de papillons
+jamais cru
+
+<0>
+un soleil
+
+<1000>
+Viva Donovan
+un soleil
+du ciel
+
+<2000>
+dans l' ile nue
+et les pieds nus
+Comme un cyclone inattendu
+
+<5000>
+Comme une fleur avant la saison
+la saison Comme une pluie de papillons
+de papillons À laquelle on a jamais cru
+
+<10000>
+qui a voulu t' emprisonner As tu le droit de condamner
+As tu le droit de condamner Celui qui cherche à s' évader
+
+<20000>
+comme il veut Tu ne peux plus baisser les yeux Car aussi vrai que tu es né
+
+
+<END>

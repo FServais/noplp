@@ -1,0 +1,135 @@
+﻿On ne retient pas l' écume
+Dans le creux de sa main
+On sait la vie se consume
+Et il n' en reste rien
+D' une bougie qui s' allume
+Tu peux encore décider du chemin
+De ton chemin
+Crois-tu que tout se résume
+Au sel d' entre nos doigts
+Quand plus léger qu' une plume
+Tu peux guider tes pas
+Sans tristesse ni amertume
+Avancer avance puisque tout s' en va
+Tout s' en va
+
+Yalla yalla
+Yalla yalla
+Elle m' emmène avec elle
+Je t' emmène avec moi
+yalla
+
+Tu trouveras le soleil
+Dans le coeur des enfants
+Sans nulle autre joie pareille
+Ni sentiment plus grand
+Un mot d' amour à l' oreille
+Peut en chacun réveiller un volcan
+Pour qui l' entend
+
+Yalla yalla
+Yalla yalla
+Elle m' emmène avec elle
+Je t' emmène avec moi
+yalla
+
+Tu trouveras le soleil
+Dans le coeur des enfants
+
+♫♫♫
+
+Elle m' emmène avec elle
+Je t' emmène avec moi
+Yalla
+
+Yalla
+On ne retient pas l' écume
+Yalla
+Dans le creux de sa main
+Yalla
+On sait la vie se consume
+Yalla
+Et il n' en reste rien
+
+Elle m' emmène avec elle
+Je t' emmène avec moi
+Yalla
+
+Yalla
+Tu trouveras le soleil
+Yalla
+Dans le cœur des enfants
+Yalla
+Sans nulle autre joie pareille
+Yalla
+Ni sentiment plus grand
+
+Elle m' emmène avec elle
+Je t' emmène avec moi
+Yalla
+
+
+<50>
+Tu trouveras le soleil Dans le coeur des enfants
+nulle autre joie pareille Ni sentiment plus grand
+Un mot d' amour à l' oreille
+réveiller un volcan Pour qui l' entend
+
+<40>
+le soleil Dans le coeur des enfants
+autre joie pareille Ni sentiment plus grand
+Un mot d' amour à l' oreille
+un volcan Pour qui l' entend
+
+<30>
+Elle m' emmène avec elle
+Je t' emmène avec moi
+Dans le coeur des enfants
+Ni sentiment plus grand
+d' amour à l' oreille
+volcan Pour qui l' entend
+
+<20>
+m' emmène avec elle
+t' emmène avec moi
+coeur des enfants
+Ni sentiment plus grand
+à l' oreille
+Pour qui l' entend
+
+<10>
+avec elle
+avec moi
+des enfants
+un volcan
+
+<0>
+Yalla Yalla
+
+<1000>
+l' écume
+sa main
+se consume
+reste rien
+s' allume
+du chemin
+
+<2000>
+que tout se résume
+d' entre nos doigts
+léger qu' une plume
+peux guider tes pas
+Sans tristesse ni amertume
+tout s' en va
+
+<5000>
+avec elle Je t' emmène avec moi
+
+<10000>
+Tu trouveras le soleil Dans le coeur des enfants
+Sans nulle autre joie pareille Ni sentiment plus grand
+
+<20000>
+Un mot d' amour à l' oreille Peut en chacun réveiller un volcan Pour qui l' entend
+
+<FIN>

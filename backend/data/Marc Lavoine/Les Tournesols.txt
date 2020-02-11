@@ -1,0 +1,126 @@
+﻿Fragile fond de nos voix
+Quand on dit je t' aime je crois
+Frêle la folle espérance
+Le vrai de l' enfance qu' on oublie parfois
+Faibles nos idées nouvelles
+Pour rendre plus belle la vie du sans-joie
+Les lettres jamais reçues
+Celles jamais envoyées pourquoi
+
+J' voulais simplement t' apprendre à compter sur moi
+Oh j' voulais simplement que t' apprennes à compter avec moi
+Sur le bout de nos doigts
+
+Courir dans les tournesols
+Marcher dans les champs de blé
+Retrouver les parasols
+Et le gout des nuits d' été
+Les chevaux qui caracolent
+Les souvenirs les démêlés
+Et les pastilles de menthol
+Le gout de la liberté
+
+Mince la chance qui nous reste
+Saisissons la quand même
+Maigre comme une hirondelle petite hirondelle
+Que l' hiver fait mourir
+Belle petite possibilité de sentir encore
+Quelque chose de chaud
+Cette minuscule résistance
+Qui fait quand même bouger les choses
+
+Courir dans les tournesols
+Marcher dans les champs de blés
+Retrouver les parasols
+Et le gout des nuits d' été
+Les chevaux qui caracolent
+Comme des parents qu' ont mal tourné
+Et les pastilles de menthol
+Le gout de la liberté
+
+Courir dans les tournesols
+Marcher dans les champs de blé
+Retrouver les parasols
+Et le gout des nuits d' été
+Les chevaux qui caracolent
+Les souvenirs les démêlés
+Et les pastilles de menthol
+Le gout de la liberté
+Le gout de la liberté
+Le gout de la liberté
+Le gout de la liberté
+Le gout de la liberté
+
+
+<50>
+pastilles de menthol Le gout de la liberté
+Maigre comme une hirondelle petite hirondelle
+petite hirondelle Que l' hiver fait mourir
+de sentir encore Quelque chose de chaud
+Qui fait quand même bouger les choses
+
+<40>
+menthol Le gout de la liberté
+Maigre comme une hirondelle petite hirondelle
+hirondelle Que l' hiver fait mourir
+sentir encore Quelque chose de chaud
+fait quand même bouger les choses
+
+<30>
+dans les champs de blé
+champs de blé Retrouver les parasols
+le gout des nuits d' été
+d' été Les chevaux qui caracolent
+caracolent Les souvenirs les démêlés
+Et les pastilles de menthol
+Le gout de la liberté
+
+<20>
+les champs de blé
+Retrouver les parasols
+des nuits d' été
+chevaux qui caracolent
+souvenirs les démêlés
+pastilles de menthol
+gout de la liberté
+
+<10>
+de blé
+les parasols
+d' été
+qui caracolent
+les démêlés
+de menthol
+la liberté
+
+<0>
+à compter sur moi
+
+<1000>
+je crois
+folle espérance
+l' enfance
+oublie parfois
+idées nouvelles
+
+<2000>
+la vie du sans-joie
+Celles jamais envoyées pourquoi
+à compter sur moi
+à compter avec moi
+bout de nos doigts
+
+<5000>
+tournesols Marcher dans les champs de blé
+parasols Et le gout des nuits d' été
+chevaux qui caracolent Les souvenirs les démêlés
+pastilles de menthol Le gout de la liberté
+
+<10000>
+Mince la chance qui nous reste Saisissons la quand même
+comme une hirondelle petite hirondelle Que l' hiver fait mourir
+
+<20000>
+encore Quelque chose de chaud Cette minuscule résistance Qui fait quand même bouger les choses
+
+<END>

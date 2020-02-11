@@ -1,0 +1,174 @@
+﻿Je ne rêve plus
+Je ne fume plus
+Je n' ai même plus d' histoire
+Je suis sale sans toi
+Je suis laid sans toi
+Je suis comme un orphelin dans un dortoir
+
+Je n' ai plus envie
+De vivre ma vie
+Ma vie cesse quand tu pars
+Je n' ai plus de vie
+Et même mon lit
+Se transforme en quai de gare
+Quand tu t' en vas
+
+Je suis malade
+Complètement malade
+Comme quand ma mère sortait le soir
+Et qu' elle me laissait seul avec mon désespoir
+Je suis malade
+Parfaitement malade
+T' arrives on ne sait jamais quand
+Tu repars on ne sait jamais où
+Et ça va faire bientôt deux ans
+Que tu t' en fous
+
+Comme à un rocher
+Comme à un péché
+Je suis accroché à toi
+Je suis fatigué
+Je suis épuisé
+De faire semblant d' être heureux quand ils sont là
+Je bois toutes les nuits
+Mais tous les whiskys
+Pour moi ont le même goût
+Et tous les bateaux
+Portent ton drapeau
+Je ne sais plus où aller
+Tu es partout
+
+Je suis malade
+Complètement malade
+Je verse mon sang dans ton corps
+Et je suis comme un oiseau mort quand toi tu dors
+Je suis malade
+Parfaitement malade
+Tu m' as privé de tous mes chants
+Tu m' as vidé de tous mes mots
+Pourtant moi j' avais du talent
+Avant ta peau
+
+Cet amour me tue
+Si ça continue
+Je crèverai seul avec moi
+Près de ma radio
+Comme un gosse idiot
+Écoutant ma propre voix
+Qui chantera
+
+Je suis malade
+Complètement malade
+Comme quand ma mère sortait le soir
+Et qu' elle me laissait seul avec mon désespoir
+Je suis malade
+C' est ça je suis malade
+Tu m' as privé de tous mes chants
+Tu m' as vidé de tous mes mots
+Et j' ai le coeur complètement malade
+Cerné de barricades
+T' entends je suis malade
+
+
+
+
+<50>
+un péché Je suis accroché à toi
+à toi Je suis fatigué Je suis épuisé
+d' être heureux quand ils sont là
+les whiskys Pour moi ont le même goût
+Et tous les bateaux Portent ton drapeau
+plus où aller Tu es partout
+Je verse mon sang dans ton corps
+un oiseau mort quand toi tu dors
+m' as privé de tous mes chants
+m' as vidé de tous mes mots
+j' avais du talent Avant ta peau
+
+<40>
+péché Je suis accroché à toi
+Je suis fatigué Je suis épuisé
+être heureux quand ils sont là
+Pour moi ont le même goût
+tous les bateaux Portent ton drapeau
+plus où aller Tu es partout
+mon sang dans ton corps
+mort quand toi tu dors
+vidé de tous mes mots
+du talent Avant ta peau
+
+<30>
+ma mère sortait le soir
+laissait seul avec mon désespoir
+on ne sait jamais quand
+on ne sait jamais où
+faire bientôt deux ans
+Que tu t' en fous
+Je suis accroché à toi
+quand ils sont là
+ont le même goût
+bateaux Portent ton drapeau
+sais plus où aller
+
+<20>
+sortait le soir
+avec mon désespoir
+ne sait jamais quand
+ne sait jamais où
+bientôt deux ans
+tu t' en fous
+
+<10>
+le soir
+mon désespoir
+Parfaitement malade
+jamais quand
+jamais où
+deux ans
+t' en fous
+
+<0>
+dans un dortoir
+
+<1000>
+fume plus
+d' histoire
+sans toi
+suis laid
+un orphelin
+un dortoir
+plus envie
+ma vie
+tu pars
+
+<2000>
+en quai de gare
+tu t' en vas
+mère sortait le soir
+seul avec mon désespoir
+ne sait jamais quand
+ne sait jamais où
+faire bientôt deux ans
+tu t' en fous
+
+<5000>
+à un péché Je suis accroché à toi
+Je suis fatigué Je suis épuisé
+d' être heureux quand ils sont là
+les nuits Mais tous les whiskys
+Pour moi ont le même goût
+Et tous les bateaux Portent ton drapeau
+ne sais plus où aller Tu es partout
+
+<10000>
+Complètement malade Je verse mon sang dans ton corps
+Et je suis comme un oiseau mort quand toi tu dors
+tous mes chants Tu m' as vidé de tous mes mots
+Pourtant moi j' avais du talent Avant ta peau
+
+<20000>
+Cet amour me tue Si ça continue Je crèverai seul avec moi Près de ma radio
+Si ça continue Je crèverai seul avec moi Près de ma radio Comme un gosse idiot
+Près de ma radio Comme un gosse idiot Écoutant ma propre voix Qui chantera
+
+<END>

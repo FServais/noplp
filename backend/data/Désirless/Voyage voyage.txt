@@ -1,0 +1,121 @@
+﻿Au-dessus des vieux volcans
+Glissent des ailes sous le tapis du vent
+Voyage Voyage
+Eternellement
+De nuages en marécages
+De vent d' Espagne en pluie d' équateur
+Voyage voyage
+Vol dans les hauteurs
+Au-dessus des capitales
+Des idées fatales
+Regarde l' ocean
+
+Voyage voyage
+Plus loin que la nuit et le jour
+Voyage
+Dans l' espace inouï de l' amour
+Voyage voyage
+Sur l' eau sacree d' un fleuve indien
+Voyage
+Et jamais ne reviens
+
+Sur le Gange ou l' Amazone
+Chez les blacks chez les sikhs chez les jaunes
+Voyage voyage
+Dans tout le royaume
+Sur les dunes du Sahara
+Des îles Fiji au Fuji-Yama
+Voyage voyage
+Ne t' arretes pas
+Au-dessus des barbelés
+Des cœurs bombardés
+Regarde l' ocean
+
+Voyage voyage
+Plus loin que la nuit et le jour
+Voyage
+Dans l' espace inoui de l' amour
+Voyage voyage
+Sur l' eau sacree d' un fleuve indien
+Voyage
+Et jamais ne reviens
+
+Au-dessus des capitales
+Des idées fatales
+Regarde l' ocean
+
+Voyage voyage
+Plus loin que la nuit et le jour
+Voyage
+Dans l' espace inoui de l' amour
+Voyage voyage
+Sur l' eau sacree d' un fleuve indien
+Voyage
+Et jamais ne reviens
+
+Voyage voyage
+Plus loin que la nuit et le jour
+Voyage
+
+
+
+<50>
+les blacks chez les sikhs chez les jaunes
+du Sahara Des îles Fiji au Fuji-Yama
+Au-dessus des barbelés Des cœurs bombardés
+
+<40>
+chez les sikhs chez les jaunes
+Au-dessus des barbelés Des cœurs bombardés
+Des îles Fiji au Fuji-Yama
+
+<30>
+sacree d' un fleuve indien
+les sikhs chez les jaunes
+Des îles Fiji au Fuji-Yama
+des barbelés Des cœurs bombardés
+
+<20>
+la nuit et le jour
+inoui de l' amour
+d' un fleuve indien
+Et jamais ne reviens
+chez les jaunes
+Dans tout le royaume
+d' un fleuve indien
+
+<10>
+fleuve indien
+ne reviens
+l' Amazone
+les jaunes
+au Fuji-Yama
+
+<0>
+d' équateur
+
+<1000>
+vieux volcans
+du vent
+en marécages
+
+<2000>
+en pluie d' équateur
+Vol dans les hauteurs
+capitales Des idées fatales
+fatales Regarde l' ocean
+
+<5000>
+Plus loin que la nuit et le jour
+Dans l' espace inoui de l' amour
+Sur l' eau sacree d' un fleuve indien
+
+<10000>
+l' Amazone Chez les blacks chez les sikhs chez les jaunes
+les sikhs chez les jaunes Voyage voyage Dans tout le royaume
+Sur les dunes du Sahara Des îles Fiji au Fuji-Yama
+
+<20000>
+Voyage voyage Ne t' arretes pas Au-dessus des barbelés Des cœurs bombardés Regarde l' ocean
+
+<END>

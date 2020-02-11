@@ -1,0 +1,197 @@
+﻿Depuis le temps que je patiente
+Dans cette chambre noire
+J' entends qu' on s' amuse et qu' on chante
+Au bout du couloir
+Quelqu' un a touché le verrou
+Et j' ai plongé vers le grand jour
+J' ai vu les fanfares les barrières
+Et les gens autour
+
+Dans les premiers moments j' ai cru
+Qu' il fallait seulement se défendre
+Mais cette place est sans issue
+Je commence à comprendre
+Ils ont refermé derrière moi
+Ils ont eu peur que je recule
+Je vais bien finir par l' avoir
+Cette danseuse ridicule
+
+Est-ce que ce monde est sérieux 
+Est-ce que ce monde est sérieux 
+
+Andalousie je me souviens
+Les prairies bordées de cactus
+Je vais pas trembler devant
+Ce pantin ce minus
+Je vais l' attraper lui et son chapeau
+Les faire tourner comme un soleil
+Ce soir la femme du torero
+Dormira sur ses deux oreilles
+
+Est-ce que ce monde est sérieux 
+Est-ce que ce monde est sérieux 
+
+J' en ai poursuivi des fantômes
+Presque touché leurs ballerines
+Ils ont frappé fort dans mon cou
+Pour que je m' incline
+
+Ils sortent d' où ces acrobates
+Avec leurs costumes de papier 
+J' ai jamais appris à me battre
+Contre des poupées
+
+Sentir le sable sous ma tête
+C' est fou comme ça peut faire du bien
+J' ai prié pour que tout s' arrête
+Andalousie je me souviens
+
+Je les entends rire comme je râle
+Je les vois danser comme je succombe
+Je pensais pas qu' on puisse autant
+S' amuser autour d' une tombe
+
+Est-ce que ce monde est sérieux 
+Est-ce que ce monde est sérieux 
+
+Si si hombre hombre
+Baila baila
+Hay que bailar de nuevo
+Y mataremos otros
+Otras vidas otros toros
+Y mataremos otros
+Venga venga a bailar
+Y mataremos otros
+
+
+
+<50>
+en ai poursuivi des fantômes Presque touché leurs ballerines
+poursuivi des fantômes Presque touché leurs ballerines
+fort dans mon cou Pour que je m' incline
+mon cou Pour que je m' incline
+d' où ces acrobates Avec leurs costumes de papier 
+ces acrobates Avec leurs costumes de papier 
+ai jamais appris à me battre Contre des poupées
+jamais appris à me battre Contre des poupées
+appris à me battre Contre des poupées
+est fou comme ça peut faire du bien
+fou comme ça peut faire du bien
+pour que tout s' arrête Andalousie je me souviens
+que tout s' arrête Andalousie je me souviens
+tout s' arrête Andalousie je me souviens
+Je les entends rire comme je râle
+Je les vois danser comme je succombe
+je râle Je les vois danser comme je succombe
+on puisse autant S' amuser autour d' une tombe
+autant S' amuser autour d' une tombe
+
+<40>
+l' attraper lui et son chapeau
+Les faire tourner comme un soleil
+chapeau Les faire tourner comme un soleil
+du torero Dormira sur ses deux oreilles
+Est-ce que ce monde est sérieux 
+poursuivi des fantômes Presque touché leurs ballerines
+Ils ont frappé fort dans mon cou
+mon cou Pour que je m' incline
+Ils sortent d' où ces acrobates
+acrobates Avec leurs costumes de papier 
+appris à me battre Contre des poupées
+
+<30>
+Est-ce que ce monde est sérieux 
+Andalousie je me souviens
+Les prairies bordées de cactus
+devant Ce pantin ce minus
+attraper lui et son chapeau
+Les faire tourner comme un soleil
+faire tourner comme un soleil
+soir la femme du torero
+Ce soir la femme du torero
+Dormira sur ses deux oreilles
+torero Dormira sur ses deux oreilles
+
+<20>
+le grand jour
+vers le grand jour
+fanfares les barrières
+Et les gens autour
+fallait seulement se défendre
+place est sans issue
+Je commence à comprendre
+ont refermé derrière moi
+peur que je recule
+avoir Cette danseuse ridicule
+Ce pantin ce minus
+
+<10>
+je patiente
+chambre noire
+on chante
+du couloir
+le verrou
+grand jour
+les fanfares
+les barrières
+gens autour
+premiers moments
+se défendre
+sans issue
+à comprendre
+
+<0>
+les gens autour
+
+<1000>
+chambre noire
+on chante
+du couloir
+le verrou
+grand jour
+les fanfares
+les barrières
+gens autour
+
+<2000>
+Dans les premiers moments
+moments j' ai cru
+fallait seulement se défendre
+place est sans issue
+Je commence à comprendre
+ont refermé derrière moi
+Ils ont eu peur
+peur que je recule
+avoir Cette danseuse ridicule
+
+<5000>
+Est-ce que ce monde est sérieux 
+Andalousie je me souviens Les prairies bordées de cactus
+je me souviens Les prairies bordées de cactus
+souviens Les prairies bordées de cactus
+vais pas trembler devant Ce pantin ce minus
+trembler devant Ce pantin ce minus
+Je vais l' attraper lui et son chapeau
+l' attraper lui et son chapeau
+vais l' attraper lui et son chapeau
+son chapeau Les faire tourner comme un soleil
+Les faire tourner comme un soleil
+torero Dormira sur ses deux oreilles
+femme du torero Dormira sur ses deux oreilles
+
+<10000>
+J' en ai poursuivi des fantômes Presque touché leurs ballerines
+frappé fort dans mon cou Pour que je m' incline
+Ils sortent d' où ces acrobates Avec leurs costumes de papier
+d' où ces acrobates Avec leurs costumes de papier
+J' ai jamais appris à me battre Contre des poupées
+ai jamais appris à me battre Contre des poupées
+
+<20000>
+ma tête C' est fou comme ça peut faire du bien J' ai prié pour que tout s' arrête
+comme ça peut faire du bien J' ai prié pour que tout s' arrête
+ça peut faire du bien J' ai prié pour que tout s' arrête Andalousie je me souviens
+Je les entends rire comme je râle Je les vois danser comme je succombe
+comme je succombe je pensais pas qu' on puisse autant S' amuser autour d' une tombe
+
+<END>

@@ -1,0 +1,126 @@
+﻿Une histoire qui tombe à l' eau
+Quelques mots sur ton piano
+C' est fini
+C' est toute une vie
+Qui s' assombrit
+
+Je l' ai vu dans ton regard
+J' ai senti ton désespoir
+À quoi bon
+Faire semblant
+D' y croire
+
+Ne retiens pas tes larmes
+Laisses aller ton chagrin
+C' est une page qui se tourne
+Et tu n' y peux rien
+Ne retiens pas tes larmes
+Pleurer ça fait du bien
+Et si tu as de la peine
+Souviens toi que je t' aime
+Je ne serai jamais loin
+
+Tu t' accroches à ton passé
+Comme si tout s' était figé
+Aujourd'hui
+Il faut céder
+Abandonner
+
+La douleur qui s' installe
+Cette absence qui fait si mal
+N' aie pas peur
+Écoutes ton coeur
+
+Ne retiens pas tes larmes
+Laisses aller ton chagrin
+C' est une page qui se tourne
+Et tu n' y peux rien
+Ne retiens pas tes larmes
+Pleurer ça fait du bien
+Et si tu as de la peine
+Souviens toi que je t' aime
+Je ne serai jamais loin
+
+Ne retiens pas tes larmes
+Laisse aller ton chagrin
+Et si tu as de la peine
+N’oublies pas que je t' aime
+Je ne serai jamais loin
+
+
+
+
+
+
+
+<50>
+ton passé Comme si tout s' était figé
+Aujourd'hui Il faut céder Abandonner
+s' installe Cette absence qui fait si mal
+N' aie pas peur Écoutes ton coeur
+
+<40>
+Comme si tout s' était figé
+Aujourd'hui Il faut céder Abandonner
+Cette absence qui fait si mal
+N' aie pas peur Écoutes ton coeur
+
+<30>
+une page qui se tourne
+Et tu n' y peux rien
+Pleurer ça fait du bien
+Souviens toi que je t' aime
+Je ne serai jamais loin
+si tout s' était figé
+Il faut céder Abandonner
+Cette absence qui fait si mal
+pas peur Écoutes ton coeur
+
+<20>
+aller ton chagrin
+qui se tourne
+n' y peux rien
+fait du bien
+de la peine
+que je t' aime
+ne serai jamais loin
+
+<10>
+ton chagrin
+se tourne
+peux rien
+du bien
+la peine
+je t' aime
+jamais loin
+
+<0>
+D' y croire
+
+<1000>
+ton piano
+C' est fini
+s' assombrit
+
+<2000>
+vu dans ton regard
+ai senti ton désespoir
+semblant D' y croire
+
+<5000>
+pas tes larmes Laisses aller ton chagrin
+C' est une page qui se tourne
+se tourne Et tu n' y peux rien
+pas tes larmes Pleurer ça fait du bien
+la peine Souviens toi que je t' aime
+je t' aime Je ne serai jamais loin
+
+<10000>
+t' accroches à ton passé Comme si tout s' était figé
+si tout s' était figé Aujourd'hui Il faut céder Abandonner
+
+<20000>
+qui s' installe Cette absence qui fait si mal N' aie pas peur Écoutes ton coeur
+
+
+<END>

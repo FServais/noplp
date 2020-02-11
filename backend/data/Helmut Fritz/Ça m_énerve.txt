@@ -1,0 +1,174 @@
+﻿(Toutes celles qui portent la frange à la Kate Moss)
+Ça m' énerve ça m' énerve
+Ça m' énerve
+Ça m' énerve ça m' énerve
+Ça m' énerve
+
+J' entre au Costes boire un verre
+Mais la serveuse me pompe l' air
+J' ai pas la réservation
+Je ressors j' ai l' air d' un con
+Ça m' énerve oui ça m' énerve
+
+J' ai un cadeau à faire
+De chez Zadig & Voltaire
+Le pull où c' est marqué Rock
+Mais y' a d' la rupture de stock
+
+Ça m' énerve
+Toutes celles qui portent la frange à la Kate Moss
+Ça m' énerve
+Le rouge à lèvres c' est fini maintenant c' est le gloss
+Ça m' énerve
+Toutes celles qui rentrent dans le jean slim en taille trente-quatre
+Ça m' énerve
+La seule vue sur le string te donne envie de les abattre
+Scheiße
+
+Devant le club VIP y' a plein de Lamborghini
+Moi j' arrive sur mon vespa on me dit tu rentres pas
+Ça m' énerve
+J' entre chez Weston une blondasse au téléphone
+Me dit j' peux vous aider
+Non je vous ai pas sonné
+Elle m' énerve mon Dieu qu' elle m' énerve
+
+J' ai bu le mojito au Milliardaire
+Dans le carré j' ai tout vomi par terre
+J' ai perdu mon ticket pour le vestiaire
+Je trouve pas de taxi ach c' est la guerre
+
+Ça m' énerve
+Toutes celles qui portent la frange à la Kate Moss
+Ça m' énerve
+Le rouge à lèvres c' est fini maintenant c' est le gloss
+Ça m' énerve
+Toutes celles qui boivent le champagne rosé
+Ça m' énerve
+Pour oublier qu' en Jimmy Choo t' as mal aux pieds
+
+Ça m' énerve tous ces gens qui font la queue chez Ladurée
+Tout ça pour des macarons
+Mais bon
+Il parait qu' ils sont bons
+
+Ça m' énerve
+Toutes celles qui dansent sur le dance-floor comme des princesses
+Ça m' énerve
+Si t' as la black card eh bah tu verras leurs fesses
+Ça m' énerve
+Toutes celles comme toi qui écoutent beaucoup trop fort la musique
+Ça m' énerve
+Moi je monte les voir et je leur dis avec le cric Ça m' énerve
+
+
+
+
+
+
+
+<50>
+qui portent la frange à la Kate Moss
+c' est fini maintenant c' est le gloss
+dans le jean slim en taille trente-quatre
+le string te donne envie de les abattre
+Devant le club VIP y' a plein de Lamborghini
+mon vespa on me dit tu rentres pas
+au téléphone Me dit j' peux vous aider
+vous aider Non je vous ai pas sonné
+J' ai bu le mojito au Milliardaire
+le carré j' ai tout vomi par terre
+J' ai perdu mon ticket pour le vestiaire
+
+<40>
+portent la frange à la Kate Moss
+fini maintenant c' est le gloss
+dans le jean slim en taille trente-quatre
+string te donne envie de les abattre
+club VIP y' a plein de Lamborghini
+vespa on me dit tu rentres pas
+Me dit j' peux vous aider
+aider Non je vous ai pas sonné
+j' ai tout vomi par terre
+perdu mon ticket pour le vestiaire
+
+<30>
+la frange à la Kate Moss
+maintenant c' est le gloss
+jean slim en taille trente-quatre
+te donne envie de les abattre
+y' a plein de Lamborghini
+on me dit tu rentres pas
+j' peux vous aider
+je vous ai pas sonné
+j' ai tout vomi par terre
+mon ticket pour le vestiaire
+
+<20>
+rupture de stock
+à la Kate Moss
+c' est le gloss
+en taille trente-quatre
+de les abattre
+plein de Lamborghini
+sur mon vespa
+tu rentres pas
+blondasse au téléphone
+ai pas sonné
+vomi par terre
+pour le vestiaire
+c' est la guerre
+
+<10>
+de stock
+Kate Moss
+le gloss
+taille trente-quatre
+les abattre
+de Lamborghini
+mon vespa
+rentres pas
+au téléphone
+pas sonné
+par terre
+le vestiaire
+la guerre
+
+<0>
+de stock
+
+<1000>
+un verre
+l' air
+la réservation
+d' un con
+à faire
+marqué Rock
+de stock
+
+<2000>
+à la Kate Moss
+c' est le gloss
+slim en taille trente-quatre
+envie de les abattre
+
+<5000>
+le club VIP y' a plein de Lamborghini
+mon vespa on me dit tu rentres pas
+au téléphone Me dit j' peux vous aider
+vous aider Non je vous ai pas sonné
+Elle m' énerve mon Dieu qu' elle m' énerve
+
+<10000>
+au Milliardaire Dans le carré j' ai tout vomi par terre
+par terre J' ai perdu mon ticket pour le vestiaire
+Toutes celles qui boivent le champagne rosé Ça m' énerve
+Pour oublier qu' en Jimmy Choo t' as mal aux pieds
+
+<20000>
+tous ces gens qui font la queue chez Ladurée Tout ça pour des macarons
+chez Ladurée Tout ça pour des macarons Mais bon Il parait qu' ils sont bons
+Ça m' énerve Toutes celles comme toi qui écoutent beaucoup trop fort la musique
+Moi je monte les voir et je leur dis avec le cric Ça m' énerve
+
+<END>

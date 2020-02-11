@@ -1,0 +1,208 @@
+﻿Your girl is crying in the night
+Is she wrong or is she right
+Je ne peux plus rien y faire
+Your girl is shining in the night
+Burning burning burning bright
+Je ne sais plus comment faire
+
+Dites-lui que je suis comme elle
+Que j' aime toujours les chansons
+Qui parlent d' amour et d' hirondelles
+De chagrin de vent et de frissons
+
+Dites-lui que je pense à elle
+Quand on me parle de magnolias
+Quand j' entends ces musiques nouvelles
+Qui résonnent comme des bruits de combats
+
+Your girl is crying in the night
+Is she wrong is she right
+Non je ne sais plus comment faire
+
+Elle est si forte qu' elle se brise
+Elle était fière elle est soumise
+Comme un amour qui lâche prise
+Qui casse et ne plie pas
+
+Tu lui ressembles
+Quand elle tremble
+Et dans ta voix
+J' entends parfois
+Un peu sa voix
+
+Elle te ressemble
+Quand elle tremble
+Quand elle pleure
+Là dans le cœur
+Des arbres en fleurs
+
+Dites-lui que j' ai peur pour elle
+Dans les sous-sols quand il fait noir
+Quand j' entends ces musiques nouvelles
+Où s' en vient crier le désespoir
+
+Dites-lui que je pense à elle
+Dans un grand champ de magnolias
+Et que si toutes les fleurs sont belles
+Je me brule souvent souvent les doigts
+
+Des magnolias par centaines
+Des magnolias comme autrefois
+Je ne sais plus comment faire
+Les magnolias sont toujours là
+
+Elle ressemble à toutes les filles
+Quand elles aiment comme ça
+Qu' elles soient méchantes ou timides
+Pauvres violettes ou magnolias
+
+Elle aime les grands ciels humides
+Et les déserts où il fait froid
+Parfois elle pleure quand j' arrive
+Et elle rit quand elle s' en va
+
+Si tu t' en vas dans la tempête
+Si tu t' en vas tu la verras
+
+Dites-lui que je suis comme elle
+Que j' aime toujours les chansons
+Qui parlent d' amour et d' hirondelles
+De chagrin de vent et de frissons
+
+
+<50>
+Elle est si forte qu' elle se brise
+se brise Elle était fière elle est soumise
+lâche prise Qui casse et ne plie pas 
+Tu lui ressembles Quand elle tremble
+J' entends parfois Un peu sa voix
+ressemble Quand elle tremble Quand elle pleure
+Là dans le cœur Des arbres en fleurs
+Dans les sous-sols quand il fait noir
+fait noir Quand j' entends ces musiques nouvelles
+nouvelles Où s' en vient crier le désespoir
+à elle Dans un grand champ de magnolias
+Et que si toutes les fleurs sont belles
+Je me brule souvent souvent les doigts
+Des magnolias par centaines Des magnolias comme autrefois
+plus comment faire Les magnolias sont toujours là
+
+<40>
+si forte qu' elle se brise
+Elle était fière elle est soumise
+Qui casse et ne plie pas
+Tu lui ressembles Quand elle tremble
+J' entends parfois Un peu sa voix
+Quand elle tremble Quand elle pleure
+le cœur Des arbres en fleurs
+les sous-sols quand il fait noir
+Quand j' entends ces musiques nouvelles
+Où s' en vient crier le désespoir
+Dans un grand champ de magnolias
+si toutes les fleurs sont belles
+me brule souvent souvent les doigts
+par centaines Des magnolias comme autrefois
+comment faire Les magnolias sont toujours là
+
+<30>
+comme des bruits de combats
+qu' elle se brise
+fière elle est soumise
+casse et ne plie pas 
+ressembles Quand elle tremble
+parfois Un peu sa voix
+tremble Quand elle pleure
+Des arbres en fleurs
+quand il fait noir
+j' entends ces musiques nouvelles
+vient crier le désespoir
+grand champ de magnolias
+les fleurs sont belles
+souvent souvent les doigts
+Des magnolias comme autrefois
+magnolias sont toujours là
+
+<20>
+bruits de combats
+qu' elle se brise
+elle est soumise
+qui lâche prise
+et ne plie pas
+Tu lui ressembles
+Quand elle tremble
+Et dans ta voix
+J' entends parfois
+Un peu sa voix
+Quand elle pleure
+arbres en fleurs
+il fait noir
+ces musiques nouvelles
+crier le désespoir
+champ de magnolias
+fleurs sont belles
+magnolias comme autrefois
+sont toujours là
+
+<10>
+de combats
+se brise
+elle est soumise
+plie pas 
+elle tremble
+sa voix
+elle pleure
+en fleurs
+fait noir
+musiques nouvelles
+le désespoir
+sont belles
+les doigts
+comme autrefois
+toujours là
+
+<0>
+que je pense à elle
+
+<1000>
+comme elle
+les chansons
+d' hirondelles
+de frissons
+à elle
+musiques nouvelles
+de combats
+comment faire
+
+<2000>
+qu' elle se brise
+fière elle est soumise
+amour qui lâche prise
+et ne plie pas
+Tu lui ressembles
+Quand elle tremble
+Et dans ta voix
+Un peu sa voix
+ressemble Quand elle tremble
+tremble Quand elle pleure
+Là dans le cœur
+Des arbres en fleurs
+
+<5000>
+que j' ai peur pour elle
+Dans les sous-sols quand il fait noir
+Quand j' entends ces musiques nouvelles
+Où s' en vient crier le désespoir
+Dans un grand champ de magnolias
+Et que si toutes les fleurs sont belles
+Je me brule souvent souvent les doigts
+
+<10000>
+Elle ressemble à toutes les filles Quand elles aiment comme ça
+Qu' elles soient méchantes ou timides Pauvres violettes ou magnolias
+
+<20000>
+les grands ciels humides Et les déserts où il fait froid Parfois elle pleure quand j' arrive
+Parfois elle pleure quand j' arrive Et elle rit quand elle s' en va
+Si tu t' en vas dans la tempête Si tu t' en vas tu la verras
+
+<END>
