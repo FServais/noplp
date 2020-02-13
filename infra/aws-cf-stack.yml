@@ -356,7 +356,7 @@ Resources:
       'AWS::CloudFormation::Init': 
         config:
           files:
-            /tmp/https.conf:
+            /tmp/http.conf:
               content: !Sub |
                     # HTTPS server
                     upstream nodejs {
@@ -364,7 +364,7 @@ Resources:
                     }
 
                     server {
-                        listen       80 default ssl;
+                        listen       80;
                         server_name  localhost;
                         error_page  497 https://$host$request_uri;
 
