@@ -1,4 +1,4 @@
-@host = localhost:5000
+@host = localhost:3100
 
 GET http://{{host}}
 
@@ -13,3 +13,9 @@ GET  http://{{host}}/category/Petit%20ou%20grand%20%3F/songs
 ###
 
 GET http://{{host}}/song/artist/Patrick%20Bruel/title/Place%20des%20grands%20hommes/level/50
+
+###
+GET http://{{host}}/test/categories
+
+###
+GET http://{{host}}/test/unique/categories
