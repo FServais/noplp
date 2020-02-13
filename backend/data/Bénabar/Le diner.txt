@@ -1,0 +1,125 @@
+J' veux pas y' aller à ce dîner,
+J' ai pas l' moral,
+J' suis fatigué,
+Ils nous en voudront pas,
+Allez on n' y va pas.
+En plus faut que je fasse un régime
+ma chemise me boudine,
+J' ai l' air d' une chipolata,
+Je peux pas sortir comme ça.
+Ça n' a rien à voir
+J' les aime bien tes amis,
+Mais je veux pas les voir
+Parce que j' ai pas envie.
+
+On s' en fout, on n' y va pas,
+On n' a qu' à se cacher sous les draps,
+On commandera des pizzas,
+Toi la télé et moi,
+On appelle, on s' excuse,
+On improvise, on trouve quelque chose,
+On n' a qu' à dire à tes amis
+Qu' on les aime pas et puis tant pis.
+
+J' suis pas d' humeur tout me déprime
+Et il se trouve que par hasard,
+Y' a un super bon film
+A la télé ce soir.
+Un chef-d’œuvre du 7ème art
+Que je voudrais revoir,
+Un drame très engagé
+Sur la police de Saint-Tropez.
+C' est une satire sociale
+Dont le personnage central
+Est joué par De Funès,
+En plus y' a des extraterrestres.
+
+On s' en fout, on n' y va pas,
+On n' a qu' à se cacher sous les draps,
+On commandera des pizzas,
+Toi la télé et moi,
+On appelle, on s' excuse,
+On improvise, on trouve quelque chose,
+On n' a qu' à dire à tes amis
+Qu' on les aime pas et puis tant pis.
+On s' en fout, on n' y va pas,
+On n' a qu' à se cacher sous les draps,
+On commandera des pizzas,
+Toi la télé et moi.
+
+J' ai des frissons je me sens faible,
+Je crois que je suis souffrant,
+Ce serait pas raisonnable
+De sortir maintenant.
+Je préfère pas prendre de risque,
+C' est peut-être contagieux,
+Il vaut mieux que je reste
+Ça m' ennuie mais c' est mieux.
+Tu me traites d' égoïste,
+Comment oses-tu dire ça ?
+Moi qui suis malheureux et triste
+Et j' ai même pas de home-cinéma.
+
+On s' en fout, on n' y va pas,
+On n' a qu' à se cacher sous les draps,
+On commandera des pizzas,
+Toi la télé et moi,
+On appelle, on s' excuse,
+On improvise, on trouve quelque chose,
+On n' a qu' à dire à tes amis
+Qu' on les aime pas et puis tant pis.
+
+On s' en fout, on n' y va pas,
+On n' a qu' à se cacher sous les draps,
+On commandera des pizzas,
+Toi la télé et moi.
+
+<50>
+C' est une satire sociale Dont le personnage central
+J' ai des frissons je me sens faible
+
+
+<40>
+il se trouve que par hasard,
+En plus y' a des extraterrestres.
+
+
+<30>
+un super bon film
+Un chef-d’œuvre du 7ème art
+Que je voudrais revoir,
+que je suis souffrant
+
+
+<20>
+les aime bien
+super bon film
+du 7ème art
+je voudrais revoir
+le personnage central
+
+<10>
+On improvise
+bon film
+7ème art
+personnage central
+
+<0>
+personnage central
+
+<1000>
+une chipolata
+
+<2000>
+j' ai pas envie
+
+<5000>
+Et il se trouve que par hasard
+
+<10000>
+Dont le personnage central Est joué par De Funès,
+
+<20000>
+J' ai des frissons je me sens faible, Je crois que je suis souffrant,
+
+<END>

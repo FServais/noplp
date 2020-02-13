@@ -1,3 +1,4 @@
 *.pyc
 *.log
 backend/tools/noplp-venv
+ui/noplp-ui/node_modules/*
