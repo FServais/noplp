@@ -94,6 +94,13 @@ def song(artist, title, level):
 
     return jsonify({"id": challengeid, "title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics})
 
+@app.route("/admin/reinit")
+def reinit():
+    app.rounds = {}
+    app.challenges = {}
+    app.rounds = {}
+    app.current_round_id = None
+
 @app.route("/admin/challenge/<challengeid>", methods=["GET"])
 def get_challenge(challengeid):
     return jsonify(app.challenges[challengeid.upper()])
