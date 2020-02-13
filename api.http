@@ -1,4 +1,5 @@
-@host = localhost:3100
+# @host = localhost:3100
+@host = noplp.boardgamecomponion.com
 
 GET http://{{host}}
 
