@@ -1,24 +1,34 @@
 <template>
-    <div>
-      <h1>{{title}}</h1>
-      <h3>{{artist}}</h3>
+  <div>
+    <h1>{{title}}</h1>
+    <h3>{{artist}}</h3>
 
-      <div 
-        class="lyrics"
-        :class="{'missing': this.current_line == this.lyrics.length-1, 'validation': this.current_line == this.lyrics.length}"
-        >
-        {{currentLyric}}
-      </div>
+    <h3>{{missing_lyrics.split(' ').length}} mots à trouver</h3>
 
-      <br>
+    <h4>{{id}}</h4>
 
-      <div v-if="this.current_line < this.lyrics.length-1 && this.lyrics[this.current_line+1] === ''">
-        {{this.getLyricForLine(this.current_line+1)}}
-      </div>
-
+    <div 
+      class="lyrics"
+      :class="{'missing': this.current_line == this.lyrics.length-1, 'validation': this.current_line == this.lyrics.length}"
+      >
+      {{currentLyric}}
     </div>
-</template>
 
+    <br>
+
+    <div v-if="this.current_line < this.lyrics.length-1 && this.lyrics[this.current_line+1] === ''">
+      {{this.getLyricForLine(this.current_line+1)}}
+    </div>
+
+    <div class="footer">
+      <md-button class="md-raised" v-if="this.current_line == this.lyrics.length - 1" v-on:click="() => this.display_initials = true">Initiales</md-button>
+      <router-link :to="{name: 'round', params: {roundid: this.$route.query.round}}">
+        <md-button class="md-raised">Back</md-button>
+      </router-link>
+    </div>
+
+  </div>
+</template>
 
 <script>
 import NoPlpBackendApi from "@/utils/api/NoPlpBackendApi";
@@ -29,8 +39,10 @@ export default {
     return {
       artist: this.$route.params.artist,
       title: this.$route.params.title,
+      id: "",
       lyrics: [],
       missing_lyrics: "",
+      display_initials: false,
 
       current_line: 0,
     };
@@ -54,6 +66,7 @@ export default {
       console.log(rsp);
       this.lyrics = rsp.lyrics;
       this.missing_lyrics = rsp.missing_lyrics;
+      this.id = rsp.id;
     },
 
     keyDown(e) {
@@ -84,6 +97,10 @@ export default {
         return this.missing_lyrics;
       }
 
+      if (n == this.lyrics.length - 1 && this.display_initials) {
+        return this.displayInitials()
+      }
+
       let l = this.lyrics[n];
       
       if (l === "") {
@@ -91,6 +108,18 @@ export default {
       }
 
       return l;
+    },
+
+    displayInitials() {
+      let splittedLyrics = this.missing_lyrics.split(' ');
+
+      let clue = [];
+      for (let i = 0; i < splittedLyrics.length; i++) {
+        const word = splittedLyrics[i];
+        clue.push(word.charAt(0) + '_');
+      }
+      console.log(clue);
+      return clue.join(' ');
     }
   },
 

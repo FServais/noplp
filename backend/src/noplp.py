@@ -4,6 +4,7 @@ from catalog.catalog import Catalog
 import os
 import uuid
 from flask import Flask, request, Response, jsonify, send_from_directory
+from random import choice
 
 from lib.logger import get_logger
 
@@ -11,6 +12,7 @@ logger = get_logger(LOG_NAME='noplp')
 
 app = Flask(__name__)
 app.rounds = {}
+app.challenges = {}
 
 def add_cors_headers(response):
     response.headers['Access-Control-Allow-Origin'] = '*'
@@ -22,14 +24,37 @@ def add_cors_headers(response):
     return response
 app.after_request(add_cors_headers)
 
+def generate_small_id(n_char=4):
+    charset = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
+    return ''.join(choice(charset) for _ in range(n_char))
+
+def get_already_selected_categories(app):
+    categories = []
+    for _, v in app.rounds.items():
+        categories = categories + v["categories"]
+    return categories
+
 @app.route("/")
 def home():
     return "Hello, World!"
 
+@app.route("/test/categories")
+def test_categories():
+    index = app.catalog.category_index
+    return jsonify({"cat": list(index.keys())})
+
+@app.route("/test/unique/categories")
+def test_categories_unique():
+    index = app.catalog.category_index
+    return jsonify({"cat": { k : len(v) for k, v in index.items() if len(v) == 1}})
+
 @app.route("/round", methods=["PUT"])
 def new_round():
     app.current_round_id = uuid.uuid1().hex
-    categories = app.catalog.get_categories(5)
+
+    seen_categories = get_already_selected_categories(app)
+
+    categories = app.catalog.get_categories(5, seen_categories)
     app.rounds[app.current_round_id] = {
         "categories": categories
     }
@@ -59,7 +84,16 @@ def song(artist, title, level):
     
     lyrics, missing_lyrics = song.generate_song(level)
 
-    return jsonify({"title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics})
+    # Store the challenge
+    challengeid = generate_small_id()
+    app.challenges[challengeid] = {"title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics}
+
+    return jsonify({"id": challengeid, "title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics})
+
+@app.route("/admin/challenge/<challengeid>", methods=["GET"])
+def get_challenge(challengeid):
+    return jsonify(app.challenges[challengeid.upper()])
+
 
 if __name__ == "__main__":
     # Load lyrics
@@ -75,4 +109,4 @@ if __name__ == "__main__":
 
     # Start server
     logger.info("Starting server")
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0", port="3100")

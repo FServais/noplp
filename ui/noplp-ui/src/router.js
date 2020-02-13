@@ -20,7 +20,12 @@ const routes = [
     name: 'song',
     path: '/song/artist/:artist/title/:title/level/:level',
     component: require('./components/Song.vue').default,
-  }
+  },
+  {
+    name: 'adminsong',
+    path: '/admin/song/:challengeid',
+    component: require('./components/AdminSong.vue').default,
+  },
 ];
 
 const router = new VueRouter({

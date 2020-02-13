@@ -1,14 +1,18 @@
 <template>
     <div>
-      <h1>{{categoryName}}</h1>
+      <h1>{{decodeURIComponent(categoryName)}}</h1>
 
       <div class="song" v-for="song in songs" v-bind:key="song.title">
-        <router-link :to="{name: 'song', params: {artist: song.artist, title: song.title, level: $route.params.level}}">
+        <router-link :to="{name: 'song', params: {artist: song.artist, title: song.title, level: $route.params.level}, query: {round: $route.query.round}}">
           <h2>{{song.title}}</h2>
           
           <h4>{{song.artist}}</h4>
         </router-link>
       </div>
+
+      <router-link :to="{name: 'round', params: {roundid: this.$route.query.round}}">
+        <md-button class="md-raised">Back</md-button>
+      </router-link>
 
     </div>
 </template>
@@ -48,20 +52,11 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-
 .song {
   border: 1px black solid;
   width: 50%;
   margin: 0 auto;
-  margin-bottom: 50px;
+  margin-top: 50px;
 
 }
 </style>

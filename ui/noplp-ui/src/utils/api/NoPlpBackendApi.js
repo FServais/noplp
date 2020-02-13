@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ADDRESS = "http://localhost:5000"
+const ADDRESS = "http://localhost:3100";
 
 export default class NoPlpBackendApi {
     static getUrl() {
@@ -26,6 +26,12 @@ export default class NoPlpBackendApi {
 
     static async getSong(artist, title, level) {
         let {data} = await axios.get(NoPlpBackendApi.getUrl() + `/song/artist/${artist}/title/${title}/level/${level}`);
+
+        return data;
+    }
+
+    static async getAdminSong(challengeid) {
+        let {data} = await axios.get(NoPlpBackendApi.getUrl() + `/admin/challenge/${challengeid}`);
 
         return data;
     }

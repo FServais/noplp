@@ -48,13 +48,25 @@ class Catalog(object):
                 if row['Final'] == "MC":
                     self.same_song_index.append(song)
 
-    def get_categories(self, n):
+    def get_categories(self, n, seen_categories):
         categories = list(self.category_index.keys())
-        return list(map(lambda x: categories[x], random.sample(range(0, len(categories)), n)))
+        shuffle = random.sample(categories, len(categories))
+
+        cat_to_return = []
+        for c in shuffle:
+            if len(cat_to_return) == n:
+                break
+            if c in seen_categories:
+                continue
+            cat_to_return.append(c)
+
+        return cat_to_return
 
     def get_songs_from_category(self, category):
         n_songs = 2
         songs = self.category_index[category]
+        if n_songs > len(songs):
+            return songs
         return list(map(lambda x: songs[x], random.sample(range(0, len(songs)), n_songs)))
 
     def get_song(self, artist, title):

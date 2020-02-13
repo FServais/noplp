@@ -1,11 +1,14 @@
 <template>
     <div>
         <h1>Catégories</h1>
-        <div v-for="cat in categories_lvl" v-bind:key="cat.name">
-          <h4><router-link :to="{name: 'category', params: {category: cat.name, level: cat.level}}">{{cat.name}} ({{cat.level}})</router-link></h4>
+        <div class="categoriesgroup">
+          <div v-for="cat in categories_lvl" v-bind:key="cat.name">
+            <h4><router-link :to="{name: 'category', params: {category: encodeURIComponent(cat.name), level: cat.level}, query: {round: $route.params.roundid}}">{{cat.name}} ({{cat.level}})</router-link></h4>
+          </div>
         </div>
+        
         <div class="footer">
-          <button>New round</button>
+          <md-button class="md-raised" v-on:click="newRound">New round</md-button>
         </div>
     </div>
 </template>
@@ -30,6 +33,11 @@ export default {
     async getRound() {
       let rsp = await NoPlpBackendApi.getRound(this.$route.params.roundid);
       this.categories = rsp.round.categories;
+    },
+    async newRound() {
+      let rsp = await NoPlpBackendApi.newRound();
+      this.$router.push({name: "round", params: {roundid: rsp.round.id}});
+      this.getRound();
     }
   },
 
@@ -56,5 +64,10 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+.categoriesgroup {
+  margin-top: 80px;
+  font-size: 1.5em;
 }
 </style>
