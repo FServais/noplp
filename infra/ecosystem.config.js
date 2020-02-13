@@ -22,7 +22,7 @@ module.exports = {
             host : 'noplp.boardgamecomponion.com',
             ref  : 'master',
             repo : 'https://github.com/FServais/noplp.git',
-            path : '/home/ec2-user/BoardgameWE',
+            path : '/home/ec2-user/noplp',
             'post-deploy' : '\
             export CERTDOMAIN=noplp.boardgamecomponion.com && \
                 npm install && \
