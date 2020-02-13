@@ -100,6 +100,7 @@ def reinit():
     app.challenges = {}
     app.rounds = {}
     app.current_round_id = None
+    return jsonify({"status":"App reinitialized"})
 
 @app.route("/admin/challenge/<challengeid>", methods=["GET"])
 def get_challenge(challengeid):
