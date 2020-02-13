@@ -20,6 +20,6 @@ source "${VENV_PATH}/bin/activate"
 
 echo "> Installing requirements"
 which pip3
-pip3 install Flask
+pip3 install Flask gunicorn
 
 python3 "${SRCPATH}/noplp.py"

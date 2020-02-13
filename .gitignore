@@ -3,3 +3,4 @@
 backend/tools/noplp-venv
 ui/noplp-ui/node_modules/*
 .DS_Store
+ui/noplp-ui/dist/*

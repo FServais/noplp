@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ADDRESS = "http://localhost:3100";
+const ADDRESS = "http://noplp.boardgamecomponion.com";
 
 export default class NoPlpBackendApi {
     static getUrl() {
