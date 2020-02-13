@@ -24,7 +24,7 @@ module.exports = {
             repo : 'https://github.com/FServais/noplp.git',
             path : '/home/ec2-user/noplp',
             'post-deploy' : '\
-            export CERTDOMAIN=noplp.boardgamecomponion.com && \
+                cp /tmp/http.conf /etc/nginx/conf.d/http.conf && \
                 npm install && \
                 pm2 start npm -- run envstart && \
                 sudo nginx -s reload'
