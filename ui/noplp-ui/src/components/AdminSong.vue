@@ -11,7 +11,7 @@
 
       <div class="footer">
         <md-button class="md-raised" v-if="this.current_line == this.lyrics.length - 1" v-on:click="() => this.display_initials = true">Initiales</md-button>
-        <router-link :to="{name: 'round', params: {roundid: this.$route.query.round}}">
+        <router-link :to="{name: 'admin'}">
           <md-button class="md-raised">Retour</md-button>
         </router-link>
       </div>
