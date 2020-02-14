@@ -22,6 +22,11 @@ const routes = [
     component: require('./components/Song.vue').default,
   },
   {
+    name: 'admin',
+    path: '/admin',
+    component: require('./components/Admin.vue').default,
+  },
+  {
     name: 'adminsong',
     path: '/admin/song/:challengeid',
     component: require('./components/AdminSong.vue').default,

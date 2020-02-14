@@ -6,6 +6,15 @@
       <div v-html="fullLyrics" class="fulllyrics"></div>
       <br>
       <div class="missinglyric">{{missing_lyrics}}</div>
+
+      <br>
+
+      <div class="footer">
+        <md-button class="md-raised" v-if="this.current_line == this.lyrics.length - 1" v-on:click="() => this.display_initials = true">Initiales</md-button>
+        <router-link :to="{name: 'round', params: {roundid: this.$route.query.round}}">
+          <md-button class="md-raised">Back</md-button>
+        </router-link>
+      </div>
     </div>
 </template>
 
