@@ -9,7 +9,7 @@ from lib.logger import get_logger
 logger = get_logger(LOG_NAME='noplp')
 
 class NoPLPSong(object):
-    def __init__(self, title, artist, decade, basepath):
+    def __init__(self, title, artist, decade, basepath, tab):
         super(NoPLPSong, self).__init__()
 
         self.id = self.id = uuid.uuid1().hex
@@ -17,6 +17,7 @@ class NoPLPSong(object):
         self.artist = artist
         self.decade = decade
         self.basepath = basepath
+        self.tab = tab
 
         self.current_load_level = None
 

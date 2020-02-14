@@ -29,7 +29,7 @@ class Catalog(object):
             reader = csv.DictReader(csvfile, delimiter=';', quoting=csv.QUOTE_NONE)
             for row in reader:
                 logger.debug(dict(row))
-                song = NoPLPSong(row['Title'], row['Artist'], row['Decade'], self.SONG_PATH)
+                song = NoPLPSong(row['Title'], row['Artist'], row['Decade'], self.SONG_PATH, row.get('Tab', None))
 
                 if song.get_artist() not in self.artists_index:
                     self.artists_index[song.get_artist()] = []

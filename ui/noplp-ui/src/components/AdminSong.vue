@@ -2,12 +2,19 @@
     <div>
       <h1>{{title}} - {{artist}}</h1>
 
-      <!-- {{fullLyrics}} -->
-      <div v-html="fullLyrics" class="fulllyrics"></div>
-      <br>
-      <div class="missinglyric">{{missing_lyrics}}</div>
+      <div class="md-layout">
+        <div class="md-layout-item md-size-99">
+          <div v-html="fullLyrics" class="fulllyrics"></div>
+            <br>
+          <div class="missinglyric">{{missing_lyrics}}</div>
+        </div>
 
-      <br>
+        <div class="md-layout-item md-size-99" v-if="tab">
+          <iframe :src="tab" frameborder="0" style="height: 100%; width: 100%"></iframe>
+        </div>
+      </div>
+      <!-- {{fullLyrics}} -->
+      
 
       <div class="footer">
         <md-button class="md-raised" v-if="this.current_line == this.lyrics.length - 1" v-on:click="() => this.display_initials = true">Initiales</md-button>
@@ -30,7 +37,8 @@ export default {
       title: "",
       artist: "",
       lyrics: [],
-      missing_lyrics: ""
+      missing_lyrics: "",
+      tab: ""
     };
   },
 
@@ -50,6 +58,7 @@ export default {
       this.artist = rsp.artist;
       this.lyrics = rsp.lyrics;
       this.missing_lyrics = rsp.missing_lyrics;
+      this.tab = rsp.tab;
     }
   },
 
@@ -69,5 +78,8 @@ export default {
 .missinglyric {
   font-size: 1.2em;
   color: forestgreen;
+}
+.md-layout-item iframe .tabframe {
+  height: 600px;
 }
 </style>

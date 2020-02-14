@@ -2,6 +2,7 @@
 
 from catalog.catalog import Catalog
 import os
+import json
 import uuid
 from flask import Flask, request, Response, jsonify, send_from_directory
 from random import choice
@@ -14,6 +15,7 @@ app = Flask(__name__)
 app.rounds = {}
 app.challenges = {}
 datapath = os.path.join("/home/ec2-user/noplp/backend/data")
+# datapath = os.path.join(os.getcwd(), "data")
 app.catalog = Catalog(os.path.join(datapath, "list.csv"))
 app.rounds = {}
 app.current_round_id = None
@@ -90,7 +92,7 @@ def song(artist, title, level):
 
     # Store the challenge
     challengeid = generate_small_id()
-    app.challenges[challengeid] = {"title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics}
+    app.challenges[challengeid] = {"title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics, "tab": song.tab}
 
     return jsonify({"id": challengeid, "title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics})
 
