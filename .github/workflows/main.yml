@@ -20,7 +20,7 @@ jobs:
     - name: npm install
       working-directory: ./ui/noplp-ui
       run: |
-        npm run install
+        npm install
     - name: npm build
       working-directory: ./ui/noplp-ui
       run: |
