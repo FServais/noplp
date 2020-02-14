@@ -64,6 +64,7 @@ export default {
 <style>
 .fulllyrics {
   font-size: 1.2em;
+  line-height: 1.9;
 }
 .missinglyric {
   font-size: 1.2em;
