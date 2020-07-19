@@ -9,9 +9,9 @@
           <div class="missinglyric">{{missing_lyrics}}</div>
         </div>
 
-        <div class="md-layout-item md-size-99" v-if="tab">
+        <!-- <div class="md-layout-item md-size-99" v-if="tab">
           <iframe :src="tab" frameborder="0" style="height: 100%; width: 100%"></iframe>
-        </div>
+        </div> -->
       </div>
       <!-- {{fullLyrics}} -->
       
