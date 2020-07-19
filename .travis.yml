@@ -14,7 +14,7 @@ env:
 - CI=false
 
 before_deploy:
-- cd ..
+- cd ../..
 - pwd && ls -al . && ls -al ui/noplp-ui
 
 deploy:
