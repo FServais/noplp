@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import argparse
 
 from catalog.catalog import Catalog
 import os
@@ -12,13 +13,6 @@ from lib.logger import get_logger
 logger = get_logger(LOG_NAME='noplp')
 
 app = Flask(__name__)
-app.rounds = {}
-app.challenges = {}
-datapath = os.path.join("/home/ec2-user/noplp/backend/data")
-# datapath = os.path.join(os.getcwd(), "data")
-app.catalog = Catalog(os.path.join(datapath, "list.csv"))
-app.rounds = {}
-app.current_round_id = None
 
 def add_cors_headers(response):
     response.headers['Access-Control-Allow-Origin'] = '*'
@@ -109,17 +103,28 @@ def get_challenge(challengeid):
     return jsonify(app.challenges[challengeid.upper()])
 
 
+def parse_arguments():
+    parser = argparse.ArgumentParser(description='NOPLP')
+    parser.add_argument('--datapath', type=str, help="Data path", default='/home/ec2-user/noplp/backend/data')
+    return parser.parse_args()
+
 if __name__ == "__main__":
     # Load lyrics
     logger.info("Loading the lyrics")
 
     # datapath = os.path.join(os.getcwd(), "data")
-    datapath = os.path.join("/home/ec2-user/noplp/backend/data")
+    # datapath = os.path.join("/home/ec2-user/noplp/backend/data")
+
+    args = parse_arguments()
+
+    datapath = args.datapath
+
     logger.info(datapath)
     app.catalog = Catalog(os.path.join(datapath, "list.csv"))
     app.rounds = {}
     app.current_round_id = None
-    
+    app.challenges = {}
+
     # logger.info(catalog.artists_index["Tété"][0].generate_song("50"))
 
     # Start server
