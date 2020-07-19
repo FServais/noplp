@@ -22,4 +22,4 @@ echo "> Installing requirements"
 which pip3
 pip3 install Flask gunicorn
 
-python3 "${SRCPATH}/noplp.py"
+python3 "${SRCPATH}/noplp.py" --datapath /home/ec2-user/noplp/backend/data
