@@ -129,4 +129,4 @@ if __name__ == "__main__":
 
     # Start server
     logger.info("Starting server")
-    app.run(debug=True, host="0.0.0.0", port="3100")
+    app.run(debug=True, host="0.0.0.0", port="80")
