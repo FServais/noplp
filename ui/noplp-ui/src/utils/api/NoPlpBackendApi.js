@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ADDRESS = "http://noplp.boardgamecomponion.com";
+const ADDRESS = "http://noplp-api.boardgamecomponion.com:3100";
 
 export default class NoPlpBackendApi {
     static getUrl() {
@@ -8,30 +8,30 @@ export default class NoPlpBackendApi {
     }
 
     static async newRound() {
-        let {data} = await axios.put(NoPlpBackendApi.getUrl() + "/round");
+        let { data } = await axios.put(NoPlpBackendApi.getUrl() + "/round");
 
         return data;
     }
 
     static async getRound(roundid) {
-        let {data} = await axios.get(NoPlpBackendApi.getUrl() + `/round/${roundid}`);
+        let { data } = await axios.get(NoPlpBackendApi.getUrl() + `/round/${roundid}`);
         return data;
     }
 
     static async getSongsFromCategory(category) {
-        let {data} = await axios.get(NoPlpBackendApi.getUrl() + `/category/${category}/songs`);
+        let { data } = await axios.get(NoPlpBackendApi.getUrl() + `/category/${category}/songs`);
 
         return data;
     }
 
     static async getSong(artist, title, level) {
-        let {data} = await axios.get(NoPlpBackendApi.getUrl() + `/song/artist/${artist}/title/${title}/level/${level}`);
+        let { data } = await axios.get(NoPlpBackendApi.getUrl() + `/song/artist/${artist}/title/${title}/level/${level}`);
 
         return data;
     }
 
     static async getAdminSong(challengeid) {
-        let {data} = await axios.get(NoPlpBackendApi.getUrl() + `/admin/challenge/${challengeid}`);
+        let { data } = await axios.get(NoPlpBackendApi.getUrl() + `/admin/challenge/${challengeid}`);
 
         return data;
     }
@@ -43,7 +43,7 @@ export default class NoPlpBackendApi {
     //         app: appid
     //     };
     //     let {data} = await axios.post(AppBackendApi.getUrl() + "/downloadFromLink.json", payload, {headers: { 'Content-Type': 'application/json', 'DevCookie': appCookies.token, 'APIC-challenge': appCookies.urlToken }});
-        
+
     //     return data; 
     // }
 
