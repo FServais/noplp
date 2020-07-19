@@ -318,10 +318,6 @@ Resources:
             - |
               sudo pip install virtualenv 
             - |
-              sudo amazon-linux-extras install -y nginx1.12
-            - |
-              sudo nginx
-            - |
               cd /tmp
             - |
               sudo curl -O http://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
