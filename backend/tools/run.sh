@@ -33,7 +33,7 @@ if [[ $1 -eq "local" ]]; then
     BASE_PATH="/Users/fservais/Projects/personal/noplp"
     PORT="5000"
 else
-    BASE_PATH="/home/ec2-user"
+    BASE_PATH="/root/noplp"
     PORT="80"
 fi
 
