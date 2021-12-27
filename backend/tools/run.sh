@@ -27,7 +27,7 @@ source "${VENV_PATH}/bin/activate"
 
 echo "> Installing requirements"
 which pip3
-pip3 install Flask gunicorn
+pip3 install Flask gunicorn requests
 
 if [[ $1 -eq "local" ]]; then
     BASE_PATH="/Users/fservais/Projects/personal/noplp"
