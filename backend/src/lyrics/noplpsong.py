@@ -82,7 +82,11 @@ class NoPLPSong(object):
         for i in range(len(self.lines)):
             line = self.lines[i]
             if missing_lyrics in line:
-                s = line.split(missing_lyrics)
+                try:
+                    s = line.split(missing_lyrics)
+                except ValueError as e:
+                    logger.debug(f"Faulty line: {missing_lyrics}")
+                    raise e
                 lines_to_return.append(s[0])
                 lines_to_return.append(mask_line(missing_lyrics))
 

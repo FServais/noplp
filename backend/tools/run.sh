@@ -1,3 +1,10 @@
+#!/bin/bash
+
+if [ "$#" -ne 1 ]; then
+    echo "Illegal number of parameters"
+    echo "USAGE $0 <ENV (local or prod)>"
+    exit 1
+fi
 
 TOOLSPATH="$( cd "$(dirname "$0")" ; pwd -P )"
 SRCPATH="$TOOLSPATH/../src"
@@ -22,4 +29,14 @@ echo "> Installing requirements"
 which pip3
 pip3 install Flask gunicorn
 
-python3 "${SRCPATH}/noplp.py" --datapath /home/ec2-user/noplp/backend/data
+if [[ $1 -eq "local" ]]; then
+    BASE_PATH="/Users/fservais/Projects/personal/noplp"
+    PORT="5000"
+else
+    BASE_PATH="/home/ec2-user"
+    PORT="80"
+fi
+
+echo "Base path: $BASE_PATH"
+
+python3 "${SRCPATH}/noplp.py" --datapath "$BASE_PATH/backend/data" --port "$PORT" --client_id=57832e0043e241839c8fb136b1689e0f --client_secret=91f25bceb8204bdcac15a3099499ab8d

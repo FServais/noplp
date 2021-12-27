@@ -9,6 +9,7 @@ from flask import Flask, request, Response, jsonify, send_from_directory
 from random import choice
 
 from lib.logger import get_logger
+from driver import spotify
 
 logger = get_logger(LOG_NAME='noplp')
 
@@ -90,6 +91,13 @@ def song(artist, title, level):
 
     return jsonify({"id": challengeid, "title": song.title, "artist": song.get_artist(), "lyrics": lyrics, "missing_lyrics": missing_lyrics})
 
+@app.route("/spotify/search", methods=["GET"])
+def spotity_search():
+    track = request.args.get('track')
+    artist = request.args.get('artist')
+    spotify_rsp = app.driver.search(track, artist)
+    return spotify_rsp
+
 @app.route("/admin/reinit")
 def reinit():
     app.rounds = {}
@@ -106,6 +114,9 @@ def get_challenge(challengeid):
 def parse_arguments():
     parser = argparse.ArgumentParser(description='NOPLP')
     parser.add_argument('--datapath', type=str, help="Data path", default='/home/ec2-user/noplp/backend/data')
+    parser.add_argument('--port', type=str, help="Port", default="80")
+    parser.add_argument('--client_id', type=str, help="Spotify Client ID", default="ID")
+    parser.add_argument('--client_secret', type=str, help="Spotify Client Secret", default="secret")
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -124,9 +135,10 @@ if __name__ == "__main__":
     app.rounds = {}
     app.current_round_id = None
     app.challenges = {}
+    app.driver = spotify.SpotifyDriver(args.client_id, args.client_secret)
 
     # logger.info(catalog.artists_index["Tété"][0].generate_song("50"))
 
     # Start server
     logger.info("Starting server")
-    app.run(debug=True, host="0.0.0.0", port="80")
+    app.run(debug=True, host="0.0.0.0", port=args.port)
