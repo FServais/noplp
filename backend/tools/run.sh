@@ -38,7 +38,7 @@ if [[ $1 == "local" ]]; then
 else
     echo "Running prod"
     BASE_PATH="/root/noplp"
-    PORT="80"
+    PORT="443"
 fi
 
 echo "Base path: $BASE_PATH"
