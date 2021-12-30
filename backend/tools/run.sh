@@ -29,10 +29,14 @@ echo "> Installing requirements"
 which pip3
 pip3 install Flask gunicorn requests
 
-if [[ $1 -eq "local" ]]; then
+echo "Arg: $1"
+
+if [[ $1 == "local" ]]; then
+    echo "Running local"
     BASE_PATH="/Users/fservais/Projects/personal/noplp"
     PORT="5000"
 else
+    echo "Running prod"
     BASE_PATH="/root/noplp"
     PORT="80"
 fi
