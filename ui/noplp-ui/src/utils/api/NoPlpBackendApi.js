@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const ADDRESS = "http://noplp-api.boardgamecomponion.com";
+// const ADDRESS = "http://noplp-api.boardgamecomponion.com";
+const ADDRESS = "http://localhost:5000";
 
 export default class NoPlpBackendApi {
     static getUrl() {
@@ -32,6 +33,16 @@ export default class NoPlpBackendApi {
 
     static async getAdminSong(challengeid) {
         let { data } = await axios.get(NoPlpBackendApi.getUrl() + `/admin/challenge/${challengeid}`);
+
+        return data;
+    }
+
+    static async search(artist, title) {
+        const params = new URLSearchParams();
+        params.append('artist', artist);
+        params.append('track', title);
+
+        let { data } = await axios.get(NoPlpBackendApi.getUrl() + `/spotify/search`, { params: params });
 
         return data;
     }

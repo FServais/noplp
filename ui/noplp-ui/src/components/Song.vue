@@ -7,7 +7,7 @@
 
     <h4>{{id}}</h4>
 
-    <div 
+    <div
       class="lyrics"
       :class="{'missing': this.current_line == this.lyrics.length-1, 'validation': this.current_line == this.lyrics.length}"
       >
@@ -19,6 +19,12 @@
     <div v-if="this.current_line < this.lyrics.length-1 && this.lyrics[this.current_line+1] === ''">
       {{this.getLyricForLine(this.current_line+1)}}
     </div>
+
+    <div v-if="this.spotify_id !== ''">
+      {{this.getLyricForLine(this.current_line+1)}}
+    </div>
+
+    <iframe :src="this.spotifyURL" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
     <div class="footer">
       <md-button class="md-raised" v-if="this.current_line == this.lyrics.length - 1" v-on:click="() => this.display_initials = true">Initiales</md-button>
@@ -43,17 +49,18 @@ export default {
       lyrics: [],
       missing_lyrics: "",
       display_initials: false,
+      spotify_id: "",
 
       current_line: 0,
     };
   },
 
   props: {
-    
   },
 
   async created() {
     this.getSong();
+    this.loadSpotify();
   },
 
   mounted() {
@@ -67,6 +74,12 @@ export default {
       this.lyrics = rsp.lyrics;
       this.missing_lyrics = rsp.missing_lyrics;
       this.id = rsp.id;
+    },
+
+    async loadSpotify() {
+      let rsp = await NoPlpBackendApi.search(this.$route.params.artist, this.$route.params.title);
+      console.log(rsp);
+      this.spotify_id = rsp.id;
     },
 
     keyDown(e) {
@@ -126,6 +139,9 @@ export default {
   computed: {
     currentLyric() {      
       return this.getLyricForLine(this.current_line);
+    },
+    spotifyURL() {
+      return "https://open.spotify.com/embed/track/" + this.spotify_id + "?utm_source=generator"
     }
   },
 }
