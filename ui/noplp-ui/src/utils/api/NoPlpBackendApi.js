@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ADDRESS = "http://noplp-api.servais-devos.com";
+const ADDRESS = "https://noplp-api.servais-devos.com";
 // const ADDRESS = "http://localhost:5000";
 
 export default class NoPlpBackendApi {
