@@ -27,7 +27,7 @@ source "${VENV_PATH}/bin/activate"
 
 echo "> Installing requirements"
 which pip3
-pip3 install Flask gunicorn requests
+pip3 install Flask gunicorn requests pyopenssl
 
 echo "Arg: $1"
 

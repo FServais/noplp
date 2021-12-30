@@ -141,4 +141,4 @@ if __name__ == "__main__":
 
     # Start server
     logger.info("Starting server")
-    app.run(debug=True, host="0.0.0.0", port=args.port)
+    app.run(debug=True, host="0.0.0.0", port=args.port, ssl_context='adhoc')
